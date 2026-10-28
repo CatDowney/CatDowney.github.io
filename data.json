@@ -1,8 +1,8 @@
 {
- "title": "Cats Health and Beauty · daily X skincare digest - 2026-10-27",
- "date": "2026-10-27",
+ "title": "Cats Health and Beauty · daily X skincare digest - 2026-10-28",
+ "date": "2026-10-28",
  "timezone": "America/Vancouver",
- "updated": "2026-10-27T22:10:00Z",
+ "updated": "2026-10-28T18:02:31Z",
  "brand_title": "Cats Health and Beauty · X Skincare Board",
  "brand_handle": "@cat1cato",
  "virals_title": "Outsiders · last 48h",
@@ -18,12 +18,12 @@
   },
   {
    "handle": "@DiscoverSelf",
-   "reason": "13 original posts in the last 7 days; none reached 5,000 views; highest observed was 46 views.",
-   "max_views": 46
+   "reason": "11 original posts in the last 7 days; none reached 5,000 views; highest observed was 60 views.",
+   "max_views": 60
   },
   {
    "handle": "@cerave",
-   "reason": "No original posts in the last 7 days (1 quote post, 801 views, excluded as non-original).",
+   "reason": "No original posts returned by X in the last 7 days.",
    "max_views": 0
   },
   {
@@ -59,18 +59,18 @@
  "hits_count": 0,
  "outsiders_count": 0,
  "watch_window": {
-  "start": "2026-10-20T22:00:00Z",
-  "end": "2026-10-27T22:00:00Z",
-  "source": "X API search + user timelines, originals only"
+  "start": "2026-10-21T18:00:00Z",
+  "end": "2026-10-28T18:02:31Z",
+  "source": "X API user timelines + search, originals only"
  },
  "watchlist_posts_7d": [
   {
    "handle": "@DiscoverSelf",
    "name": "Celebrate Woman",
-   "views": 46,
-   "url": "https://x.com/DiscoverSelf/status/2112807598592500025",
-   "posted_at": "2026-10-21T07:26:00.000Z",
-   "text": "October is Breast Cancer Awareness Month. The American Cancer Society says women 45 to 54 should get a mammogram every year. Talk with your care team about your schedule. #BreastCancerAwareness https://t.co/6Sp3SGxtCi https://t.co/AvI3NBsAFW"
+   "views": 60,
+   "url": "https://x.com/DiscoverSelf/status/2115394394237125104",
+   "posted_at": "2026-10-28T10:45:00.000Z",
+   "text": "One box, four holiday scents, four small presents. A shea butter #soap #gift set is an easy win for hostesses, teachers, and neighbors. #giftideas #giftsforher #holidayseason https://t.co/ktZ09wjwsI https://t.co/6IQgfcQcW2"
   },
   {
    "handle": "@DiscoverSelf",
@@ -83,10 +83,10 @@
   {
    "handle": "@DiscoverSelf",
    "name": "Celebrate Woman",
-   "views": 43,
-   "url": "https://x.com/DiscoverSelf/status/2112730133190615310",
-   "posted_at": "2026-10-21T02:18:11.000Z",
-   "text": "Your skin is not betraying you. If it suddenly stings, tightens, or flushes, it may be asking for fewer products, not more. Here is a gentle skincare reset for menopause skin. #MenopauseSkin #SkinCare https://t.co/6Sp3SGwVMK https://t.co/wOK49IWZSB"
+   "views": 35,
+   "url": "https://x.com/DiscoverSelf/status/2114087532292186333",
+   "posted_at": "2026-10-24T20:12:00.000Z",
+   "text": "Not every active belongs in every season. When menopause skin feels sensitive, pause exfoliating #acids first, then bring them back one at a time. #MenopauseSkin #SkinCare #skin https://t.co/6Sp3SGxtCi https://t.co/D1jKwCyJPC"
   },
   {
    "handle": "@DiscoverSelf",
@@ -95,22 +95,6 @@
    "url": "https://x.com/DiscoverSelf/status/2114024618595860890",
    "posted_at": "2026-10-24T16:02:00.000Z",
    "text": "Barrier first, always. A calm, hydrated barrier is the base every other step builds on, especially when menopause #skin runs dry. #SkinBarrier #Menopause https://t.co/g2ztRGFz2q https://t.co/klmLCpbd3c"
-  },
-  {
-   "handle": "@DiscoverSelf",
-   "name": "Celebrate Woman",
-   "views": 35,
-   "url": "https://x.com/DiscoverSelf/status/2112900460797436324",
-   "posted_at": "2026-10-21T13:35:00.000Z",
-   "text": "Does your skin feel thinner and more fragile than it used to? Falling estrogen is linked to lower collagen and thinner skin. Here is how to support #skin density in menopause. #MenopauseSkin #SkinCare https://t.co/g2ztRGFz2q https://t.co/MvSQWehfWJ"
-  },
-  {
-   "handle": "@DiscoverSelf",
-   "name": "Celebrate Woman",
-   "views": 33,
-   "url": "https://x.com/DiscoverSelf/status/2114087532292186333",
-   "posted_at": "2026-10-24T20:12:00.000Z",
-   "text": "Not every active belongs in every season. When menopause skin feels sensitive, pause exfoliating #acids first, then bring them back one at a time. #MenopauseSkin #SkinCare #skin https://t.co/6Sp3SGxtCi https://t.co/D1jKwCyJPC"
   },
   {
    "handle": "@DiscoverSelf",
@@ -124,17 +108,33 @@
    "handle": "@DiscoverSelf",
    "name": "Celebrate Woman",
    "views": 27,
-   "url": "https://x.com/DiscoverSelf/status/2112866235176128571",
-   "posted_at": "2026-10-21T11:19:00.000Z",
-   "text": "Pause. Restore. Reintroduce. Three gentle phases for sensitive menopause skin, with no set number of days. Your skin leads, and you move on when it feels ready. #MenopauseSkin https://t.co/6Sp3SGwVMK https://t.co/rTcTlr45kF"
+   "url": "https://x.com/DiscoverSelf/status/2114333150960640093",
+   "posted_at": "2026-10-25T12:28:00.000Z",
+   "text": "Cleanse gently. Hydrate on damp skin. Seal with a cream. See a gentle #skin care routine I share for a beautiful skincare reset in menopause. #MenopauseSkin #SkinCare https://t.co/6Sp3SGwVMK https://t.co/dOtXoC0MMT"
   },
   {
    "handle": "@DiscoverSelf",
    "name": "Celebrate Woman",
    "views": 26,
-   "url": "https://x.com/DiscoverSelf/status/2114333150960640093",
-   "posted_at": "2026-10-25T12:28:00.000Z",
-   "text": "Cleanse gently. Hydrate on damp skin. Seal with a cream. See a gentle #skin care routine I share for a beautiful skincare reset in menopause. #MenopauseSkin #SkinCare https://t.co/6Sp3SGwVMK https://t.co/dOtXoC0MMT"
+   "url": "https://x.com/DiscoverSelf/status/2115257336776343595",
+   "posted_at": "2026-10-28T01:40:23.000Z",
+   "text": "The gift for the woman who says she needs nothing: a gentle electric #toothbrush with ultra-soft bristles and a pressure sensor. #Menopause can bring gum sensitivity and a dry mouth, so gentle matters. #gifts #giftforher #holidayseason #giftideas https://t.co/7GWrdVwmah https://t.co/pfCvsjnpLz"
+  },
+  {
+   "handle": "@DiscoverSelf",
+   "name": "Celebrate Woman",
+   "views": 26,
+   "url": "https://x.com/DiscoverSelf/status/2115058178111209973",
+   "posted_at": "2026-10-27T12:29:00.000Z",
+   "text": "Ready to support your skin from the inside out? Get my free REGENERATE guide and start with one small step today. #MenopauseSkin #Menopause https://t.co/5HMAZlk9uj https://t.co/MjSejJ7fJW"
+  },
+  {
+   "handle": "@DiscoverSelf",
+   "name": "Celebrate Woman",
+   "views": 26,
+   "url": "https://x.com/DiscoverSelf/status/2114668107893768452",
+   "posted_at": "2026-10-26T10:39:00.000Z",
+   "text": "Gentle Vitamin A at night can fit a skin density routine once your barrier feels calm. Start slowly, and pause if your skin stings. #MenopauseSkin #SkinCare https://t.co/g2ztRGG6RY https://t.co/FbrUrdy6qf"
   },
   {
    "handle": "@DiscoverSelf",
@@ -147,47 +147,31 @@
   {
    "handle": "@DiscoverSelf",
    "name": "Celebrate Woman",
-   "views": 24,
-   "url": "https://x.com/DiscoverSelf/status/2114668107893768452",
-   "posted_at": "2026-10-26T10:39:00.000Z",
-   "text": "Gentle Vitamin A at night can fit a skin density routine once your barrier feels calm. Start slowly, and pause if your skin stings. #MenopauseSkin #SkinCare https://t.co/g2ztRGG6RY https://t.co/FbrUrdy6qf"
-  },
-  {
-   "handle": "@DiscoverSelf",
-   "name": "Celebrate Woman",
    "views": 23,
    "url": "https://x.com/DiscoverSelf/status/2113289272392647168",
    "posted_at": "2026-10-22T15:20:00.000Z",
    "text": "A 2025 study found postmenopausal participants reported significantly more skin itchiness. Dry, reactive skin in menopause is real, and it is not your fault. #Menopause #SkinHealth https://t.co/6Sp3SGxtCi https://t.co/t02WlTQLQG"
-  },
-  {
-   "handle": "@DiscoverSelf",
-   "name": "Celebrate Woman",
-   "views": 18,
-   "url": "https://x.com/DiscoverSelf/status/2115058178111209973",
-   "posted_at": "2026-10-27T12:29:00.000Z",
-   "text": "Ready to support your skin from the inside out? Get my free REGENERATE guide and start with one small step today. #MenopauseSkin #Menopause https://t.co/5HMAZlk9uj https://t.co/MjSejJ7fJW"
   }
  ],
  "drafts_today": [
   {
-   "text": "Cold nights and a stressed skin barrier? Try fewer products, not more. Cleanse gently, hydrate on damp skin, seal with a cream. That is the whole winter reset. 🌿 #SkinBarrier #WinterSkin",
+   "text": "Shopping for the woman who says she needs nothing? Give her skin a calm winter: a gentle cleanser, a hydrating serum, a rich cream. Three steps, no stinging actives, wrapped in one box. 🎁 #giftideas #SkinBarrier",
    "keywords": [
+    "three-step routine",
     "skin barrier",
-    "winter dryness",
-    "fewer products",
-    "three-step routine"
+    "fewer products"
    ]
   },
   {
-   "text": "Over 45 and your skin suddenly stings, tightens or flushes? It is not betraying you. Pause the acids, calm the barrier, then bring actives back one at a time. #MenopauseSkin #SkinCare",
+   "text": "Menopause skin and holiday gifts have one thing in common: gentle wins. Skip the 10-piece kit with strong acids. Pick fewer products that soothe a dry, reactive barrier. #MenopauseSkin #holidayseason",
    "keywords": [
     "menopause skin",
+    "fewer products",
     "skin barrier"
    ]
   },
   {
-   "text": "Hot water feels amazing on a chilly Sechelt morning, but your skin barrier disagrees. Warm, not hot, and moisturize within a minute while skin is still damp. Small habit, big difference. #WinterSkin #SkinBarrier",
+   "text": "Sechelt mornings are getting cold, and so is the air indoors with the heat on. If your face feels tight by noon, that's winter dryness. Moisturize on damp skin and keep one cream by the sink. #WinterSkin #SkinCare",
    "keywords": [
     "winter dryness",
     "skin barrier"
@@ -225,15 +209,14 @@
     "title": "Today's draft 1",
     "format": "text",
     "source": "operator draft",
-    "topic": "skin barrier",
-    "hook_en": "Cold nights and a stressed skin barrier? Try fewer products, not more. Cleanse gently, hydrate on damp skin, seal with a cream. That is the whole winter reset. 🌿 #SkinBarrier #WinterSkin",
+    "topic": "three-step routine",
+    "hook_en": "Shopping for the woman who says she needs nothing? Give her skin a calm winter: a gentle cleanser, a hydrating serum, a rich cream. Three steps, no stinging actives, wrapped in one box. 🎁 #giftideas #SkinBarrier",
     "angle": "Cats Health and Beauty draft for @cat1cato (not posted)",
     "why": "Operator-written draft; no metrics yet.",
     "keywords": [
+     "three-step routine",
      "skin barrier",
-     "winter dryness",
-     "fewer products",
-     "three-step routine"
+     "fewer products"
     ]
    },
    {
@@ -241,11 +224,12 @@
     "format": "text",
     "source": "operator draft",
     "topic": "menopause skin",
-    "hook_en": "Over 45 and your skin suddenly stings, tightens or flushes? It is not betraying you. Pause the acids, calm the barrier, then bring actives back one at a time. #MenopauseSkin #SkinCare",
+    "hook_en": "Menopause skin and holiday gifts have one thing in common: gentle wins. Skip the 10-piece kit with strong acids. Pick fewer products that soothe a dry, reactive barrier. #MenopauseSkin #holidayseason",
     "angle": "Cats Health and Beauty draft for @cat1cato (not posted)",
     "why": "Operator-written draft; no metrics yet.",
     "keywords": [
      "menopause skin",
+     "fewer products",
      "skin barrier"
     ]
    },
@@ -254,7 +238,7 @@
     "format": "text",
     "source": "operator draft",
     "topic": "winter dryness",
-    "hook_en": "Hot water feels amazing on a chilly Sechelt morning, but your skin barrier disagrees. Warm, not hot, and moisturize within a minute while skin is still damp. Small habit, big difference. #WinterSkin #SkinBarrier",
+    "hook_en": "Sechelt mornings are getting cold, and so is the air indoors with the heat on. If your face feels tight by noon, that's winter dryness. Moisturize on damp skin and keep one cream by the sink. #WinterSkin #SkinCare",
     "angle": "Cats Health and Beauty draft for @cat1cato (not posted)",
     "why": "Operator-written draft; no metrics yet.",
     "keywords": [
@@ -283,8 +267,8 @@
   {
    "handle": "@DiscoverSelf",
    "name": "Celebrate Woman",
-   "views": 46,
-   "total_views": 411,
+   "views": 60,
+   "total_views": 359,
    "hit": false
   },
   {
