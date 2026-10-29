@@ -1,345 +1,336 @@
 {
- "title": "Cats Health and Beauty · daily X skincare digest - 2026-10-28",
- "date": "2026-10-28",
- "timezone": "America/Vancouver",
- "updated": "2026-10-28T18:02:31Z",
- "brand_title": "Cats Health and Beauty · X Skincare Board",
- "brand_handle": "@cat1cato",
- "virals_title": "Outsiders · last 48h",
- "hits": [],
- "virals": [],
- "outsiders": [],
- "patterns": [],
- "no_hits": [
-  {
-   "handle": "@skincarebyhyram",
-   "reason": "No original posts returned by X in the last 7 days.",
-   "max_views": 0
-  },
-  {
-   "handle": "@DiscoverSelf",
-   "reason": "11 original posts in the last 7 days; none reached 5,000 views; highest observed was 60 views.",
-   "max_views": 60
-  },
-  {
-   "handle": "@cerave",
-   "reason": "No original posts returned by X in the last 7 days.",
-   "max_views": 0
-  },
-  {
-   "handle": "@LabMuffin",
-   "reason": "No original posts returned by X in the last 7 days.",
-   "max_views": 0
-  },
-  {
-   "handle": "@GlowRecipe",
-   "reason": "No original posts returned by X in the last 7 days.",
-   "max_views": 0
-  },
-  {
-   "handle": "@PaulasChoice",
-   "reason": "No original posts returned by X in the last 7 days.",
-   "max_views": 0
-  },
-  {
-   "handle": "@sokoglam",
-   "reason": "No original posts returned by X in the last 7 days.",
-   "max_views": 0
-  },
-  {
-   "handle": "@drdrayzday",
-   "reason": "No original posts returned by X in the last 7 days.",
-   "max_views": 0
-  }
- ],
- "virals_narrative": "",
- "narrative_synthesis": "",
- "virals_window": "last ~48h",
- "virals_target": 0,
- "hits_count": 0,
- "outsiders_count": 0,
- "watch_window": {
-  "start": "2026-10-21T18:00:00Z",
-  "end": "2026-10-28T18:02:31Z",
-  "source": "X API user timelines + search, originals only"
- },
- "watchlist_posts_7d": [
-  {
-   "handle": "@DiscoverSelf",
-   "name": "Celebrate Woman",
-   "views": 60,
-   "url": "https://x.com/DiscoverSelf/status/2115394394237125104",
-   "posted_at": "2026-10-28T10:45:00.000Z",
-   "text": "One box, four holiday scents, four small presents. A shea butter #soap #gift set is an easy win for hostesses, teachers, and neighbors. #giftideas #giftsforher #holidayseason https://t.co/ktZ09wjwsI https://t.co/6IQgfcQcW2"
-  },
-  {
-   "handle": "@DiscoverSelf",
-   "name": "Celebrate Woman",
-   "views": 43,
-   "url": "https://x.com/DiscoverSelf/status/2113358981590876558",
-   "posted_at": "2026-10-22T19:57:00.000Z",
-   "text": "October note: know how your skin and breasts normally look and feel, and tell your care team about changes. The American Cancer Society lists skin changes as one thing to watch for. #BreastCancerAwareness https://t.co/g2ztRGG6RY https://t.co/bh8HM4S2tj"
-  },
-  {
-   "handle": "@DiscoverSelf",
-   "name": "Celebrate Woman",
-   "views": 35,
-   "url": "https://x.com/DiscoverSelf/status/2114087532292186333",
-   "posted_at": "2026-10-24T20:12:00.000Z",
-   "text": "Not every active belongs in every season. When menopause skin feels sensitive, pause exfoliating #acids first, then bring them back one at a time. #MenopauseSkin #SkinCare #skin https://t.co/6Sp3SGxtCi https://t.co/D1jKwCyJPC"
-  },
-  {
-   "handle": "@DiscoverSelf",
-   "name": "Celebrate Woman",
-   "views": 35,
-   "url": "https://x.com/DiscoverSelf/status/2114024618595860890",
-   "posted_at": "2026-10-24T16:02:00.000Z",
-   "text": "Barrier first, always. A calm, hydrated barrier is the base every other step builds on, especially when menopause #skin runs dry. #SkinBarrier #Menopause https://t.co/g2ztRGFz2q https://t.co/klmLCpbd3c"
-  },
-  {
-   "handle": "@DiscoverSelf",
-   "name": "Celebrate Woman",
-   "views": 32,
-   "url": "https://x.com/DiscoverSelf/status/2113682362630287512",
-   "posted_at": "2026-10-23T17:22:00.000Z",
-   "text": "Dermatologists advise warm water, not hot, and moisturizing while #skin is still damp. Two simple steps that support a tired menopause skin barrier this winter. #WinterSkin #Menopause #skinbarrier  https://t.co/6Sp3SGwVMK https://t.co/lJ5tiipUWn"
-  },
-  {
-   "handle": "@DiscoverSelf",
-   "name": "Celebrate Woman",
-   "views": 27,
-   "url": "https://x.com/DiscoverSelf/status/2114333150960640093",
-   "posted_at": "2026-10-25T12:28:00.000Z",
-   "text": "Cleanse gently. Hydrate on damp skin. Seal with a cream. See a gentle #skin care routine I share for a beautiful skincare reset in menopause. #MenopauseSkin #SkinCare https://t.co/6Sp3SGwVMK https://t.co/dOtXoC0MMT"
-  },
-  {
-   "handle": "@DiscoverSelf",
-   "name": "Celebrate Woman",
-   "views": 26,
-   "url": "https://x.com/DiscoverSelf/status/2115257336776343595",
-   "posted_at": "2026-10-28T01:40:23.000Z",
-   "text": "The gift for the woman who says she needs nothing: a gentle electric #toothbrush with ultra-soft bristles and a pressure sensor. #Menopause can bring gum sensitivity and a dry mouth, so gentle matters. #gifts #giftforher #holidayseason #giftideas https://t.co/7GWrdVwmah https://t.co/pfCvsjnpLz"
-  },
-  {
-   "handle": "@DiscoverSelf",
-   "name": "Celebrate Woman",
-   "views": 26,
-   "url": "https://x.com/DiscoverSelf/status/2115058178111209973",
-   "posted_at": "2026-10-27T12:29:00.000Z",
-   "text": "Ready to support your skin from the inside out? Get my free REGENERATE guide and start with one small step today. #MenopauseSkin #Menopause https://t.co/5HMAZlk9uj https://t.co/MjSejJ7fJW"
-  },
-  {
-   "handle": "@DiscoverSelf",
-   "name": "Celebrate Woman",
-   "views": 26,
-   "url": "https://x.com/DiscoverSelf/status/2114668107893768452",
-   "posted_at": "2026-10-26T10:39:00.000Z",
-   "text": "Gentle Vitamin A at night can fit a skin density routine once your barrier feels calm. Start slowly, and pause if your skin stings. #MenopauseSkin #SkinCare https://t.co/g2ztRGG6RY https://t.co/FbrUrdy6qf"
-  },
-  {
-   "handle": "@DiscoverSelf",
-   "name": "Celebrate Woman",
-   "views": 26,
-   "url": "https://x.com/DiscoverSelf/status/2113602838681059708",
-   "posted_at": "2026-10-23T12:06:00.000Z",
-   "text": "Skin density support is a system, not one product. A strong barrier, antioxidants, gentle Vitamin A at night, daily sunscreen, and good inner nutrition all play a part. #MenopauseSkin https://t.co/g2ztRGFz2q https://t.co/BqtvHgD3nf"
-  },
-  {
-   "handle": "@DiscoverSelf",
-   "name": "Celebrate Woman",
-   "views": 23,
-   "url": "https://x.com/DiscoverSelf/status/2113289272392647168",
-   "posted_at": "2026-10-22T15:20:00.000Z",
-   "text": "A 2025 study found postmenopausal participants reported significantly more skin itchiness. Dry, reactive skin in menopause is real, and it is not your fault. #Menopause #SkinHealth https://t.co/6Sp3SGxtCi https://t.co/t02WlTQLQG"
-  }
- ],
- "drafts_today": [
-  {
-   "text": "Shopping for the woman who says she needs nothing? Give her skin a calm winter: a gentle cleanser, a hydrating serum, a rich cream. Three steps, no stinging actives, wrapped in one box. 🎁 #giftideas #SkinBarrier",
-   "keywords": [
-    "three-step routine",
-    "skin barrier",
-    "fewer products"
-   ]
-  },
-  {
-   "text": "Menopause skin and holiday gifts have one thing in common: gentle wins. Skip the 10-piece kit with strong acids. Pick fewer products that soothe a dry, reactive barrier. #MenopauseSkin #holidayseason",
-   "keywords": [
-    "menopause skin",
-    "fewer products",
-    "skin barrier"
-   ]
-  },
-  {
-   "text": "Sechelt mornings are getting cold, and so is the air indoors with the heat on. If your face feels tight by noon, that's winter dryness. Moisturize on damp skin and keep one cream by the sink. #WinterSkin #SkinCare",
-   "keywords": [
-    "winter dryness",
-    "skin barrier"
-   ]
-  }
- ],
- "trend_keywords": {
-  "source": "operator brief",
-  "keywords": [
-   {
-    "rank": 1,
-    "keyword": "skin barrier"
-   },
-   {
-    "rank": 2,
-    "keyword": "winter dryness"
-   },
-   {
-    "rank": 3,
-    "keyword": "menopause skin"
-   },
-   {
-    "rank": 4,
-    "keyword": "fewer products"
-   },
-   {
-    "rank": 5,
-    "keyword": "three-step routine"
-   }
-  ]
- },
- "trend_radar": {
-  "ideas": [
-   {
-    "title": "Today's draft 1",
-    "format": "text",
-    "source": "operator draft",
-    "topic": "three-step routine",
-    "hook_en": "Shopping for the woman who says she needs nothing? Give her skin a calm winter: a gentle cleanser, a hydrating serum, a rich cream. Three steps, no stinging actives, wrapped in one box. 🎁 #giftideas #SkinBarrier",
-    "angle": "Cats Health and Beauty draft for @cat1cato (not posted)",
-    "why": "Operator-written draft; no metrics yet.",
-    "keywords": [
-     "three-step routine",
-     "skin barrier",
-     "fewer products"
-    ]
-   },
-   {
-    "title": "Today's draft 2",
-    "format": "text",
-    "source": "operator draft",
-    "topic": "menopause skin",
-    "hook_en": "Menopause skin and holiday gifts have one thing in common: gentle wins. Skip the 10-piece kit with strong acids. Pick fewer products that soothe a dry, reactive barrier. #MenopauseSkin #holidayseason",
-    "angle": "Cats Health and Beauty draft for @cat1cato (not posted)",
-    "why": "Operator-written draft; no metrics yet.",
-    "keywords": [
-     "menopause skin",
-     "fewer products",
-     "skin barrier"
-    ]
-   },
-   {
-    "title": "Today's draft 3",
-    "format": "text",
-    "source": "operator draft",
-    "topic": "winter dryness",
-    "hook_en": "Sechelt mornings are getting cold, and so is the air indoors with the heat on. If your face feels tight by noon, that's winter dryness. Moisturize on damp skin and keep one cream by the sink. #WinterSkin #SkinCare",
-    "angle": "Cats Health and Beauty draft for @cat1cato (not posted)",
-    "why": "Operator-written draft; no metrics yet.",
-    "keywords": [
-     "winter dryness",
-     "skin barrier"
-    ]
-   }
-  ]
- },
- "operator": {
-  "handle": "@cat1cato",
-  "name": "Cats Health and Beauty",
-  "profile_url": "https://x.com/cat1cato"
- },
- "ui": {
-  "default_theme": "day"
- },
- "day_roster": [
-  {
-   "handle": "@skincarebyhyram",
-   "name": "Hyram",
-   "views": 0,
-   "total_views": 0,
-   "hit": false
-  },
-  {
-   "handle": "@DiscoverSelf",
-   "name": "Celebrate Woman",
-   "views": 60,
-   "total_views": 359,
-   "hit": false
-  },
-  {
-   "handle": "@cerave",
-   "name": "CeraVe",
-   "views": 0,
-   "total_views": 0,
-   "hit": false
-  },
-  {
-   "handle": "@LabMuffin",
-   "name": "Dr Michelle Wong",
-   "views": 0,
-   "total_views": 0,
-   "hit": false
-  },
-  {
-   "handle": "@GlowRecipe",
-   "name": "Glow Recipe",
-   "views": 0,
-   "total_views": 0,
-   "hit": false
-  },
-  {
-   "handle": "@PaulasChoice",
-   "name": "Paula's Choice",
-   "views": 0,
-   "total_views": 0,
-   "hit": false
-  },
-  {
-   "handle": "@sokoglam",
-   "name": "Soko Glam",
-   "views": 0,
-   "total_views": 0,
-   "hit": false
-  },
-  {
-   "handle": "@drdrayzday",
-   "name": "drdrayzday",
-   "views": 0,
-   "total_views": 0,
-   "hit": false
-  }
- ],
- "you_rank": null,
- "trend_input_only_posts": [],
- "leaderboards": {
-  "as_of": "2026-10-27",
-  "tracking_start": "2026-10-27",
-  "days_included": [
-   "2026-10-27"
+  "title": "Cats Health and Beauty · daily X skincare digest - 2026-10-29",
+  "date": "2026-10-29",
+  "timezone": "America/Vancouver",
+  "updated": "2026-10-29T11:09:45-07:00",
+  "brand_title": "Cats Health and Beauty · X Skincare Board",
+  "brand_handle": "@cat1cato",
+  "virals_title": "Outsiders · last 48h",
+  "hits": [],
+  "virals": [],
+  "outsiders": [],
+  "patterns": [],
+  "no_hits": [
+    {
+      "handle": "@skincarebyhyram",
+      "reason": "No original posts returned by X in the last 7 days.",
+      "max_views": 0
+    },
+    {
+      "handle": "@DiscoverSelf",
+      "reason": "11 original posts in the last 7 days; none reached 5,000 views; highest observed was 73 views.",
+      "max_views": 73
+    },
+    {
+      "handle": "@cerave",
+      "reason": "No original posts returned by X in the last 7 days.",
+      "max_views": 0
+    },
+    {
+      "handle": "@LabMuffin",
+      "reason": "No original posts returned by X in the last 7 days.",
+      "max_views": 0
+    },
+    {
+      "handle": "@GlowRecipe",
+      "reason": "No original posts returned by X in the last 7 days.",
+      "max_views": 0
+    },
+    {
+      "handle": "@PaulasChoice",
+      "reason": "No original posts returned by X in the last 7 days.",
+      "max_views": 0
+    },
+    {
+      "handle": "@sokoglam",
+      "reason": "No original posts returned by X in the last 7 days.",
+      "max_views": 0
+    },
+    {
+      "handle": "@drdrayzday",
+      "reason": "No original posts returned by X in the last 7 days.",
+      "max_views": 0
+    }
   ],
-  "month_days_included": [
-   "2026-10-27"
-  ],
-  "week": {
-   "label": "Rolling week · Oct 21–Oct 27",
-   "range": [
-    "2026-10-21",
-    "2026-10-27"
-   ],
-   "entries": []
+  "virals_narrative": "",
+  "narrative_synthesis": "",
+  "virals_window": "last ~48h",
+  "virals_target": 0,
+  "hits_count": 0,
+  "outsiders_count": 0,
+  "watch_window": {
+    "start": "2026-10-22T18:00:00Z",
+    "end": "2026-10-29T18:09:41Z",
+    "source": "X API user timelines + search, originals only"
   },
-  "month": {
-   "label": "October 2026 · from Oct 27",
-   "range": [
-    "2026-10-27",
-    "2026-10-27"
-   ],
-   "entries": []
+  "watchlist_posts_7d": [
+    {
+      "handle": "@DiscoverSelf",
+      "name": "Celebrate Woman",
+      "views": 73,
+      "url": "https://x.com/DiscoverSelf/status/2115394394237125104",
+      "posted_at": "2026-10-28T10:45:00.000Z",
+      "text": "One box, four holiday scents, four small presents. A shea butter #soap #gift set is an easy win for hostesses, teachers, and neighbors. #giftideas #giftsforher #holidayseason https://t.co/ktZ09wjwsI https://t.co/6IQgfcQcW2"
+    },
+    {
+      "handle": "@DiscoverSelf",
+      "name": "Celebrate Woman",
+      "views": 43,
+      "url": "https://x.com/DiscoverSelf/status/2113358981590876558",
+      "posted_at": "2026-10-22T19:57:00.000Z",
+      "text": "October note: know how your skin and breasts normally look and feel, and tell your care team about changes. The American Cancer Society lists skin changes as one thing to watch for. #BreastCancerAwareness https://t.co/g2ztRGG6RY https://t.co/bh8HM4S2tj"
+    },
+    {
+      "handle": "@DiscoverSelf",
+      "name": "Celebrate Woman",
+      "views": 39,
+      "url": "https://x.com/DiscoverSelf/status/2115257336776343595",
+      "posted_at": "2026-10-28T01:40:23.000Z",
+      "text": "The gift for the woman who says she needs nothing: a gentle electric #toothbrush with ultra-soft bristles and a pressure sensor. #Menopause can bring gum sensitivity and a dry mouth, so gentle matters. #gifts #giftforher #holidayseason #giftideas https://t.co/7GWrdVwmah https://t.co/pfCvsjnpLz"
+    },
+    {
+      "handle": "@DiscoverSelf",
+      "name": "Celebrate Woman",
+      "views": 36,
+      "url": "https://x.com/DiscoverSelf/status/2114087532292186333",
+      "posted_at": "2026-10-24T20:12:00.000Z",
+      "text": "Not every active belongs in every season. When menopause skin feels sensitive, pause exfoliating #acids first, then bring them back one at a time. #MenopauseSkin #SkinCare #skin https://t.co/6Sp3SGxtCi https://t.co/D1jKwCyJPC"
+    },
+    {
+      "handle": "@DiscoverSelf",
+      "name": "Celebrate Woman",
+      "views": 35,
+      "url": "https://x.com/DiscoverSelf/status/2114024618595860890",
+      "posted_at": "2026-10-24T16:02:00.000Z",
+      "text": "Barrier first, always. A calm, hydrated barrier is the base every other step builds on, especially when menopause #skin runs dry. #SkinBarrier #Menopause https://t.co/g2ztRGFz2q https://t.co/klmLCpbd3c"
+    },
+    {
+      "handle": "@DiscoverSelf",
+      "name": "Celebrate Woman",
+      "views": 32,
+      "url": "https://x.com/DiscoverSelf/status/2115058178111209973",
+      "posted_at": "2026-10-27T12:29:00.000Z",
+      "text": "Ready to support your skin from the inside out? Get my free REGENERATE guide and start with one small step today. #MenopauseSkin #Menopause https://t.co/5HMAZlk9uj https://t.co/MjSejJ7fJW"
+    },
+    {
+      "handle": "@DiscoverSelf",
+      "name": "Celebrate Woman",
+      "views": 32,
+      "url": "https://x.com/DiscoverSelf/status/2113682362630287512",
+      "posted_at": "2026-10-23T17:22:00.000Z",
+      "text": "Dermatologists advise warm water, not hot, and moisturizing while #skin is still damp. Two simple steps that support a tired menopause skin barrier this winter. #WinterSkin #Menopause #skinbarrier  https://t.co/6Sp3SGwVMK https://t.co/lJ5tiipUWn"
+    },
+    {
+      "handle": "@DiscoverSelf",
+      "name": "Celebrate Woman",
+      "views": 29,
+      "url": "https://x.com/DiscoverSelf/status/2114668107893768452",
+      "posted_at": "2026-10-26T10:39:00.000Z",
+      "text": "Gentle Vitamin A at night can fit a skin density routine once your barrier feels calm. Start slowly, and pause if your skin stings. #MenopauseSkin #SkinCare https://t.co/g2ztRGG6RY https://t.co/FbrUrdy6qf"
+    },
+    {
+      "handle": "@DiscoverSelf",
+      "name": "Celebrate Woman",
+      "views": 28,
+      "url": "https://x.com/DiscoverSelf/status/2114333150960640093",
+      "posted_at": "2026-10-25T12:28:00.000Z",
+      "text": "Cleanse gently. Hydrate on damp skin. Seal with a cream. See a gentle #skin care routine I share for a beautiful skincare reset in menopause. #MenopauseSkin #SkinCare https://t.co/6Sp3SGwVMK https://t.co/dOtXoC0MMT"
+    },
+    {
+      "handle": "@DiscoverSelf",
+      "name": "Celebrate Woman",
+      "views": 26,
+      "url": "https://x.com/DiscoverSelf/status/2113602838681059708",
+      "posted_at": "2026-10-23T12:06:00.000Z",
+      "text": "Skin density support is a system, not one product. A strong barrier, antioxidants, gentle Vitamin A at night, daily sunscreen, and good inner nutrition all play a part. #MenopauseSkin https://t.co/g2ztRGFz2q https://t.co/BqtvHgD3nf"
+    },
+    {
+      "handle": "@DiscoverSelf",
+      "name": "Celebrate Woman",
+      "views": 12,
+      "url": "https://x.com/DiscoverSelf/status/2115811643414216815",
+      "posted_at": "2026-10-29T14:23:00.000Z",
+      "text": "Daily sunscreen is the step most of us skip and the one that protects the skin you are working so hard to support. Make it a habit this fall. #MenopauseSkin #Sunscreen https://t.co/g2ztRGFz2q"
+    }
+  ],
+  "drafts_today": [
+    {
+      "text": "Sunscreen in October? Yes. UV doesn't take fall off, and mature skin that's working hard to stay firm needs that last step most. One nickel-sized layer every morning, even on grey Sunshine Coast days. #MenopauseSkin #Sunscreen",
+      "keywords": [
+        "menopause skin",
+        "daily sunscreen"
+      ],
+      "video_tip": "10-second clip: grey sky out the window, then squeeze a nickel of SPF on your fingertip and pat it on. Caption: 'Cloudy still counts.'"
+    },
+    {
+      "text": "Barrier first, always. My winter-dryness reset is three steps: cleanse gently, hydrate on damp skin, seal with a rich cream. Fewer products, less stinging, calmer skin by Friday. #SkinBarrier #WinterSkin",
+      "keywords": [
+        "skin barrier",
+        "three-step routine",
+        "winter dryness",
+        "fewer products"
+      ],
+      "video_tip": "Lay out 3 products, then sweep 5 others off the counter. Do each step on camera with a one-word label: Cleanse, Hydrate, Seal."
+    },
+    {
+      "text": "Shopping for the woman who says she needs nothing? A calm-skin set: gentle cleanser, hydrating serum, rich cream. Three steps she'll actually use all winter. DM me and I'll put one together. #giftideas #SkinBarrier",
+      "keywords": [
+        "three-step routine",
+        "skin barrier",
+        "holiday gifts"
+      ],
+      "video_tip": "Unbox-in-reverse: place the three products into a gift box one by one, close the lid, add a ribbon. Under 15 seconds, soft music."
+    }
+  ],
+  "trend_keywords": {
+    "source": "operator brief",
+    "keywords": [
+      {
+        "rank": 1,
+        "keyword": "skin barrier"
+      },
+      {
+        "rank": 2,
+        "keyword": "winter dryness"
+      },
+      {
+        "rank": 3,
+        "keyword": "menopause skin"
+      },
+      {
+        "rank": 4,
+        "keyword": "fewer products"
+      },
+      {
+        "rank": 5,
+        "keyword": "three-step routine"
+      }
+    ]
+  },
+  "trend_radar": {
+    "ideas": [
+      {
+        "title": "Today's draft 1",
+        "format": "text",
+        "source": "operator draft",
+        "topic": "menopause skin",
+        "hook_en": "Sunscreen in October? Yes. UV doesn't take fall off, and mature skin that's working hard to stay firm needs that last step most. One nickel-sized layer every morning, even on grey Sunshine Coast days. #MenopauseSkin #Sunscreen",
+        "video_tip": "10-second clip: grey sky out the window, then squeeze a nickel of SPF on your fingertip and pat it on. Caption: 'Cloudy still counts.'"
+      },
+      {
+        "title": "Today's draft 2",
+        "format": "text",
+        "source": "operator draft",
+        "topic": "skin barrier",
+        "hook_en": "Barrier first, always. My winter-dryness reset is three steps: cleanse gently, hydrate on damp skin, seal with a rich cream. Fewer products, less stinging, calmer skin by Friday. #SkinBarrier #WinterSkin",
+        "video_tip": "Lay out 3 products, then sweep 5 others off the counter. Do each step on camera with a one-word label: Cleanse, Hydrate, Seal."
+      },
+      {
+        "title": "Today's draft 3",
+        "format": "text",
+        "source": "operator draft",
+        "topic": "three-step routine",
+        "hook_en": "Shopping for the woman who says she needs nothing? A calm-skin set: gentle cleanser, hydrating serum, rich cream. Three steps she'll actually use all winter. DM me and I'll put one together. #giftideas #SkinBarrier",
+        "video_tip": "Unbox-in-reverse: place the three products into a gift box one by one, close the lid, add a ribbon. Under 15 seconds, soft music."
+      }
+    ]
+  },
+  "operator": {
+    "handle": "@cat1cato",
+    "name": "Cats Health and Beauty",
+    "profile_url": "https://x.com/cat1cato"
+  },
+  "ui": {
+    "default_theme": "day"
+  },
+  "day_roster": [
+    {
+      "handle": "@skincarebyhyram",
+      "name": "Hyram",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@DiscoverSelf",
+      "name": "Celebrate Woman",
+      "views": 73,
+      "total_views": 385,
+      "hit": false
+    },
+    {
+      "handle": "@cerave",
+      "name": "CeraVe",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@LabMuffin",
+      "name": "Dr Michelle Wong",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@GlowRecipe",
+      "name": "Glow Recipe",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@PaulasChoice",
+      "name": "Paula's Choice",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@sokoglam",
+      "name": "Soko Glam",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    },
+    {
+      "handle": "@drdrayzday",
+      "name": "drdrayzday",
+      "views": 0,
+      "total_views": 0,
+      "hit": false
+    }
+  ],
+  "you_rank": null,
+  "trend_input_only_posts": [],
+  "leaderboards": {
+    "as_of": "2026-10-29",
+    "tracking_start": "2026-10-27",
+    "days_included": [
+      "2026-10-27",
+      "2026-10-28",
+      "2026-10-29"
+    ],
+    "month_days_included": [
+      "2026-10-27",
+      "2026-10-28",
+      "2026-10-29"
+    ],
+    "week": {
+      "label": "Rolling week · Oct 27–Oct 29",
+      "range": [
+        "2026-10-27",
+        "2026-10-29"
+      ],
+      "entries": []
+    },
+    "month": {
+      "label": "October 2026 · from Oct 27",
+      "range": [
+        "2026-10-27",
+        "2026-10-29"
+      ],
+      "entries": []
+    }
   }
- }
 }

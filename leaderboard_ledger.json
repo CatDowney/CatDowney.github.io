@@ -1,0 +1,16 @@
+{
+  "tracking_start": "2026-10-27",
+  "timezone": "America/Vancouver",
+  "threshold": 5000,
+  "days": {
+    "2026-10-27": {
+      "accounts": {}
+    },
+    "2026-10-28": {
+      "accounts": {}
+    },
+    "2026-10-29": {
+      "accounts": {}
+    }
+  }
+}

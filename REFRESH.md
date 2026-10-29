@@ -31,7 +31,9 @@ Keep brand fields unchanged (`brand_title`, `brand_handle`, `operator`, `ui`). R
 - `day_roster`: one row per account `{handle,name,views:best,total_views:sum,hit}`.
 - `drafts_today` / `trend_radar.ideas`: today's operator drafts (only drafts supplied by Cat; no metrics).
 - `trend_keywords.keywords`: `[{rank,keyword}]` from `config/watchlist.json` `keyword_domain_terms` (currently skin barrier, winter dryness, menopause skin, fewer products, three-step routine).
-- Week/month boards: upsert today into `leaderboard_ledger.json`, then `python3 enrich_leaderboards.py` (env `XVS_DATA=data.json XVS_WATCHLIST=config/watchlist.json XVS_TIMEZONE=America/Vancouver XVS_MIN_VIEWS=5000 XVS_OPERATOR_HANDLE=@cat1cato`).
+- Week/month boards: first save today's digest where the script reads it: `digests/$TODAY/composed.json` with `{"date": "$TODAY", "hits": [...]}` (the same ≥5,000-view hits as data.json; `[]` on a quiet day is fine and still counts as a tracked day). Then run from the repo root (the script's default digest path is the parent folder, so `XVS_DIGEST_ROOT` must be set):
+  `XVS_DIGEST_ROOT=$PWD/digests XVS_LEDGER=$PWD/leaderboard_ledger.json XVS_DATA=$PWD/data.json XVS_WATCHLIST=$PWD/config/watchlist.json XVS_TIMEZONE=America/Vancouver XVS_MIN_VIEWS=5000 XVS_OPERATOR_HANDLE=@cat1cato XVS_TRACKING_START=2026-10-27 python3 enrich_leaderboards.py --as-of $TODAY`
+  Add `--bootstrap` once if the ledger is missing or you backfilled older digest days. Confirm `leaderboards.as_of` equals $TODAY.
 Validate: `python3 -m json.tool data.json >/dev/null`.
 
 ## 3. Preview (optional)
@@ -39,7 +41,7 @@ Validate: `python3 -m json.tool data.json >/dev/null`.
 
 ## 4. Push and verify
 ```bash
-git add data.json raw/ leaderboard_ledger.json 2>/dev/null; git add -A
+git add data.json raw/ digests/ leaderboard_ledger.json 2>/dev/null; git add -A
 git commit -m "Daily refresh $TODAY" && git push origin main
 # Pages rebuilds automatically; wait for it
 until [ "$(gh api repos/CatDowney/CatDowney.github.io/pages --jq .status)" = built ]; do sleep 15; done
