@@ -4,7 +4,7 @@
   "timezone": "America/Vancouver",
   "updated": "2026-10-30T11:11:10-07:00",
   "brand_title": "Cats Health and Beauty · X Skincare Board",
-  "brand_handle": "@cat1cato",
+  "brand_handle": "@catocat1",
   "virals_title": "Outsiders · last 48h",
   "hits": [],
   "virals": [],
@@ -221,9 +221,9 @@
     ]
   },
   "operator": {
-    "handle": "@cat1cato",
+    "handle": "@catocat1",
     "name": "Cats Health and Beauty",
-    "profile_url": "https://x.com/cat1cato"
+    "profile_url": "https://x.com/catocat1"
   },
   "ui": {
     "default_theme": "day"

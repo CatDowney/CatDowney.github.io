@@ -11,7 +11,7 @@ TODAY=$(TZ=America/Vancouver date +%F)
 START=$(date -u -d '7 days ago' +%Y-%m-%dT%H:00:00Z)
 mkdir -p raw/$TODAY
 ```
-Settings live in `config/watchlist.json`: timezone America/Vancouver, min_views 5000, star_views 10000, 8 accounts, operator @cat1cato.
+Settings live in `config/watchlist.json`: timezone America/Vancouver, min_views 5000, star_views 10000, 8 accounts, operator @catocat1.
 
 ## 1. Fetch watchlist posts (X public read tools, `x` namespace)
 1. `get_users_by_usernames` with all handles from `config/watchlist.json` → numeric ids (cached ids below).
@@ -32,7 +32,7 @@ Keep brand fields unchanged (`brand_title`, `brand_handle`, `operator`, `ui`). R
 - `drafts_today` / `trend_radar.ideas`: today's operator drafts (only drafts supplied by Cat; no metrics).
 - `trend_keywords.keywords`: `[{rank,keyword}]` from `config/watchlist.json` `keyword_domain_terms` (currently skin barrier, winter dryness, menopause skin, fewer products, three-step routine).
 - Week/month boards: first save today's digest where the script reads it: `digests/$TODAY/composed.json` with `{"date": "$TODAY", "hits": [...]}` (the same ≥5,000-view hits as data.json; `[]` on a quiet day is fine and still counts as a tracked day). Then run from the repo root (the script's default digest path is the parent folder, so `XVS_DIGEST_ROOT` must be set):
-  `XVS_DIGEST_ROOT=$PWD/digests XVS_LEDGER=$PWD/leaderboard_ledger.json XVS_DATA=$PWD/data.json XVS_WATCHLIST=$PWD/config/watchlist.json XVS_TIMEZONE=America/Vancouver XVS_MIN_VIEWS=5000 XVS_OPERATOR_HANDLE=@cat1cato XVS_TRACKING_START=2026-10-27 python3 enrich_leaderboards.py --as-of $TODAY`
+  `XVS_DIGEST_ROOT=$PWD/digests XVS_LEDGER=$PWD/leaderboard_ledger.json XVS_DATA=$PWD/data.json XVS_WATCHLIST=$PWD/config/watchlist.json XVS_TIMEZONE=America/Vancouver XVS_MIN_VIEWS=5000 XVS_OPERATOR_HANDLE=@catocat1 XVS_TRACKING_START=2026-10-27 python3 enrich_leaderboards.py --as-of $TODAY`
   Add `--bootstrap` once if the ledger is missing or you backfilled older digest days. Confirm `leaderboards.as_of` equals $TODAY.
 Validate: `python3 -m json.tool data.json >/dev/null`.
 
