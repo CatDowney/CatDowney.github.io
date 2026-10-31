@@ -1,0 +1,75 @@
+{
+  "query": "(from:all 8 watchlist) -is:retweet -is:reply",
+  "window_24h_originals": 0,
+  "posts_7d": [
+    {
+      "handle": "DiscoverSelf",
+      "name": "Celebrate Woman",
+      "views": 26,
+      "url": "https://x.com/DiscoverSelf/status/2116175289357115894",
+      "posted_at": "2026-10-30T14:28:00.000Z",
+      "text": "Not every great gift is glamorous. A gentle electric #toothbrush says “I want you to feel good every single day.” Perfect for the woman 40+ who takes care of everyone else first. #giftsforher #holidayseason #gifts"
+    },
+    {
+      "handle": "DiscoverSelf",
+      "name": "Celebrate Woman",
+      "views": 24,
+      "url": "https://x.com/DiscoverSelf/status/2115811643414216815",
+      "posted_at": "2026-10-29T14:23:00.000Z",
+      "text": "Daily sunscreen is the step most of us skip and the one that protects the skin you are working so hard to support. Make it a habit this fall. #MenopauseSkin #Sunscreen"
+    },
+    {
+      "handle": "DiscoverSelf",
+      "name": "Celebrate Woman",
+      "views": 83,
+      "url": "https://x.com/DiscoverSelf/status/2115394394237125104",
+      "posted_at": "2026-10-28T10:45:00.000Z",
+      "text": "One box, four holiday scents, four small presents. A shea butter #soap #gift set is an easy win for hostesses, teachers, and neighbors. #giftideas #giftsforher #holidayseason"
+    },
+    {
+      "handle": "DiscoverSelf",
+      "name": "Celebrate Woman",
+      "views": 49,
+      "url": "https://x.com/DiscoverSelf/status/2115257336776343595",
+      "posted_at": "2026-10-28T01:40:23.000Z",
+      "text": "The gift for the woman who says she needs nothing: a gentle electric #toothbrush with ultra-soft bristles and a pressure sensor. #Menopause can bring gum sensitivity and a dry mouth, so gentle matters. #gifts #giftforher #holidayseason #giftideas"
+    },
+    {
+      "handle": "DiscoverSelf",
+      "name": "Celebrate Woman",
+      "views": 35,
+      "url": "https://x.com/DiscoverSelf/status/2115058178111209973",
+      "posted_at": "2026-10-27T12:29:00.000Z",
+      "text": "Ready to support your skin from the inside out? Get my free REGENERATE guide and start with one small step today. #MenopauseSkin #Menopause"
+    },
+    {
+      "handle": "DiscoverSelf",
+      "name": "Celebrate Woman",
+      "views": 31,
+      "url": "https://x.com/DiscoverSelf/status/2114668107893768452",
+      "posted_at": "2026-10-26T10:39:00.000Z",
+      "text": "Gentle Vitamin A at night can fit a skin density routine once your barrier feels calm. Start slowly, and pause if your skin stings. #MenopauseSkin #SkinCare"
+    },
+    {
+      "handle": "DiscoverSelf",
+      "name": "Celebrate Woman",
+      "views": 28,
+      "url": "https://x.com/DiscoverSelf/status/2114333150960640093",
+      "posted_at": "2026-10-25T12:28:00.000Z",
+      "text": "Cleanse gently. Hydrate on damp skin. Seal with a cream. See a gentle #skin care routine I share for a beautiful skincare reset in menopause. #MenopauseSkin #SkinCare"
+    },
+    {
+      "handle": "DiscoverSelf",
+      "name": "Celebrate Woman",
+      "views": 36,
+      "url": "https://x.com/DiscoverSelf/status/2114087532292186333",
+      "posted_at": "2026-10-24T20:12:00.000Z",
+      "text": "Not every active belongs in every season. When menopause skin feels sensitive, pause exfoliating #acids first, then bring them back one at a time. #MenopauseSkin #SkinCare #skin"
+    }
+  ],
+  "cerave_quote_excluded": {
+    "url": "https://x.com/cerave/status/2115795412913401948",
+    "views": 1170,
+    "text": "Omg I feel so seen"
+  }
+}
