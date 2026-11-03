@@ -1,8 +1,8 @@
 {
   "title": "Cats Health and Beauty · daily X skincare digest - 2026-10-29",
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "timezone": "America/Vancouver",
-  "updated": "2026-11-02T11:05:21-07:00",
+  "updated": "2026-11-03T11:03:44-07:00",
   "brand_title": "Cats Health and Beauty · X Skincare Board",
   "brand_handle": "@CatsBeauty26",
   "virals_title": "Outsiders · last 48h",
@@ -18,8 +18,8 @@
     },
     {
       "handle": "DiscoverSelf",
-      "reason": "5 originals in 7 days, highest 88 views",
-      "max_views": 88
+      "reason": "4 originals in 7 days, highest 91 views",
+      "max_views": 91
     },
     {
       "handle": "cerave",
@@ -59,15 +59,15 @@
   "hits_count": 0,
   "outsiders_count": 0,
   "watch_window": {
-    "start": "2026-10-26T18:00:00Z",
-    "end": "2026-11-02T18:05:21Z",
+    "start": "2026-10-27T18:00:00Z",
+    "end": "2026-11-03T18:03:44Z",
     "source": "X API search, originals only"
   },
   "watchlist_posts_7d": [
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 88,
+      "views": 91,
       "url": "https://x.com/DiscoverSelf/status/2115394394237125104",
       "posted_at": "2026-10-28T10:45:00.000Z",
       "text": "One box, four holiday scents, four small presents. A shea butter #soap #gift set is an easy win for hostesses, teachers, and neighbors. #giftideas #giftsforher #holidayseason https://t.co/ktZ09wjwsI https://t.co/6IQgfcQcW2"
@@ -75,7 +75,7 @@
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 61,
+      "views": 66,
       "url": "https://x.com/DiscoverSelf/status/2115257336776343595",
       "posted_at": "2026-10-28T01:40:23.000Z",
       "text": "The gift for the woman who says she needs nothing: a gentle electric #toothbrush with ultra-soft bristles and a pressure sensor. #Menopause can bring gum sensitivity and a dry mouth, so gentle matters. #gifts #giftforher #holidayseason #giftideas https://t.co/7GWrdVwmah https://t.co/pfCvsjnpLz"
@@ -83,7 +83,7 @@
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 41,
+      "views": 52,
       "url": "https://x.com/DiscoverSelf/status/2116175289357115894",
       "posted_at": "2026-10-30T14:28:00.000Z",
       "text": "Not every great gift is glamorous. A gentle electric #toothbrush says “I want you to feel good every single day.” Perfect for the woman 40+ who takes care of everyone else first. #giftsforher #holidayseason #gifts https://t.co/7GWrdVwmah https://t.co/BeR7rf0uwK"
@@ -91,15 +91,7 @@
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 37,
-      "url": "https://x.com/DiscoverSelf/status/2115058178111209973",
-      "posted_at": "2026-10-27T12:29:00.000Z",
-      "text": "Ready to support your skin from the inside out? Get my free REGENERATE guide and start with one small step today. #MenopauseSkin #Menopause https://t.co/5HMAZlk9uj https://t.co/MjSejJ7fJW"
-    },
-    {
-      "handle": "DiscoverSelf",
-      "name": "Celebrate Woman",
-      "views": 32,
+      "views": 38,
       "url": "https://x.com/DiscoverSelf/status/2115811643414216815",
       "posted_at": "2026-10-29T14:23:00.000Z",
       "text": "Daily sunscreen is the step most of us skip and the one that protects the skin you are working so hard to support. Make it a habit this fall. #MenopauseSkin #Sunscreen https://t.co/g2ztRGFz2q"
@@ -107,37 +99,37 @@
   ],
   "drafts_today": [
     {
-      "text": "The woman 40+ who takes care of everyone else first deserves a routine that takes three minutes. Gentle cleanser, a good serum, a rich cream, and a sticky note on the mirror that says \"you first.\" #GiftsForHer #MenopauseSkin",
+      "topic": "gift for her",
       "keywords": [
         "menopause skin",
-        "three-step routine",
+        "winter dryness",
         "fewer products"
       ],
-      "video_tip": "15 seconds: hands writing 'you first' on a sticky note, pressing it on the mirror, then the three RIMAN steps lined up below it. End card: 'Three minutes. Every day.'",
-      "topic": "gift for her",
-      "intent_url": "https://x.com/intent/post?text=The%20woman%2040%2B%20who%20takes%20care%20of%20everyone%20else%20first%20deserves%20a%20routine%20that%20takes%20three%20minutes.%20Gentle%20cleanser%2C%20a%20good%20serum%2C%20a%20rich%20cream%2C%20and%20a%20sticky%20note%20on%20the%20mirror%20that%20says%20%22you%20first.%22%20%23GiftsForHer%20%23MenopauseSkin"
+      "text": "The gift for the woman who says she needs nothing: one really good night cream and permission to use it every single night. Winter skin after 40 notices the difference by the weekend. #GiftsForHer #MenopauseSkin",
+      "video_tip": "12 seconds: a plain gift bag, tissue paper lifted out, one RIMAN cream inside. Cut to a fingertip of cream warmed between hands and pressed onto cheeks. Caption: 'She said she needs nothing.'",
+      "intent_url": "https://x.com/intent/post?text=The%20gift%20for%20the%20woman%20who%20says%20she%20needs%20nothing%3A%20one%20really%20good%20night%20cream%20and%20permission%20to%20use%20it%20every%20single%20night.%20Winter%20skin%20after%2040%20notices%20the%20difference%20by%20the%20weekend.%20%23GiftsForHer%20%23MenopauseSkin"
     },
     {
-      "text": "The step most of us skip after 40? Your neck and the backs of your hands. Whatever goes on your face goes there too: same serum, same cream, ten extra seconds. They show dry winter air first. #SkinBarrier #MenopauseSkin",
+      "topic": "skin barrier",
       "keywords": [
         "skin barrier",
-        "menopause skin",
-        "winter dryness"
+        "winter dryness",
+        "three-step routine"
       ],
-      "video_tip": "10 seconds: finish face routine, then sweep the leftover serum and cream down the neck and over the backs of the hands. Caption: 'Don't stop at the jawline.'",
-      "topic": "skin barrier",
-      "intent_url": "https://x.com/intent/post?text=The%20step%20most%20of%20us%20skip%20after%2040%3F%20Your%20neck%20and%20the%20backs%20of%20your%20hands.%20Whatever%20goes%20on%20your%20face%20goes%20there%20too%3A%20same%20serum%2C%20same%20cream%2C%20ten%20extra%20seconds.%20They%20show%20dry%20winter%20air%20first.%20%23SkinBarrier%20%23MenopauseSkin"
+      "text": "Rubbing your cream in hard? After 40, try pressing instead. Warm it between your palms, press it onto your face and hold for a few seconds. Less tugging, better absorption, happier skin barrier. #SkinBarrier #SkincareOver40",
+      "video_tip": "10 seconds, split screen: left side rubbing in circles (red X), right side warming cream in palms and pressing onto cheeks (check mark). Caption: 'Press, don't rub.'",
+      "intent_url": "https://x.com/intent/post?text=Rubbing%20your%20cream%20in%20hard%3F%20After%2040%2C%20try%20pressing%20instead.%20Warm%20it%20between%20your%20palms%2C%20press%20it%20onto%20your%20face%20and%20hold%20for%20a%20few%20seconds.%20Less%20tugging%2C%20better%20absorption%2C%20happier%20skin%20barrier.%20%23SkinBarrier%20%23SkincareOver40"
     },
     {
-      "text": "Monday reset: if your shelf has 12 products and your skin still feels dry, try three for two weeks. Gentle cleanser, one serum, a rich cream. Less to irritate, more room to repair. #FewerProducts #WinterSkin",
+      "topic": "menopause skin",
       "keywords": [
+        "menopause skin",
         "fewer products",
-        "three-step routine",
-        "winter dryness"
+        "skin barrier"
       ],
-      "video_tip": "12 seconds: a crowded bathroom shelf, slide everything aside until only three RIMAN products remain. Text: 'Two weeks. Three products. Watch what happens.'",
-      "topic": "fewer products",
-      "intent_url": "https://x.com/intent/post?text=Monday%20reset%3A%20if%20your%20shelf%20has%2012%20products%20and%20your%20skin%20still%20feels%20dry%2C%20try%20three%20for%20two%20weeks.%20Gentle%20cleanser%2C%20one%20serum%2C%20a%20rich%20cream.%20Less%20to%20irritate%2C%20more%20room%20to%20repair.%20%23FewerProducts%20%23WinterSkin"
+      "text": "Menopause skin isn't just 'dry.' Estrogen drops, oil drops, and your barrier gets thinner. More products won't fix that. A gentle cleanser, one serum and a rich cream, used every day, will. #MenopauseSkin #FewerProducts",
+      "video_tip": "15 seconds: a crowded shelf of half-used bottles swept into a basket, leaving three RIMAN steps standing. Text overlay: 'Thinner barrier? Fewer products.'",
+      "intent_url": "https://x.com/intent/post?text=Menopause%20skin%20isn%27t%20just%20%27dry.%27%20Estrogen%20drops%2C%20oil%20drops%2C%20and%20your%20barrier%20gets%20thinner.%20More%20products%20won%27t%20fix%20that.%20A%20gentle%20cleanser%2C%20one%20serum%20and%20a%20rich%20cream%2C%20used%20every%20day%2C%20will.%20%23MenopauseSkin%20%23FewerProducts"
     }
   ],
   "trend_keywords": {
@@ -168,37 +160,37 @@
   "trend_radar": {
     "ideas": [
       {
-        "text": "The woman 40+ who takes care of everyone else first deserves a routine that takes three minutes. Gentle cleanser, a good serum, a rich cream, and a sticky note on the mirror that says \"you first.\" #GiftsForHer #MenopauseSkin",
+        "topic": "gift for her",
         "keywords": [
           "menopause skin",
-          "three-step routine",
+          "winter dryness",
           "fewer products"
         ],
-        "video_tip": "15 seconds: hands writing 'you first' on a sticky note, pressing it on the mirror, then the three RIMAN steps lined up below it. End card: 'Three minutes. Every day.'",
-        "topic": "gift for her",
-        "intent_url": "https://x.com/intent/post?text=The%20woman%2040%2B%20who%20takes%20care%20of%20everyone%20else%20first%20deserves%20a%20routine%20that%20takes%20three%20minutes.%20Gentle%20cleanser%2C%20a%20good%20serum%2C%20a%20rich%20cream%2C%20and%20a%20sticky%20note%20on%20the%20mirror%20that%20says%20%22you%20first.%22%20%23GiftsForHer%20%23MenopauseSkin"
+        "text": "The gift for the woman who says she needs nothing: one really good night cream and permission to use it every single night. Winter skin after 40 notices the difference by the weekend. #GiftsForHer #MenopauseSkin",
+        "video_tip": "12 seconds: a plain gift bag, tissue paper lifted out, one RIMAN cream inside. Cut to a fingertip of cream warmed between hands and pressed onto cheeks. Caption: 'She said she needs nothing.'",
+        "intent_url": "https://x.com/intent/post?text=The%20gift%20for%20the%20woman%20who%20says%20she%20needs%20nothing%3A%20one%20really%20good%20night%20cream%20and%20permission%20to%20use%20it%20every%20single%20night.%20Winter%20skin%20after%2040%20notices%20the%20difference%20by%20the%20weekend.%20%23GiftsForHer%20%23MenopauseSkin"
       },
       {
-        "text": "The step most of us skip after 40? Your neck and the backs of your hands. Whatever goes on your face goes there too: same serum, same cream, ten extra seconds. They show dry winter air first. #SkinBarrier #MenopauseSkin",
+        "topic": "skin barrier",
         "keywords": [
           "skin barrier",
-          "menopause skin",
-          "winter dryness"
+          "winter dryness",
+          "three-step routine"
         ],
-        "video_tip": "10 seconds: finish face routine, then sweep the leftover serum and cream down the neck and over the backs of the hands. Caption: 'Don't stop at the jawline.'",
-        "topic": "skin barrier",
-        "intent_url": "https://x.com/intent/post?text=The%20step%20most%20of%20us%20skip%20after%2040%3F%20Your%20neck%20and%20the%20backs%20of%20your%20hands.%20Whatever%20goes%20on%20your%20face%20goes%20there%20too%3A%20same%20serum%2C%20same%20cream%2C%20ten%20extra%20seconds.%20They%20show%20dry%20winter%20air%20first.%20%23SkinBarrier%20%23MenopauseSkin"
+        "text": "Rubbing your cream in hard? After 40, try pressing instead. Warm it between your palms, press it onto your face and hold for a few seconds. Less tugging, better absorption, happier skin barrier. #SkinBarrier #SkincareOver40",
+        "video_tip": "10 seconds, split screen: left side rubbing in circles (red X), right side warming cream in palms and pressing onto cheeks (check mark). Caption: 'Press, don't rub.'",
+        "intent_url": "https://x.com/intent/post?text=Rubbing%20your%20cream%20in%20hard%3F%20After%2040%2C%20try%20pressing%20instead.%20Warm%20it%20between%20your%20palms%2C%20press%20it%20onto%20your%20face%20and%20hold%20for%20a%20few%20seconds.%20Less%20tugging%2C%20better%20absorption%2C%20happier%20skin%20barrier.%20%23SkinBarrier%20%23SkincareOver40"
       },
       {
-        "text": "Monday reset: if your shelf has 12 products and your skin still feels dry, try three for two weeks. Gentle cleanser, one serum, a rich cream. Less to irritate, more room to repair. #FewerProducts #WinterSkin",
+        "topic": "menopause skin",
         "keywords": [
+          "menopause skin",
           "fewer products",
-          "three-step routine",
-          "winter dryness"
+          "skin barrier"
         ],
-        "video_tip": "12 seconds: a crowded bathroom shelf, slide everything aside until only three RIMAN products remain. Text: 'Two weeks. Three products. Watch what happens.'",
-        "topic": "fewer products",
-        "intent_url": "https://x.com/intent/post?text=Monday%20reset%3A%20if%20your%20shelf%20has%2012%20products%20and%20your%20skin%20still%20feels%20dry%2C%20try%20three%20for%20two%20weeks.%20Gentle%20cleanser%2C%20one%20serum%2C%20a%20rich%20cream.%20Less%20to%20irritate%2C%20more%20room%20to%20repair.%20%23FewerProducts%20%23WinterSkin"
+        "text": "Menopause skin isn't just 'dry.' Estrogen drops, oil drops, and your barrier gets thinner. More products won't fix that. A gentle cleanser, one serum and a rich cream, used every day, will. #MenopauseSkin #FewerProducts",
+        "video_tip": "15 seconds: a crowded shelf of half-used bottles swept into a basket, leaving three RIMAN steps standing. Text overlay: 'Thinner barrier? Fewer products.'",
+        "intent_url": "https://x.com/intent/post?text=Menopause%20skin%20isn%27t%20just%20%27dry.%27%20Estrogen%20drops%2C%20oil%20drops%2C%20and%20your%20barrier%20gets%20thinner.%20More%20products%20won%27t%20fix%20that.%20A%20gentle%20cleanser%2C%20one%20serum%20and%20a%20rich%20cream%2C%20used%20every%20day%2C%20will.%20%23MenopauseSkin%20%23FewerProducts"
       }
     ]
   },
@@ -221,8 +213,8 @@
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 88,
-      "total_views": 259,
+      "views": 91,
+      "total_views": 247,
       "hit": false
     },
     {
@@ -271,26 +263,27 @@
   "you_rank": null,
   "trend_input_only_posts": [],
   "leaderboards": {
-    "as_of": "2026-11-02",
+    "as_of": "2026-11-03",
     "tracking_start": "2026-10-27",
     "days_included": [
-      "2026-10-27",
       "2026-10-28",
       "2026-10-29",
       "2026-10-30",
       "2026-10-31",
       "2026-11-01",
-      "2026-11-02"
+      "2026-11-02",
+      "2026-11-03"
     ],
     "month_days_included": [
       "2026-11-01",
-      "2026-11-02"
+      "2026-11-02",
+      "2026-11-03"
     ],
     "week": {
-      "label": "Rolling week · Oct 27–Nov 2",
+      "label": "Rolling week · Oct 28–Nov 3",
       "range": [
-        "2026-10-27",
-        "2026-11-02"
+        "2026-10-28",
+        "2026-11-03"
       ],
       "entries": []
     },
@@ -298,7 +291,7 @@
       "label": "November 2026 · from Nov 1",
       "range": [
         "2026-11-01",
-        "2026-11-02"
+        "2026-11-03"
       ],
       "entries": []
     }
