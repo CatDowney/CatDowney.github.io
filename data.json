@@ -1,8 +1,8 @@
 {
-  "title": "Cats Health and Beauty · daily X skincare digest - 2026-10-29",
-  "date": "2026-11-03",
+  "title": "Cats Health and Beauty · daily X skincare digest - 2026-11-04",
+  "date": "2026-11-04",
   "timezone": "America/Vancouver",
-  "updated": "2026-11-03T11:03:44-07:00",
+  "updated": "2026-11-04T11:07:53-07:00",
   "brand_title": "Cats Health and Beauty · X Skincare Board",
   "brand_handle": "@CatsBeauty26",
   "virals_title": "Outsiders · last 48h",
@@ -18,8 +18,8 @@
     },
     {
       "handle": "DiscoverSelf",
-      "reason": "4 originals in 7 days, highest 91 views",
-      "max_views": 91
+      "reason": "2 originals in 7 days, highest 62 views",
+      "max_views": 62
     },
     {
       "handle": "cerave",
@@ -59,77 +59,59 @@
   "hits_count": 0,
   "outsiders_count": 0,
   "watch_window": {
-    "start": "2026-10-27T18:00:00Z",
-    "end": "2026-11-03T18:03:44Z",
-    "source": "X API search, originals only"
+    "start": "2026-10-28T18:00:00Z",
+    "end": "2026-11-04T18:07:53Z",
+    "source": "X API user timelines + search, originals only"
   },
   "watchlist_posts_7d": [
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 91,
-      "url": "https://x.com/DiscoverSelf/status/2115394394237125104",
-      "posted_at": "2026-10-28T10:45:00.000Z",
-      "text": "One box, four holiday scents, four small presents. A shea butter #soap #gift set is an easy win for hostesses, teachers, and neighbors. #giftideas #giftsforher #holidayseason https://t.co/ktZ09wjwsI https://t.co/6IQgfcQcW2"
-    },
-    {
-      "handle": "DiscoverSelf",
-      "name": "Celebrate Woman",
-      "views": 66,
-      "url": "https://x.com/DiscoverSelf/status/2115257336776343595",
-      "posted_at": "2026-10-28T01:40:23.000Z",
-      "text": "The gift for the woman who says she needs nothing: a gentle electric #toothbrush with ultra-soft bristles and a pressure sensor. #Menopause can bring gum sensitivity and a dry mouth, so gentle matters. #gifts #giftforher #holidayseason #giftideas https://t.co/7GWrdVwmah https://t.co/pfCvsjnpLz"
-    },
-    {
-      "handle": "DiscoverSelf",
-      "name": "Celebrate Woman",
-      "views": 52,
+      "views": 62,
       "url": "https://x.com/DiscoverSelf/status/2116175289357115894",
       "posted_at": "2026-10-30T14:28:00.000Z",
-      "text": "Not every great gift is glamorous. A gentle electric #toothbrush says “I want you to feel good every single day.” Perfect for the woman 40+ who takes care of everyone else first. #giftsforher #holidayseason #gifts https://t.co/7GWrdVwmah https://t.co/BeR7rf0uwK"
+      "text": "Not every great gift is glamorous. A gentle electric #toothbrush says “I want you to feel good every single day.” Perfect for the woman 40+ who takes care of everyone else first. #giftsforher #holidayseason #gifts"
     },
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 38,
+      "views": 42,
       "url": "https://x.com/DiscoverSelf/status/2115811643414216815",
       "posted_at": "2026-10-29T14:23:00.000Z",
-      "text": "Daily sunscreen is the step most of us skip and the one that protects the skin you are working so hard to support. Make it a habit this fall. #MenopauseSkin #Sunscreen https://t.co/g2ztRGFz2q"
+      "text": "Daily sunscreen is the step most of us skip and the one that protects the skin you are working so hard to support. Make it a habit this fall. #MenopauseSkin #Sunscreen"
     }
   ],
   "drafts_today": [
     {
-      "topic": "gift for her",
+      "topic": "moisturizer question",
       "keywords": [
-        "menopause skin",
         "winter dryness",
-        "fewer products"
+        "menopause skin"
       ],
-      "text": "The gift for the woman who says she needs nothing: one really good night cream and permission to use it every single night. Winter skin after 40 notices the difference by the weekend. #GiftsForHer #MenopauseSkin",
-      "video_tip": "12 seconds: a plain gift bag, tissue paper lifted out, one RIMAN cream inside. Cut to a fingertip of cream warmed between hands and pressed onto cheeks. Caption: 'She said she needs nothing.'",
-      "intent_url": "https://x.com/intent/post?text=The%20gift%20for%20the%20woman%20who%20says%20she%20needs%20nothing%3A%20one%20really%20good%20night%20cream%20and%20permission%20to%20use%20it%20every%20single%20night.%20Winter%20skin%20after%2040%20notices%20the%20difference%20by%20the%20weekend.%20%23GiftsForHer%20%23MenopauseSkin"
+      "text": "Women 40+: if they discontinued your moisturizer tomorrow, which one would you panic about? Mine is my RIMAN night cream. Tell me yours, I want to know what's actually working this winter. #DrySkin #MenopauseSkin",
+      "video_tip": "10 seconds: hold your night cream jar up to the camera, on-screen text \"If they discontinued it, I'd panic.\" End on \"Comment yours\".",
+      "intent_url": "https://x.com/intent/post?text=Women%2040%2B%3A%20if%20they%20discontinued%20your%20moisturizer%20tomorrow%2C%20which%20one%20would%20you%20panic%20about%3F%20Mine%20is%20my%20RIMAN%20night%20cream.%20Tell%20me%20yours%2C%20I%20want%20to%20know%20what%27s%20actually%20working%20this%20winter.%20%23DrySkin%20%23MenopauseSkin"
     },
     {
-      "topic": "skin barrier",
+      "topic": "Healthy Skin Month",
       "keywords": [
         "skin barrier",
-        "winter dryness",
-        "three-step routine"
+        "three-step routine",
+        "fewer products"
       ],
-      "text": "Rubbing your cream in hard? After 40, try pressing instead. Warm it between your palms, press it onto your face and hold for a few seconds. Less tugging, better absorption, happier skin barrier. #SkinBarrier #SkincareOver40",
-      "video_tip": "10 seconds, split screen: left side rubbing in circles (red X), right side warming cream in palms and pressing onto cheeks (check mark). Caption: 'Press, don't rub.'",
-      "intent_url": "https://x.com/intent/post?text=Rubbing%20your%20cream%20in%20hard%3F%20After%2040%2C%20try%20pressing%20instead.%20Warm%20it%20between%20your%20palms%2C%20press%20it%20onto%20your%20face%20and%20hold%20for%20a%20few%20seconds.%20Less%20tugging%2C%20better%20absorption%2C%20happier%20skin%20barrier.%20%23SkinBarrier%20%23SkincareOver40"
+      "text": "November is National Healthy Skin Month. My challenge for women 40+: the same three products every night for seven nights, nothing new added. Healthy skin likes boring. Who's in? #NationalHealthySkinMonth #SkinBarrier",
+      "video_tip": "15 seconds: three RIMAN products lined up on the counter, then a paper calendar getting seven check marks in fast cuts.",
+      "intent_url": "https://x.com/intent/post?text=November%20is%20National%20Healthy%20Skin%20Month.%20My%20challenge%20for%20women%2040%2B%3A%20the%20same%20three%20products%20every%20night%20for%20seven%20nights%2C%20nothing%20new%20added.%20Healthy%20skin%20likes%20boring.%20Who%27s%20in%3F%20%23NationalHealthySkinMonth%20%23SkinBarrier"
     },
     {
-      "topic": "menopause skin",
+      "topic": "gel or cream",
       "keywords": [
-        "menopause skin",
-        "fewer products",
-        "skin barrier"
+        "winter dryness",
+        "menopause skin"
       ],
-      "text": "Menopause skin isn't just 'dry.' Estrogen drops, oil drops, and your barrier gets thinner. More products won't fix that. A gentle cleanser, one serum and a rich cream, used every day, will. #MenopauseSkin #FewerProducts",
-      "video_tip": "15 seconds: a crowded shelf of half-used bottles swept into a basket, leaving three RIMAN steps standing. Text overlay: 'Thinner barrier? Fewer products.'",
-      "intent_url": "https://x.com/intent/post?text=Menopause%20skin%20isn%27t%20just%20%27dry.%27%20Estrogen%20drops%2C%20oil%20drops%2C%20and%20your%20barrier%20gets%20thinner.%20More%20products%20won%27t%20fix%20that.%20A%20gentle%20cleanser%2C%20one%20serum%20and%20a%20rich%20cream%2C%20used%20every%20day%2C%20will.%20%23MenopauseSkin%20%23FewerProducts"
+      "text": "Gel or cream? Once the heat comes on, most skin over 40 wants the cream at night, even if a gel was perfect all summer. Your routine is allowed to change with the season. #DrySkin #MenopauseSkin",
+      "video_tip": "8 seconds: swatch a gel and a cream side by side on the back of your hand, then text \"Summer: gel. Winter nights: cream.\"",
+      "intent_url": "https://x.com/intent/post?text=Gel%20or%20cream%3F%20Once%20the%20heat%20comes%20on%2C%20most%20skin%20over%2040%20wants%20the%20cream%20at%20night%2C%20even%20if%20a%20gel%20was%20perfect%20all%20summer.%20Your%20routine%20is%20allowed%20to%20change%20with%20the%20season.%20%23DrySkin%20%23MenopauseSkin"
     }
   ],
   "trend_keywords": {
@@ -160,37 +142,35 @@
   "trend_radar": {
     "ideas": [
       {
-        "topic": "gift for her",
+        "topic": "moisturizer question",
         "keywords": [
-          "menopause skin",
           "winter dryness",
-          "fewer products"
+          "menopause skin"
         ],
-        "text": "The gift for the woman who says she needs nothing: one really good night cream and permission to use it every single night. Winter skin after 40 notices the difference by the weekend. #GiftsForHer #MenopauseSkin",
-        "video_tip": "12 seconds: a plain gift bag, tissue paper lifted out, one RIMAN cream inside. Cut to a fingertip of cream warmed between hands and pressed onto cheeks. Caption: 'She said she needs nothing.'",
-        "intent_url": "https://x.com/intent/post?text=The%20gift%20for%20the%20woman%20who%20says%20she%20needs%20nothing%3A%20one%20really%20good%20night%20cream%20and%20permission%20to%20use%20it%20every%20single%20night.%20Winter%20skin%20after%2040%20notices%20the%20difference%20by%20the%20weekend.%20%23GiftsForHer%20%23MenopauseSkin"
+        "text": "Women 40+: if they discontinued your moisturizer tomorrow, which one would you panic about? Mine is my RIMAN night cream. Tell me yours, I want to know what's actually working this winter. #DrySkin #MenopauseSkin",
+        "video_tip": "10 seconds: hold your night cream jar up to the camera, on-screen text \"If they discontinued it, I'd panic.\" End on \"Comment yours\".",
+        "intent_url": "https://x.com/intent/post?text=Women%2040%2B%3A%20if%20they%20discontinued%20your%20moisturizer%20tomorrow%2C%20which%20one%20would%20you%20panic%20about%3F%20Mine%20is%20my%20RIMAN%20night%20cream.%20Tell%20me%20yours%2C%20I%20want%20to%20know%20what%27s%20actually%20working%20this%20winter.%20%23DrySkin%20%23MenopauseSkin"
       },
       {
-        "topic": "skin barrier",
+        "topic": "Healthy Skin Month",
         "keywords": [
           "skin barrier",
-          "winter dryness",
-          "three-step routine"
+          "three-step routine",
+          "fewer products"
         ],
-        "text": "Rubbing your cream in hard? After 40, try pressing instead. Warm it between your palms, press it onto your face and hold for a few seconds. Less tugging, better absorption, happier skin barrier. #SkinBarrier #SkincareOver40",
-        "video_tip": "10 seconds, split screen: left side rubbing in circles (red X), right side warming cream in palms and pressing onto cheeks (check mark). Caption: 'Press, don't rub.'",
-        "intent_url": "https://x.com/intent/post?text=Rubbing%20your%20cream%20in%20hard%3F%20After%2040%2C%20try%20pressing%20instead.%20Warm%20it%20between%20your%20palms%2C%20press%20it%20onto%20your%20face%20and%20hold%20for%20a%20few%20seconds.%20Less%20tugging%2C%20better%20absorption%2C%20happier%20skin%20barrier.%20%23SkinBarrier%20%23SkincareOver40"
+        "text": "November is National Healthy Skin Month. My challenge for women 40+: the same three products every night for seven nights, nothing new added. Healthy skin likes boring. Who's in? #NationalHealthySkinMonth #SkinBarrier",
+        "video_tip": "15 seconds: three RIMAN products lined up on the counter, then a paper calendar getting seven check marks in fast cuts.",
+        "intent_url": "https://x.com/intent/post?text=November%20is%20National%20Healthy%20Skin%20Month.%20My%20challenge%20for%20women%2040%2B%3A%20the%20same%20three%20products%20every%20night%20for%20seven%20nights%2C%20nothing%20new%20added.%20Healthy%20skin%20likes%20boring.%20Who%27s%20in%3F%20%23NationalHealthySkinMonth%20%23SkinBarrier"
       },
       {
-        "topic": "menopause skin",
+        "topic": "gel or cream",
         "keywords": [
-          "menopause skin",
-          "fewer products",
-          "skin barrier"
+          "winter dryness",
+          "menopause skin"
         ],
-        "text": "Menopause skin isn't just 'dry.' Estrogen drops, oil drops, and your barrier gets thinner. More products won't fix that. A gentle cleanser, one serum and a rich cream, used every day, will. #MenopauseSkin #FewerProducts",
-        "video_tip": "15 seconds: a crowded shelf of half-used bottles swept into a basket, leaving three RIMAN steps standing. Text overlay: 'Thinner barrier? Fewer products.'",
-        "intent_url": "https://x.com/intent/post?text=Menopause%20skin%20isn%27t%20just%20%27dry.%27%20Estrogen%20drops%2C%20oil%20drops%2C%20and%20your%20barrier%20gets%20thinner.%20More%20products%20won%27t%20fix%20that.%20A%20gentle%20cleanser%2C%20one%20serum%20and%20a%20rich%20cream%2C%20used%20every%20day%2C%20will.%20%23MenopauseSkin%20%23FewerProducts"
+        "text": "Gel or cream? Once the heat comes on, most skin over 40 wants the cream at night, even if a gel was perfect all summer. Your routine is allowed to change with the season. #DrySkin #MenopauseSkin",
+        "video_tip": "8 seconds: swatch a gel and a cream side by side on the back of your hand, then text \"Summer: gel. Winter nights: cream.\"",
+        "intent_url": "https://x.com/intent/post?text=Gel%20or%20cream%3F%20Once%20the%20heat%20comes%20on%2C%20most%20skin%20over%2040%20wants%20the%20cream%20at%20night%2C%20even%20if%20a%20gel%20was%20perfect%20all%20summer.%20Your%20routine%20is%20allowed%20to%20change%20with%20the%20season.%20%23DrySkin%20%23MenopauseSkin"
       }
     ]
   },
@@ -213,8 +193,8 @@
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 91,
-      "total_views": 247,
+      "views": 62,
+      "total_views": 104,
       "hit": false
     },
     {
@@ -263,27 +243,28 @@
   "you_rank": null,
   "trend_input_only_posts": [],
   "leaderboards": {
-    "as_of": "2026-11-03",
+    "as_of": "2026-11-04",
     "tracking_start": "2026-10-27",
     "days_included": [
-      "2026-10-28",
       "2026-10-29",
       "2026-10-30",
       "2026-10-31",
       "2026-11-01",
       "2026-11-02",
-      "2026-11-03"
+      "2026-11-03",
+      "2026-11-04"
     ],
     "month_days_included": [
       "2026-11-01",
       "2026-11-02",
-      "2026-11-03"
+      "2026-11-03",
+      "2026-11-04"
     ],
     "week": {
-      "label": "Rolling week · Oct 28–Nov 3",
+      "label": "Rolling week · Oct 29–Nov 4",
       "range": [
-        "2026-10-28",
-        "2026-11-03"
+        "2026-10-29",
+        "2026-11-04"
       ],
       "entries": []
     },
@@ -291,7 +272,7 @@
       "label": "November 2026 · from Nov 1",
       "range": [
         "2026-11-01",
-        "2026-11-03"
+        "2026-11-04"
       ],
       "entries": []
     }

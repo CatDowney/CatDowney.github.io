@@ -1,0 +1,22 @@
+{
+  "source": "get_users_posts exclude=retweets,replies start 2026-10-28T18:00:00Z",
+  "originals": [
+    {
+      "handle": "DiscoverSelf",
+      "name": "Celebrate Woman",
+      "views": 62,
+      "url": "https://x.com/DiscoverSelf/status/2116175289357115894",
+      "posted_at": "2026-10-30T14:28:00.000Z",
+      "text": "Not every great gift is glamorous. A gentle electric #toothbrush says \u201cI want you to feel good every single day.\u201d Perfect for the woman 40+ who takes care of everyone else first. #giftsforher #holidayseason #gifts"
+    },
+    {
+      "handle": "DiscoverSelf",
+      "name": "Celebrate Woman",
+      "views": 42,
+      "url": "https://x.com/DiscoverSelf/status/2115811643414216815",
+      "posted_at": "2026-10-29T14:23:00.000Z",
+      "text": "Daily sunscreen is the step most of us skip and the one that protects the skin you are working so hard to support. Make it a habit this fall. #MenopauseSkin #Sunscreen"
+    }
+  ],
+  "note": "cerave had 1 quote post (excluded); other 6 accounts 0 posts"
+}
