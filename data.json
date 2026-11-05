@@ -1,8 +1,8 @@
 {
-  "title": "Cats Health and Beauty · daily X skincare digest - 2026-11-04",
-  "date": "2026-11-04",
+  "title": "Cats Health and Beauty · daily X skincare digest - 2026-11-05",
+  "date": "2026-11-05",
   "timezone": "America/Vancouver",
-  "updated": "2026-11-04T11:07:53-07:00",
+  "updated": "2026-11-05T11:18:36-07:00",
   "brand_title": "Cats Health and Beauty · X Skincare Board",
   "brand_handle": "@CatsBeauty26",
   "virals_title": "Outsiders · last 48h",
@@ -18,8 +18,8 @@
     },
     {
       "handle": "DiscoverSelf",
-      "reason": "2 originals in 7 days, highest 62 views",
-      "max_views": 62
+      "reason": "2 originals in 7 days, highest 69 views",
+      "max_views": 69
     },
     {
       "handle": "cerave",
@@ -59,15 +59,15 @@
   "hits_count": 0,
   "outsiders_count": 0,
   "watch_window": {
-    "start": "2026-10-28T18:00:00Z",
-    "end": "2026-11-04T18:07:53Z",
+    "start": "2026-10-29T18:00:00Z",
+    "end": "2026-11-05T18:17:25Z",
     "source": "X API user timelines + search, originals only"
   },
   "watchlist_posts_7d": [
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 62,
+      "views": 69,
       "url": "https://x.com/DiscoverSelf/status/2116175289357115894",
       "posted_at": "2026-10-30T14:28:00.000Z",
       "text": "Not every great gift is glamorous. A gentle electric #toothbrush says “I want you to feel good every single day.” Perfect for the woman 40+ who takes care of everyone else first. #giftsforher #holidayseason #gifts"
@@ -75,10 +75,10 @@
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 42,
-      "url": "https://x.com/DiscoverSelf/status/2115811643414216815",
-      "posted_at": "2026-10-29T14:23:00.000Z",
-      "text": "Daily sunscreen is the step most of us skip and the one that protects the skin you are working so hard to support. Make it a habit this fall. #MenopauseSkin #Sunscreen"
+      "views": 16,
+      "url": "https://x.com/DiscoverSelf/status/2118316649141191103",
+      "posted_at": "2026-11-05T12:17:00.000Z",
+      "text": "Menopause can change how your mouth feels, from sensitive gums to dryness. A soft-bristle electric brush with a pressure sensor is a quiet, practical gift she will use daily. #gifts #giftideas #giftsforher"
     }
   ],
   "drafts_today": [
@@ -88,30 +88,31 @@
         "winter dryness",
         "menopause skin"
       ],
-      "text": "Women 40+: if they discontinued your moisturizer tomorrow, which one would you panic about? Mine is my RIMAN night cream. Tell me yours, I want to know what's actually working this winter. #DrySkin #MenopauseSkin",
-      "video_tip": "10 seconds: hold your night cream jar up to the camera, on-screen text \"If they discontinued it, I'd panic.\" End on \"Comment yours\".",
-      "intent_url": "https://x.com/intent/post?text=Women%2040%2B%3A%20if%20they%20discontinued%20your%20moisturizer%20tomorrow%2C%20which%20one%20would%20you%20panic%20about%3F%20Mine%20is%20my%20RIMAN%20night%20cream.%20Tell%20me%20yours%2C%20I%20want%20to%20know%20what%27s%20actually%20working%20this%20winter.%20%23DrySkin%20%23MenopauseSkin"
+      "text": "Women 40+: what moisturizer do you refuse to run out of this winter? Mine is my RIMAN night cream — rich enough for menopause-dry skin without the greasy film. Drop yours below so we can all steal good ideas. #DrySkin #MenopauseSkin",
+      "video_tip": "12 seconds: hold up the RIMAN jar, on-screen text \"The one I refuse to run out of\", then point to comments.",
+      "intent_url": "https://x.com/intent/post?text=Women%2040%2B%3A%20what%20moisturizer%20do%20you%20refuse%20to%20run%20out%20of%20this%20winter%3F%20Mine%20is%20my%20RIMAN%20night%20cream%20%E2%80%94%20rich%20enough%20for%20menopause-dry%20skin%20without%20the%20greasy%20film.%20Drop%20yours%20below%20so%20we%20can%20all%20steal%20good%20ideas.%20%23DrySkin%20%23MenopauseSkin"
     },
     {
-      "topic": "Healthy Skin Month",
+      "topic": "tight after cream",
       "keywords": [
         "skin barrier",
-        "three-step routine",
-        "fewer products"
+        "winter dryness",
+        "three-step routine"
       ],
-      "text": "November is National Healthy Skin Month. My challenge for women 40+: the same three products every night for seven nights, nothing new added. Healthy skin likes boring. Who's in? #NationalHealthySkinMonth #SkinBarrier",
-      "video_tip": "15 seconds: three RIMAN products lined up on the counter, then a paper calendar getting seven check marks in fast cuts.",
-      "intent_url": "https://x.com/intent/post?text=November%20is%20National%20Healthy%20Skin%20Month.%20My%20challenge%20for%20women%2040%2B%3A%20the%20same%20three%20products%20every%20night%20for%20seven%20nights%2C%20nothing%20new%20added.%20Healthy%20skin%20likes%20boring.%20Who%27s%20in%3F%20%23NationalHealthySkinMonth%20%23SkinBarrier"
+      "text": "If your face still feels tight after moisturizer, you are not under-creaming. Your barrier wants gentler cleansing and cream on damp skin. My three-step: soft cleanse, hydrate while wet, seal with RIMAN at night. #SkinBarrier #WinterSkin",
+      "video_tip": "15 seconds: mist/dampen face, apply cream while skin is shiny-wet, caption \"Damp skin first\".",
+      "intent_url": "https://x.com/intent/post?text=If%20your%20face%20still%20feels%20tight%20after%20moisturizer%2C%20you%20are%20not%20under-creaming.%20Your%20barrier%20wants%20gentler%20cleansing%20and%20cream%20on%20damp%20skin.%20My%20three-step%3A%20soft%20cleanse%2C%20hydrate%20while%20wet%2C%20seal%20with%20RIMAN%20at%20night.%20%23SkinBarrier%20%23WinterSkin"
     },
     {
-      "topic": "gel or cream",
+      "topic": "practical gift",
       "keywords": [
-        "winter dryness",
-        "menopause skin"
+        "menopause skin",
+        "fewer products",
+        "winter dryness"
       ],
-      "text": "Gel or cream? Once the heat comes on, most skin over 40 wants the cream at night, even if a gel was perfect all summer. Your routine is allowed to change with the season. #DrySkin #MenopauseSkin",
-      "video_tip": "8 seconds: swatch a gel and a cream side by side on the back of your hand, then text \"Summer: gel. Winter nights: cream.\"",
-      "intent_url": "https://x.com/intent/post?text=Gel%20or%20cream%3F%20Once%20the%20heat%20comes%20on%2C%20most%20skin%20over%2040%20wants%20the%20cream%20at%20night%2C%20even%20if%20a%20gel%20was%20perfect%20all%20summer.%20Your%20routine%20is%20allowed%20to%20change%20with%20the%20season.%20%23DrySkin%20%23MenopauseSkin"
+      "text": "Holiday gift for the woman 40+ who buys everyone else's presents first: skip the novelty set. One richer night cream she will actually finish. Barrier care is love. I keep RIMAN on my list. #GiftsForHer #MenopauseSkin",
+      "video_tip": "10 seconds: wrap a single night cream, unwrap to the jar label, end on \"One product she'll finish\".",
+      "intent_url": "https://x.com/intent/post?text=Holiday%20gift%20for%20the%20woman%2040%2B%20who%20buys%20everyone%20else%27s%20presents%20first%3A%20skip%20the%20novelty%20set.%20One%20richer%20night%20cream%20she%20will%20actually%20finish.%20Barrier%20care%20is%20love.%20I%20keep%20RIMAN%20on%20my%20list.%20%23GiftsForHer%20%23MenopauseSkin"
     }
   ],
   "trend_keywords": {
@@ -147,30 +148,31 @@
           "winter dryness",
           "menopause skin"
         ],
-        "text": "Women 40+: if they discontinued your moisturizer tomorrow, which one would you panic about? Mine is my RIMAN night cream. Tell me yours, I want to know what's actually working this winter. #DrySkin #MenopauseSkin",
-        "video_tip": "10 seconds: hold your night cream jar up to the camera, on-screen text \"If they discontinued it, I'd panic.\" End on \"Comment yours\".",
-        "intent_url": "https://x.com/intent/post?text=Women%2040%2B%3A%20if%20they%20discontinued%20your%20moisturizer%20tomorrow%2C%20which%20one%20would%20you%20panic%20about%3F%20Mine%20is%20my%20RIMAN%20night%20cream.%20Tell%20me%20yours%2C%20I%20want%20to%20know%20what%27s%20actually%20working%20this%20winter.%20%23DrySkin%20%23MenopauseSkin"
+        "text": "Women 40+: what moisturizer do you refuse to run out of this winter? Mine is my RIMAN night cream — rich enough for menopause-dry skin without the greasy film. Drop yours below so we can all steal good ideas. #DrySkin #MenopauseSkin",
+        "video_tip": "12 seconds: hold up the RIMAN jar, on-screen text \"The one I refuse to run out of\", then point to comments.",
+        "intent_url": "https://x.com/intent/post?text=Women%2040%2B%3A%20what%20moisturizer%20do%20you%20refuse%20to%20run%20out%20of%20this%20winter%3F%20Mine%20is%20my%20RIMAN%20night%20cream%20%E2%80%94%20rich%20enough%20for%20menopause-dry%20skin%20without%20the%20greasy%20film.%20Drop%20yours%20below%20so%20we%20can%20all%20steal%20good%20ideas.%20%23DrySkin%20%23MenopauseSkin"
       },
       {
-        "topic": "Healthy Skin Month",
+        "topic": "tight after cream",
         "keywords": [
           "skin barrier",
-          "three-step routine",
-          "fewer products"
+          "winter dryness",
+          "three-step routine"
         ],
-        "text": "November is National Healthy Skin Month. My challenge for women 40+: the same three products every night for seven nights, nothing new added. Healthy skin likes boring. Who's in? #NationalHealthySkinMonth #SkinBarrier",
-        "video_tip": "15 seconds: three RIMAN products lined up on the counter, then a paper calendar getting seven check marks in fast cuts.",
-        "intent_url": "https://x.com/intent/post?text=November%20is%20National%20Healthy%20Skin%20Month.%20My%20challenge%20for%20women%2040%2B%3A%20the%20same%20three%20products%20every%20night%20for%20seven%20nights%2C%20nothing%20new%20added.%20Healthy%20skin%20likes%20boring.%20Who%27s%20in%3F%20%23NationalHealthySkinMonth%20%23SkinBarrier"
+        "text": "If your face still feels tight after moisturizer, you are not under-creaming. Your barrier wants gentler cleansing and cream on damp skin. My three-step: soft cleanse, hydrate while wet, seal with RIMAN at night. #SkinBarrier #WinterSkin",
+        "video_tip": "15 seconds: mist/dampen face, apply cream while skin is shiny-wet, caption \"Damp skin first\".",
+        "intent_url": "https://x.com/intent/post?text=If%20your%20face%20still%20feels%20tight%20after%20moisturizer%2C%20you%20are%20not%20under-creaming.%20Your%20barrier%20wants%20gentler%20cleansing%20and%20cream%20on%20damp%20skin.%20My%20three-step%3A%20soft%20cleanse%2C%20hydrate%20while%20wet%2C%20seal%20with%20RIMAN%20at%20night.%20%23SkinBarrier%20%23WinterSkin"
       },
       {
-        "topic": "gel or cream",
+        "topic": "practical gift",
         "keywords": [
-          "winter dryness",
-          "menopause skin"
+          "menopause skin",
+          "fewer products",
+          "winter dryness"
         ],
-        "text": "Gel or cream? Once the heat comes on, most skin over 40 wants the cream at night, even if a gel was perfect all summer. Your routine is allowed to change with the season. #DrySkin #MenopauseSkin",
-        "video_tip": "8 seconds: swatch a gel and a cream side by side on the back of your hand, then text \"Summer: gel. Winter nights: cream.\"",
-        "intent_url": "https://x.com/intent/post?text=Gel%20or%20cream%3F%20Once%20the%20heat%20comes%20on%2C%20most%20skin%20over%2040%20wants%20the%20cream%20at%20night%2C%20even%20if%20a%20gel%20was%20perfect%20all%20summer.%20Your%20routine%20is%20allowed%20to%20change%20with%20the%20season.%20%23DrySkin%20%23MenopauseSkin"
+        "text": "Holiday gift for the woman 40+ who buys everyone else's presents first: skip the novelty set. One richer night cream she will actually finish. Barrier care is love. I keep RIMAN on my list. #GiftsForHer #MenopauseSkin",
+        "video_tip": "10 seconds: wrap a single night cream, unwrap to the jar label, end on \"One product she'll finish\".",
+        "intent_url": "https://x.com/intent/post?text=Holiday%20gift%20for%20the%20woman%2040%2B%20who%20buys%20everyone%20else%27s%20presents%20first%3A%20skip%20the%20novelty%20set.%20One%20richer%20night%20cream%20she%20will%20actually%20finish.%20Barrier%20care%20is%20love.%20I%20keep%20RIMAN%20on%20my%20list.%20%23GiftsForHer%20%23MenopauseSkin"
       }
     ]
   },
@@ -193,8 +195,8 @@
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 62,
-      "total_views": 104,
+      "views": 69,
+      "total_views": 85,
       "hit": false
     },
     {
@@ -243,28 +245,29 @@
   "you_rank": null,
   "trend_input_only_posts": [],
   "leaderboards": {
-    "as_of": "2026-11-04",
+    "as_of": "2026-11-05",
     "tracking_start": "2026-10-27",
     "days_included": [
-      "2026-10-29",
       "2026-10-30",
       "2026-10-31",
       "2026-11-01",
       "2026-11-02",
       "2026-11-03",
-      "2026-11-04"
+      "2026-11-04",
+      "2026-11-05"
     ],
     "month_days_included": [
       "2026-11-01",
       "2026-11-02",
       "2026-11-03",
-      "2026-11-04"
+      "2026-11-04",
+      "2026-11-05"
     ],
     "week": {
-      "label": "Rolling week · Oct 29–Nov 4",
+      "label": "Rolling week · Oct 30–Nov 5",
       "range": [
-        "2026-10-29",
-        "2026-11-04"
+        "2026-10-30",
+        "2026-11-05"
       ],
       "entries": []
     },
@@ -272,7 +275,7 @@
       "label": "November 2026 · from Nov 1",
       "range": [
         "2026-11-01",
-        "2026-11-04"
+        "2026-11-05"
       ],
       "entries": []
     }

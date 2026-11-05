@@ -1,0 +1,134 @@
+{
+  "fetched_at": "2026-11-05T18:17:25Z",
+  "window_7d_start": "2026-10-29T18:00:00Z",
+  "window_24h_start": "2026-11-04T18:00:00Z",
+  "accounts": {
+    "skincarebyhyram": {
+      "id": "915643808649404416",
+      "name": "Hyram",
+      "posts": []
+    },
+    "DiscoverSelf": {
+      "id": "24968293",
+      "name": "Celebrate Woman",
+      "posts": [
+        {
+          "id": "2118316649141191103",
+          "created_at": "2026-11-05T12:17:00.000Z",
+          "views": 16,
+          "likes": 0,
+          "replies": 0,
+          "retweets": 0,
+          "text": "Menopause can change how your mouth feels, from sensitive gums to dryness. A soft-bristle electric brush with a pressure sensor is a quiet, practical gift she will use daily. #gifts #giftideas #giftsforher",
+          "url": "https://x.com/DiscoverSelf/status/2118316649141191103"
+        },
+        {
+          "id": "2116175289357115894",
+          "created_at": "2026-10-30T14:28:00.000Z",
+          "views": 69,
+          "likes": 0,
+          "replies": 0,
+          "retweets": 0,
+          "text": "Not every great gift is glamorous. A gentle electric #toothbrush says \u201cI want you to feel good every single day.\u201d Perfect for the woman 40+ who takes care of everyone else first. #giftsforher #holidayseason #gifts",
+          "url": "https://x.com/DiscoverSelf/status/2116175289357115894"
+        }
+      ]
+    },
+    "cerave": {
+      "id": "44693072",
+      "name": "CeraVe",
+      "posts": []
+    },
+    "LabMuffin": {
+      "id": "428650517",
+      "name": "Dr Michelle Wong",
+      "posts": []
+    },
+    "GlowRecipe": {
+      "id": "2584952916",
+      "name": "Glow Recipe",
+      "posts": []
+    },
+    "PaulasChoice": {
+      "id": "15842700",
+      "name": "Paula's Choice",
+      "posts": []
+    },
+    "sokoglam": {
+      "id": "773058170",
+      "name": "Soko Glam",
+      "posts": []
+    },
+    "drdrayzday": {
+      "id": "805778873996771328",
+      "name": "drdrayzday",
+      "posts": []
+    }
+  },
+  "operator": {
+    "username": "CatsBeauty26",
+    "id": "2116627162703003648",
+    "name": "Cat Downey",
+    "public_metrics": {
+      "followers_count": 0,
+      "following_count": 15,
+      "tweet_count": 2,
+      "like_count": 7,
+      "media_count": 1
+    },
+    "posts": [
+      {
+        "id": "2117152096466416076",
+        "created_at": "2026-11-02T07:09:29.000Z",
+        "type": "retweet",
+        "text": "RT @BillAckman: NYC is cool.",
+        "views": 0,
+        "likes": 0,
+        "url": "https://x.com/CatsBeauty26/status/2117152096466416076"
+      },
+      {
+        "id": "2116958512928739609",
+        "created_at": "2026-11-01T18:20:15.000Z",
+        "type": "original",
+        "text": "\"First week of November and your skin feels tight by noon? It's not your age, it's the air. Swap a foaming cleanser for a gentle one, hydrate on damp skin, and seal it in with a richer cream at night. #DrySkin\"",
+        "views": 5,
+        "likes": 0,
+        "url": "https://x.com/CatsBeauty26/status/2116958512928739609"
+      }
+    ]
+  },
+  "niche_signals": [
+    {
+      "hook": "moisturizer question",
+      "views": 216,
+      "replies": 7,
+      "url": "https://x.com/smeral_ho/status/2117891001201352924",
+      "text": "What moisturizer should I buy for my dry ass skin"
+    },
+    {
+      "hook": "winter glow routine",
+      "views": 15096,
+      "likes": 396,
+      "url": "https://x.com/345marcel/status/2117685282267132356",
+      "text": "This winter arc it\u2019s all about keeping the glow..."
+    },
+    {
+      "hook": "menopause skin knowledge gap",
+      "views": 40,
+      "url": "https://x.com/galderma/status/2118307005458968645",
+      "text": "We are committed to bridging the menopause-skin knowledge gap."
+    },
+    {
+      "hook": "tight after moisturizer = barrier",
+      "views": 3,
+      "url": "https://x.com/flawlessbloom_/status/2117953513955430535",
+      "text": "If your skin feels tight right after moisturizing..."
+    },
+    {
+      "hook": "practical menopause gift",
+      "views": 16,
+      "url": "https://x.com/DiscoverSelf/status/2118316649141191103",
+      "text": "Menopause can change how your mouth feels... practical gift"
+    }
+  ]
+}
