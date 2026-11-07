@@ -1,0 +1,107 @@
+{
+  "data": [
+    {
+      "author_id": "2116627162703003648",
+      "created_at": "2026-11-02T07:09:29.000Z",
+      "edit_history_tweet_ids": [
+        "2117152096466416076"
+      ],
+      "id": "2117152096466416076",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 303
+      },
+      "referenced_tweets": [
+        {
+          "id": "2116670275345351047",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @BillAckman: NYC is cool.",
+      "url": "https://x.com/CatsBeauty26/status/2117152096466416076"
+    },
+    {
+      "author_id": "2116627162703003648",
+      "created_at": "2026-11-01T18:20:15.000Z",
+      "edit_history_tweet_ids": [
+        "2116958512928739609"
+      ],
+      "id": "2116958512928739609",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "\"First week of November and your skin feels tight by noon? It's not your age, it's the air. Swap a foaming cleanser for a gentle one, hydrate on damp skin, and seal it in with a richer cream at night. #DrySkin\" https://t.co/MaU2JaoCLY",
+      "url": "https://x.com/CatsBeauty26/status/2116958512928739609"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "880412538625810432",
+        "created_at": "2026-10-31T23:14:54.000Z",
+        "edit_history_tweet_ids": [
+          "2116670275345351047"
+        ],
+        "id": "2116670275345351047",
+        "public_metrics": {
+          "bookmark_count": 515,
+          "impression_count": 637754,
+          "like_count": 5212,
+          "quote_count": 12,
+          "reply_count": 165,
+          "retweet_count": 303
+        },
+        "referenced_tweets": [
+          {
+            "id": "2116617221841522928",
+            "type": "quoted"
+          }
+        ],
+        "text": "NYC is cool. https://t.co/EYetNJ2L6Z"
+      }
+    ],
+    "users": [
+      {
+        "id": "2116627162703003648",
+        "name": "Cat Downey",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2116627760181649408/paXYW6Ic_normal.jpg",
+        "username": "CatsBeauty26",
+        "verified": false
+      },
+      {
+        "id": "880412538625810432",
+        "name": "Bill Ackman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619837521059348481/9UeNLFmD_normal.jpg",
+        "username": "BillAckman",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2117152096466416076",
+    "oldest_id": "2116958512928739609",
+    "result_count": 2
+  },
+  "profile": {
+    "id": "2116627162703003648",
+    "username": "CatsBeauty26",
+    "name": "Cat Downey",
+    "public_metrics": {
+      "followers_count": 0,
+      "following_count": 15,
+      "like_count": 7,
+      "listed_count": 0,
+      "media_count": 1,
+      "tweet_count": 2
+    }
+  }
+}

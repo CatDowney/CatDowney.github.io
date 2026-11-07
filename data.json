@@ -1,8 +1,8 @@
 {
-  "title": "Cats Health and Beauty · daily X skincare digest - 2026-11-06",
-  "date": "2026-11-06",
+  "title": "Cats Health and Beauty · daily X skincare digest - 2026-11-07",
+  "date": "2026-11-07",
   "timezone": "America/Vancouver",
-  "updated": "2026-11-06T11:08:59-07:00",
+  "updated": "2026-11-07T11:02:11-07:00",
   "brand_title": "Cats Health and Beauty · X Skincare Board",
   "brand_handle": "@CatsBeauty26",
   "virals_title": "Outsiders · last 48h",
@@ -18,8 +18,8 @@
     },
     {
       "handle": "DiscoverSelf",
-      "reason": "1 original in 7 days, highest 23 views",
-      "max_views": 23
+      "reason": "2 originals in 7 days, highest 36 views",
+      "max_views": 36
     },
     {
       "handle": "cerave",
@@ -59,15 +59,23 @@
   "hits_count": 0,
   "outsiders_count": 0,
   "watch_window": {
-    "start": "2026-10-30T18:00:00Z",
-    "end": "2026-11-06T18:08:59Z",
+    "start": "2026-10-31T18:00:00Z",
+    "end": "2026-11-07T18:02:11Z",
     "source": "X API user timelines + search, originals only"
   },
   "watchlist_posts_7d": [
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 23,
+      "views": 36,
+      "url": "https://x.com/DiscoverSelf/status/2119047967990546770",
+      "posted_at": "2026-11-07T12:43:00.000Z",
+      "text": "#Winter air makes #menopause #skin feel even drier. A creamy shea butter bar turns a warm-water hand wash into a small ritual she will look forward to. #soap #gifts #giftsforher"
+    },
+    {
+      "handle": "DiscoverSelf",
+      "name": "Celebrate Woman",
+      "views": 25,
       "url": "https://x.com/DiscoverSelf/status/2118316649141191103",
       "posted_at": "2026-11-05T12:17:00.000Z",
       "text": "Menopause can change how your mouth feels, from sensitive gums to dryness. A soft-bristle electric brush with a pressure sensor is a quiet, practical gift she will use daily. #gifts #giftideas #giftsforher"
@@ -75,37 +83,35 @@
   ],
   "drafts_today": [
     {
-      "topic": "fewer products barrier reset",
+      "topic": "glass skin after 40",
       "keywords": [
-        "skin barrier",
         "fewer products",
+        "skin barrier",
         "menopause skin"
       ],
-      "text": "Women 40+: if your skin is red, tight, or burning, try fewer products for two weeks. One gentle cleanser. One rich cream. My reset is RIMAN at night — barrier first, glow second. Who's stripping back with me? #SkinBarrier #MenopauseSkin",
-      "video_tip": "12 seconds: show a crowded shelf, sweep products aside, leave cleanser + RIMAN jar, caption \"Fewer products. Stronger barrier.\"",
-      "intent_url": "https://x.com/intent/post?text=Women%2040%2B%3A%20if%20your%20skin%20is%20red%2C%20tight%2C%20or%20burning%2C%20try%20fewer%20products%20for%20two%20weeks.%20One%20gentle%20cleanser.%20One%20rich%20cream.%20My%20reset%20is%20RIMAN%20at%20night%20%E2%80%94%20barrier%20first%2C%20glow%20second.%20Who%27s%20stripping%20back%20with%20me%3F%20%23SkinBarrier%20%23MenopauseSkin"
+      "text": "Glass skin after 40 isn't ten steps. It's water in, barrier strong, cream sealed on damp skin. That's it. My night is three products, finished with RIMAN. Dewy beats busy. #GlassSkin #MenopauseSkin",
+      "video_tip": "12 seconds: close-up of damp skin catching the light, press in your RIMAN cream, on-screen text \"3 steps, not 10\".",
+      "intent_url": "https://x.com/intent/post?text=Glass%20skin%20after%2040%20isn%27t%20ten%20steps.%20It%27s%20water%20in%2C%20barrier%20strong%2C%20cream%20sealed%20on%20damp%20skin.%20That%27s%20it.%20My%20night%20is%20three%20products%2C%20finished%20with%20RIMAN.%20Dewy%20beats%20busy.%20%23GlassSkin%20%23MenopauseSkin"
     },
     {
-      "topic": "damp skin seal",
+      "topic": "winter hands",
       "keywords": [
         "winter dryness",
-        "three-step routine",
-        "skin barrier"
+        "menopause skin"
       ],
-      "text": "November tip for dry, menopause skin: cream goes on while your face is still damp. Water + cream = seal. I press RIMAN night cream in, don't rub. Tightness drops by morning. Try it tonight. #WinterDryness #DrySkin",
-      "video_tip": "15 seconds: mist/dampen face, press cream in with palms, on-screen text \"Damp skin first\".",
-      "intent_url": "https://x.com/intent/post?text=November%20tip%20for%20dry%2C%20menopause%20skin%3A%20cream%20goes%20on%20while%20your%20face%20is%20still%20damp.%20Water%20%2B%20cream%20%3D%20seal.%20I%20press%20RIMAN%20night%20cream%20in%2C%20don%27t%20rub.%20Tightness%20drops%20by%20morning.%20Try%20it%20tonight.%20%23WinterDryness%20%23DrySkin"
+      "text": "Your hands show winter before your face does. After every wash tonight, while they're still a little damp, press a rich cream into the backs and knuckles. Thirty seconds. Your hands will thank you by Monday. #DrySkin #WinterSkin",
+      "video_tip": "10 seconds: wash hands at the sink, pat half-dry, massage cream into knuckles, text \"Damp hands, then cream.\"",
+      "intent_url": "https://x.com/intent/post?text=Your%20hands%20show%20winter%20before%20your%20face%20does.%20After%20every%20wash%20tonight%2C%20while%20they%27re%20still%20a%20little%20damp%2C%20press%20a%20rich%20cream%20into%20the%20backs%20and%20knuckles.%20Thirty%20seconds.%20Your%20hands%20will%20thank%20you%20by%20Monday.%20%23DrySkin%20%23WinterSkin"
     },
     {
-      "topic": "one night cream gift",
+      "topic": "weekend ritual for you",
       "keywords": [
-        "menopause skin",
-        "fewer products",
-        "winter dryness"
+        "three-step routine",
+        "fewer products"
       ],
-      "text": "Skip the 10-piece holiday gift set. For the woman 40+ on your list: one night cream she'll empty. Barrier care beats novelty. RIMAN is what I wrap for myself first. #GiftsForHer #MenopauseSkin",
-      "video_tip": "10 seconds: wrap a single night cream, unwrap to the jar, end on \"One product she'll finish\".",
-      "intent_url": "https://x.com/intent/post?text=Skip%20the%2010-piece%20holiday%20gift%20set.%20For%20the%20woman%2040%2B%20on%20your%20list%3A%20one%20night%20cream%20she%27ll%20empty.%20Barrier%20care%20beats%20novelty.%20RIMAN%20is%20what%20I%20wrap%20for%20myself%20first.%20%23GiftsForHer%20%23MenopauseSkin"
+      "text": "Saturday reminder for the woman who takes care of everyone: tonight, ten minutes are yours. Warm cloth, gentle cleanse, your favourite cream pressed in slowly. Not a chore, a ritual. Who's taking theirs? #SelfCare #Over40",
+      "video_tip": "15 seconds: steam a warm cloth, hold it to your face, then slow-motion press of RIMAN cream, text \"10 minutes are yours.\"",
+      "intent_url": "https://x.com/intent/post?text=Saturday%20reminder%20for%20the%20woman%20who%20takes%20care%20of%20everyone%3A%20tonight%2C%20ten%20minutes%20are%20yours.%20Warm%20cloth%2C%20gentle%20cleanse%2C%20your%20favourite%20cream%20pressed%20in%20slowly.%20Not%20a%20chore%2C%20a%20ritual.%20Who%27s%20taking%20theirs%3F%20%23SelfCare%20%23Over40"
     }
   ],
   "trend_keywords": {
@@ -136,37 +142,35 @@
   "trend_radar": {
     "ideas": [
       {
-        "topic": "fewer products barrier reset",
+        "topic": "glass skin after 40",
         "keywords": [
-          "skin barrier",
           "fewer products",
+          "skin barrier",
           "menopause skin"
         ],
-        "text": "Women 40+: if your skin is red, tight, or burning, try fewer products for two weeks. One gentle cleanser. One rich cream. My reset is RIMAN at night — barrier first, glow second. Who's stripping back with me? #SkinBarrier #MenopauseSkin",
-        "video_tip": "12 seconds: show a crowded shelf, sweep products aside, leave cleanser + RIMAN jar, caption \"Fewer products. Stronger barrier.\"",
-        "intent_url": "https://x.com/intent/post?text=Women%2040%2B%3A%20if%20your%20skin%20is%20red%2C%20tight%2C%20or%20burning%2C%20try%20fewer%20products%20for%20two%20weeks.%20One%20gentle%20cleanser.%20One%20rich%20cream.%20My%20reset%20is%20RIMAN%20at%20night%20%E2%80%94%20barrier%20first%2C%20glow%20second.%20Who%27s%20stripping%20back%20with%20me%3F%20%23SkinBarrier%20%23MenopauseSkin"
+        "text": "Glass skin after 40 isn't ten steps. It's water in, barrier strong, cream sealed on damp skin. That's it. My night is three products, finished with RIMAN. Dewy beats busy. #GlassSkin #MenopauseSkin",
+        "video_tip": "12 seconds: close-up of damp skin catching the light, press in your RIMAN cream, on-screen text \"3 steps, not 10\".",
+        "intent_url": "https://x.com/intent/post?text=Glass%20skin%20after%2040%20isn%27t%20ten%20steps.%20It%27s%20water%20in%2C%20barrier%20strong%2C%20cream%20sealed%20on%20damp%20skin.%20That%27s%20it.%20My%20night%20is%20three%20products%2C%20finished%20with%20RIMAN.%20Dewy%20beats%20busy.%20%23GlassSkin%20%23MenopauseSkin"
       },
       {
-        "topic": "damp skin seal",
+        "topic": "winter hands",
         "keywords": [
           "winter dryness",
-          "three-step routine",
-          "skin barrier"
+          "menopause skin"
         ],
-        "text": "November tip for dry, menopause skin: cream goes on while your face is still damp. Water + cream = seal. I press RIMAN night cream in, don't rub. Tightness drops by morning. Try it tonight. #WinterDryness #DrySkin",
-        "video_tip": "15 seconds: mist/dampen face, press cream in with palms, on-screen text \"Damp skin first\".",
-        "intent_url": "https://x.com/intent/post?text=November%20tip%20for%20dry%2C%20menopause%20skin%3A%20cream%20goes%20on%20while%20your%20face%20is%20still%20damp.%20Water%20%2B%20cream%20%3D%20seal.%20I%20press%20RIMAN%20night%20cream%20in%2C%20don%27t%20rub.%20Tightness%20drops%20by%20morning.%20Try%20it%20tonight.%20%23WinterDryness%20%23DrySkin"
+        "text": "Your hands show winter before your face does. After every wash tonight, while they're still a little damp, press a rich cream into the backs and knuckles. Thirty seconds. Your hands will thank you by Monday. #DrySkin #WinterSkin",
+        "video_tip": "10 seconds: wash hands at the sink, pat half-dry, massage cream into knuckles, text \"Damp hands, then cream.\"",
+        "intent_url": "https://x.com/intent/post?text=Your%20hands%20show%20winter%20before%20your%20face%20does.%20After%20every%20wash%20tonight%2C%20while%20they%27re%20still%20a%20little%20damp%2C%20press%20a%20rich%20cream%20into%20the%20backs%20and%20knuckles.%20Thirty%20seconds.%20Your%20hands%20will%20thank%20you%20by%20Monday.%20%23DrySkin%20%23WinterSkin"
       },
       {
-        "topic": "one night cream gift",
+        "topic": "weekend ritual for you",
         "keywords": [
-          "menopause skin",
-          "fewer products",
-          "winter dryness"
+          "three-step routine",
+          "fewer products"
         ],
-        "text": "Skip the 10-piece holiday gift set. For the woman 40+ on your list: one night cream she'll empty. Barrier care beats novelty. RIMAN is what I wrap for myself first. #GiftsForHer #MenopauseSkin",
-        "video_tip": "10 seconds: wrap a single night cream, unwrap to the jar, end on \"One product she'll finish\".",
-        "intent_url": "https://x.com/intent/post?text=Skip%20the%2010-piece%20holiday%20gift%20set.%20For%20the%20woman%2040%2B%20on%20your%20list%3A%20one%20night%20cream%20she%27ll%20empty.%20Barrier%20care%20beats%20novelty.%20RIMAN%20is%20what%20I%20wrap%20for%20myself%20first.%20%23GiftsForHer%20%23MenopauseSkin"
+        "text": "Saturday reminder for the woman who takes care of everyone: tonight, ten minutes are yours. Warm cloth, gentle cleanse, your favourite cream pressed in slowly. Not a chore, a ritual. Who's taking theirs? #SelfCare #Over40",
+        "video_tip": "15 seconds: steam a warm cloth, hold it to your face, then slow-motion press of RIMAN cream, text \"10 minutes are yours.\"",
+        "intent_url": "https://x.com/intent/post?text=Saturday%20reminder%20for%20the%20woman%20who%20takes%20care%20of%20everyone%3A%20tonight%2C%20ten%20minutes%20are%20yours.%20Warm%20cloth%2C%20gentle%20cleanse%2C%20your%20favourite%20cream%20pressed%20in%20slowly.%20Not%20a%20chore%2C%20a%20ritual.%20Who%27s%20taking%20theirs%3F%20%23SelfCare%20%23Over40"
       }
     ]
   },
@@ -181,7 +185,7 @@
   "day_roster": [
     {
       "handle": "skincarebyhyram",
-      "name": "Hyram",
+      "name": "skincarebyhyram",
       "views": 0,
       "total_views": 0,
       "hit": false
@@ -189,41 +193,41 @@
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 23,
-      "total_views": 23,
+      "views": 36,
+      "total_views": 61,
       "hit": false
     },
     {
       "handle": "cerave",
-      "name": "CeraVe",
+      "name": "cerave",
       "views": 0,
       "total_views": 0,
       "hit": false
     },
     {
       "handle": "LabMuffin",
-      "name": "Dr Michelle Wong",
+      "name": "LabMuffin",
       "views": 0,
       "total_views": 0,
       "hit": false
     },
     {
       "handle": "GlowRecipe",
-      "name": "Glow Recipe",
+      "name": "GlowRecipe",
       "views": 0,
       "total_views": 0,
       "hit": false
     },
     {
       "handle": "PaulasChoice",
-      "name": "Paula's Choice",
+      "name": "PaulasChoice",
       "views": 0,
       "total_views": 0,
       "hit": false
     },
     {
       "handle": "sokoglam",
-      "name": "Soko Glam",
+      "name": "sokoglam",
       "views": 0,
       "total_views": 0,
       "hit": false
@@ -239,16 +243,16 @@
   "you_rank": null,
   "trend_input_only_posts": [],
   "leaderboards": {
-    "as_of": "2026-11-06",
+    "as_of": "2026-11-07",
     "tracking_start": "2026-10-27",
     "days_included": [
-      "2026-10-31",
       "2026-11-01",
       "2026-11-02",
       "2026-11-03",
       "2026-11-04",
       "2026-11-05",
-      "2026-11-06"
+      "2026-11-06",
+      "2026-11-07"
     ],
     "month_days_included": [
       "2026-11-01",
@@ -256,13 +260,14 @@
       "2026-11-03",
       "2026-11-04",
       "2026-11-05",
-      "2026-11-06"
+      "2026-11-06",
+      "2026-11-07"
     ],
     "week": {
-      "label": "Rolling week · Oct 31–Nov 6",
+      "label": "Rolling week · Nov 1–Nov 7",
       "range": [
-        "2026-10-31",
-        "2026-11-06"
+        "2026-11-01",
+        "2026-11-07"
       ],
       "entries": []
     },
@@ -270,7 +275,7 @@
       "label": "November 2026 · from Nov 1",
       "range": [
         "2026-11-01",
-        "2026-11-06"
+        "2026-11-07"
       ],
       "entries": []
     }

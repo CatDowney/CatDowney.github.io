@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "author_id": "24968293",
+      "created_at": "2026-11-07T12:43:00.000Z",
+      "edit_history_tweet_ids": [
+        "2119047967990546770"
+      ],
+      "id": "2119047967990546770",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 36,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "#Winter air makes #menopause #skin feel even drier. A creamy shea butter bar turns a warm-water hand wash into a small ritual she will look forward to. #soap #gifts #giftsforher https://t.co/ktZ09wiYDa https://t.co/rOn4aBnz0T",
+      "url": "https://x.com/DiscoverSelf/status/2119047967990546770"
+    },
+    {
+      "author_id": "24968293",
+      "created_at": "2026-11-05T12:17:00.000Z",
+      "edit_history_tweet_ids": [
+        "2118316649141191103"
+      ],
+      "id": "2118316649141191103",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 25,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Menopause can change how your mouth feels, from sensitive gums to dryness. A soft-bristle electric brush with a pressure sensor is a quiet, practical gift she will use daily. #gifts #giftideas #giftsforher https://t.co/7GWrdVwTZP https://t.co/L8Fe2WZ4dg",
+      "url": "https://x.com/DiscoverSelf/status/2118316649141191103"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "24968293",
+        "name": "Celebrate Woman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855412970798428160/epuOPFfD_normal.jpg",
+        "username": "DiscoverSelf",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2119047967990546770",
+    "oldest_id": "2118316649141191103",
+    "result_count": 2
+  }
+}
