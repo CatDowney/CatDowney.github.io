@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "author_id": "24968293",
+      "conversation_id": "2119047967990546770",
+      "created_at": "2026-11-07T12:43:00.000Z",
+      "edit_history_tweet_ids": [
+        "2119047967990546770"
+      ],
+      "id": "2119047967990546770",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 69,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "#Winter air makes #menopause #skin feel even drier. A creamy shea butter bar turns a warm-water hand wash into a small ritual she will look forward to. \u00a0#soap #gifts #giftsforher https://t.co/ktZ09wiYDa https://t.co/rOn4aBnz0T",
+      "url": "https://x.com/DiscoverSelf/status/2119047967990546770"
+    },
+    {
+      "author_id": "24968293",
+      "conversation_id": "2118316649141191103",
+      "created_at": "2026-11-05T12:17:00.000Z",
+      "edit_history_tweet_ids": [
+        "2118316649141191103"
+      ],
+      "id": "2118316649141191103",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 29,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Menopause can change how your mouth feels, from sensitive gums to dryness. A soft-bristle electric brush with a pressure sensor is a quiet, practical gift she will use daily. #gifts #giftideas #giftsforher\u00a0https://t.co/7GWrdVwTZP https://t.co/L8Fe2WZ4dg",
+      "url": "https://x.com/DiscoverSelf/status/2118316649141191103"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "created_at": "2009-03-17T22:21:00.000Z",
+        "description": "+ Licensed Esthetician, M.Ed., MBA\n+ Making skin care easy 4 #Menopause women\n+ New Book \"Transforming Your Skin\"",
+        "id": "24968293",
+        "location": "USA",
+        "name": "Celebrate Woman",
+        "public_metrics": {
+          "followers_count": 50298,
+          "following_count": 16579,
+          "like_count": 31081,
+          "listed_count": 2601,
+          "media_count": 108246,
+          "tweet_count": 576512
+        },
+        "username": "DiscoverSelf",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2119047967990546770",
+    "oldest_id": "2118316649141191103",
+    "result_count": 2
+  }
+}

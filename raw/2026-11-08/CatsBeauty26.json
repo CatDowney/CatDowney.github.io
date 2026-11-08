@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "author_id": "2116627162703003648",
+      "created_at": "2026-11-08T01:45:30.000Z",
+      "edit_history_tweet_ids": [
+        "2119244890018382192"
+      ],
+      "id": "2119244890018382192",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "How does your skin feel after cleansing\u2014comfortable, tight, or a little itchy? https://t.co/Q87Eh84pRL",
+      "url": "https://x.com/CatsBeauty26/status/2119244890018382192"
+    },
+    {
+      "author_id": "2116627162703003648",
+      "created_at": "2026-11-01T18:20:15.000Z",
+      "edit_history_tweet_ids": [
+        "2116958512928739609"
+      ],
+      "id": "2116958512928739609",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "\"First week of November and your skin feels tight by noon? It's not your age, it's the air. Swap a foaming cleanser for a gentle one, hydrate on damp skin, and seal it in with a richer cream at night. #DrySkin\" https://t.co/MaU2JaoCLY",
+      "url": "https://x.com/CatsBeauty26/status/2116958512928739609"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "created_at": "2026-10-31T20:25:13.000Z",
+        "description": "",
+        "id": "2116627162703003648",
+        "name": "Cat Downey",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 15,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "username": "CatsBeauty26",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2119244890018382192",
+    "oldest_id": "2116958512928739609",
+    "result_count": 2
+  },
+  "profile": {
+    "id": "2116627162703003648",
+    "username": "CatsBeauty26",
+    "name": "Cat Downey",
+    "description": "",
+    "created_at": "2026-10-31T20:25:13.000Z",
+    "verified": false,
+    "public_metrics": {
+      "followers_count": 1,
+      "following_count": 15,
+      "like_count": 12,
+      "listed_count": 0,
+      "media_count": 2,
+      "tweet_count": 3
+    }
+  }
+}
