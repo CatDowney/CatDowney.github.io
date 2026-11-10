@@ -2,7 +2,7 @@
   "title": "Cats Health and Beauty · daily X skincare digest - 2026-11-08",
   "date": "2026-11-10",
   "timezone": "America/Vancouver",
-  "updated": "2026-11-10T10:08:25-07:00",
+  "updated": "2026-11-10T10:56:03-07:00",
   "brand_title": "Cats Health and Beauty · X Skincare Board",
   "brand_handle": "@CatsBeauty26",
   "virals_title": "Outsiders · last 48h",
@@ -23,8 +23,8 @@
     },
     {
       "handle": "cerave",
-      "reason": "0 originals in the last 7 days; highest 0 views",
-      "max_views": 0
+      "reason": "1 original in the last 7 days; highest 110 views",
+      "max_views": 110
     },
     {
       "handle": "LabMuffin",
@@ -58,8 +58,16 @@
   "virals_target": 0,
   "hits_count": 0,
   "outsiders_count": 0,
-  "watch_window": "2026-11-03T17:00Z to 2026-11-10T17:07Z",
+  "watch_window": "2026-11-03T18:00Z to 2026-11-10T17:56Z",
   "watchlist_posts_7d": [
+    {
+      "handle": "cerave",
+      "name": "CeraVe",
+      "views": 110,
+      "url": "https://x.com/cerave/status/2120209371120419173",
+      "posted_at": "2026-11-10T17:38:00.000Z",
+      "text": "dryness cure coming soon… https://t.co/knw12SybG2"
+    },
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
@@ -99,6 +107,39 @@
       "text": "Skin in your 70s doesn't need a 10-step routine.\n\nIt needs a gentle cleanser, something calming, one good serum, and a collagen mask when it looks tired. That's my whole RIMAN shelf.\n\nFewer products, done well. What's on yours?",
       "video_tip": "10 seconds: line up the four products on the counter, tap each one as you name it, end on the question.",
       "intent_url": "https://x.com/intent/post?text=Skin%20in%20your%2070s%20doesn%27t%20need%20a%2010-step%20routine.%0A%0AIt%20needs%20a%20gentle%20cleanser%2C%20something%20calming%2C%20one%20good%20serum%2C%20and%20a%20collagen%20mask%20when%20it%20looks%20tired.%20That%27s%20my%20whole%20RIMAN%20shelf.%0A%0AFewer%20products%2C%20done%20well.%20What%27s%20on%20yours%3F"
+    },
+    {
+      "topic": "Broken barrier, 3 signs",
+      "keywords": [
+        "skin barrier",
+        "fewer products",
+        "mature skin"
+      ],
+      "text": "Think your skin barrier is \"broken\"?\n\nThree signs after 40: tight after cleansing, stinging when you apply anything, and flaky patches by afternoon.\n\nThe fix is boring: a gentle cleanser, fewer products for a week, and cream on damp skin. Mine is my RIMAN Incellderm routine.",
+      "video_tip": "12 seconds: hold up three fingers and name each sign, then show cleanser, then cream patted onto damp skin.",
+      "intent_url": "https://x.com/intent/post?text=Think%20your%20skin%20barrier%20is%20%22broken%22%3F%0A%0AThree%20signs%20after%2040%3A%20tight%20after%20cleansing%2C%20stinging%20when%20you%20apply%20anything%2C%20and%20flaky%20patches%20by%20afternoon.%0A%0AThe%20fix%20is%20boring%3A%20a%20gentle%20cleanser%2C%20fewer%20products%20for%20a%20week%2C%20and%20cream%20on%20damp%20skin.%20Mine%20is%20my%20RIMAN%20Incellderm%20routine."
+    },
+    {
+      "topic": "No dryness cure in a jar",
+      "keywords": [
+        "winter dryness",
+        "dryness cure",
+        "three-step routine"
+      ],
+      "text": "Everyone's teasing a \"dryness cure\" this week.\n\nAfter 40, mine isn't one jar. It's three habits:\n1. Lukewarm water, never hot\n2. Serum on damp skin\n3. A richer cream at night to seal it in\n\nWhich one do you skip?",
+      "video_tip": "10 seconds: run the tap, test the water on your wrist, then pat serum and cream on still-damp skin. End on the question as on-screen text.",
+      "intent_url": "https://x.com/intent/post?text=Everyone%27s%20teasing%20a%20%22dryness%20cure%22%20this%20week.%0A%0AAfter%2040%2C%20mine%20isn%27t%20one%20jar.%20It%27s%20three%20habits%3A%0A1.%20Lukewarm%20water%2C%20never%20hot%0A2.%20Serum%20on%20damp%20skin%0A3.%20A%20richer%20cream%20at%20night%20to%20seal%20it%20in%0A%0AWhich%20one%20do%20you%20skip%3F"
+    },
+    {
+      "topic": "Furnace-on hydration",
+      "keywords": [
+        "winter dryness",
+        "hyaluronic acid",
+        "skin barrier"
+      ],
+      "text": "Furnace on, skin feeling drier than ever?\n\nHydrating serums work best on damp skin, then sealed in right away with cream. If you put them on dry skin in dry indoor air and stop there, your face can feel tighter, not better.\n\nDamp skin, then seal. Every time.",
+      "video_tip": "8 seconds: mist your face, pat on serum, follow straight away with cream. Caption: damp skin, then seal.",
+      "intent_url": "https://x.com/intent/post?text=Furnace%20on%2C%20skin%20feeling%20drier%20than%20ever%3F%0A%0AHydrating%20serums%20work%20best%20on%20damp%20skin%2C%20then%20sealed%20in%20right%20away%20with%20cream.%20If%20you%20put%20them%20on%20dry%20skin%20in%20dry%20indoor%20air%20and%20stop%20there%2C%20your%20face%20can%20feel%20tighter%2C%20not%20better.%0A%0ADamp%20skin%2C%20then%20seal.%20Every%20time."
     }
   ],
   "trend_keywords": {
@@ -148,6 +189,39 @@
         "text": "Skin in your 70s doesn't need a 10-step routine.\n\nIt needs a gentle cleanser, something calming, one good serum, and a collagen mask when it looks tired. That's my whole RIMAN shelf.\n\nFewer products, done well. What's on yours?",
         "video_tip": "10 seconds: line up the four products on the counter, tap each one as you name it, end on the question.",
         "intent_url": "https://x.com/intent/post?text=Skin%20in%20your%2070s%20doesn%27t%20need%20a%2010-step%20routine.%0A%0AIt%20needs%20a%20gentle%20cleanser%2C%20something%20calming%2C%20one%20good%20serum%2C%20and%20a%20collagen%20mask%20when%20it%20looks%20tired.%20That%27s%20my%20whole%20RIMAN%20shelf.%0A%0AFewer%20products%2C%20done%20well.%20What%27s%20on%20yours%3F"
+      },
+      {
+        "topic": "Broken barrier, 3 signs",
+        "keywords": [
+          "skin barrier",
+          "fewer products",
+          "mature skin"
+        ],
+        "text": "Think your skin barrier is \"broken\"?\n\nThree signs after 40: tight after cleansing, stinging when you apply anything, and flaky patches by afternoon.\n\nThe fix is boring: a gentle cleanser, fewer products for a week, and cream on damp skin. Mine is my RIMAN Incellderm routine.",
+        "video_tip": "12 seconds: hold up three fingers and name each sign, then show cleanser, then cream patted onto damp skin.",
+        "intent_url": "https://x.com/intent/post?text=Think%20your%20skin%20barrier%20is%20%22broken%22%3F%0A%0AThree%20signs%20after%2040%3A%20tight%20after%20cleansing%2C%20stinging%20when%20you%20apply%20anything%2C%20and%20flaky%20patches%20by%20afternoon.%0A%0AThe%20fix%20is%20boring%3A%20a%20gentle%20cleanser%2C%20fewer%20products%20for%20a%20week%2C%20and%20cream%20on%20damp%20skin.%20Mine%20is%20my%20RIMAN%20Incellderm%20routine."
+      },
+      {
+        "topic": "No dryness cure in a jar",
+        "keywords": [
+          "winter dryness",
+          "dryness cure",
+          "three-step routine"
+        ],
+        "text": "Everyone's teasing a \"dryness cure\" this week.\n\nAfter 40, mine isn't one jar. It's three habits:\n1. Lukewarm water, never hot\n2. Serum on damp skin\n3. A richer cream at night to seal it in\n\nWhich one do you skip?",
+        "video_tip": "10 seconds: run the tap, test the water on your wrist, then pat serum and cream on still-damp skin. End on the question as on-screen text.",
+        "intent_url": "https://x.com/intent/post?text=Everyone%27s%20teasing%20a%20%22dryness%20cure%22%20this%20week.%0A%0AAfter%2040%2C%20mine%20isn%27t%20one%20jar.%20It%27s%20three%20habits%3A%0A1.%20Lukewarm%20water%2C%20never%20hot%0A2.%20Serum%20on%20damp%20skin%0A3.%20A%20richer%20cream%20at%20night%20to%20seal%20it%20in%0A%0AWhich%20one%20do%20you%20skip%3F"
+      },
+      {
+        "topic": "Furnace-on hydration",
+        "keywords": [
+          "winter dryness",
+          "hyaluronic acid",
+          "skin barrier"
+        ],
+        "text": "Furnace on, skin feeling drier than ever?\n\nHydrating serums work best on damp skin, then sealed in right away with cream. If you put them on dry skin in dry indoor air and stop there, your face can feel tighter, not better.\n\nDamp skin, then seal. Every time.",
+        "video_tip": "8 seconds: mist your face, pat on serum, follow straight away with cream. Caption: damp skin, then seal.",
+        "intent_url": "https://x.com/intent/post?text=Furnace%20on%2C%20skin%20feeling%20drier%20than%20ever%3F%0A%0AHydrating%20serums%20work%20best%20on%20damp%20skin%2C%20then%20sealed%20in%20right%20away%20with%20cream.%20If%20you%20put%20them%20on%20dry%20skin%20in%20dry%20indoor%20air%20and%20stop%20there%2C%20your%20face%20can%20feel%20tighter%2C%20not%20better.%0A%0ADamp%20skin%2C%20then%20seal.%20Every%20time."
       }
     ]
   },
@@ -176,9 +250,9 @@
     },
     {
       "handle": "cerave",
-      "name": "cerave",
-      "views": 0,
-      "total_views": 0,
+      "name": "CeraVe",
+      "views": 110,
+      "total_views": 110,
       "hit": false
     },
     {

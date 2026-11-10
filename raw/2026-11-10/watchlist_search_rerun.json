@@ -1,0 +1,31 @@
+{
+ "query": "(from:watchlist x8) -is:retweet -is:reply -is:quote",
+ "start_time": "2026-11-03T18:00:00Z",
+ "fetched": "2026-11-10T17:56Z",
+ "posts": [
+  {
+   "handle": "cerave",
+   "name": "CeraVe",
+   "views": 110,
+   "url": "https://x.com/cerave/status/2120209371120419173",
+   "posted_at": "2026-11-10T17:38:00.000Z",
+   "text": "dryness cure coming soon\u2026 https://t.co/knw12SybG2"
+  },
+  {
+   "handle": "DiscoverSelf",
+   "name": "Celebrate Woman",
+   "views": 77,
+   "url": "https://x.com/DiscoverSelf/status/2119047967990546770",
+   "posted_at": "2026-11-07T12:43:00.000Z",
+   "text": "#Winter air makes #menopause #skin feel even drier. A creamy shea butter bar turns a warm-water hand wash into a small ritual she will look forward to.\u00a0#soap #gifts #giftsforher https://t.co/ktZ09wiYDa https://t.co/rOn4aBnz0T"
+  },
+  {
+   "handle": "DiscoverSelf",
+   "name": "Celebrate Woman",
+   "views": 35,
+   "url": "https://x.com/DiscoverSelf/status/2118316649141191103",
+   "posted_at": "2026-11-05T12:17:00.000Z",
+   "text": "Menopause can change how your mouth feels, from sensitive gums to dryness. A soft-bristle electric brush with a pressure sensor is a quiet, practical gift she will use daily. #gifts #giftideas #giftsforher\u00a0https://t.co/7GWrdVwTZP https://t.co/L8Fe2WZ4dg"
+  }
+ ]
+}
