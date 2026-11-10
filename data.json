@@ -1,8 +1,8 @@
 {
   "title": "Cats Health and Beauty · daily X skincare digest - 2026-11-08",
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "timezone": "America/Vancouver",
-  "updated": "2026-11-09T11:06:58-07:00",
+  "updated": "2026-11-10T10:08:25-07:00",
   "brand_title": "Cats Health and Beauty · X Skincare Board",
   "brand_handle": "@CatsBeauty26",
   "virals_title": "Outsiders · last 48h",
@@ -13,50 +13,42 @@
   "no_hits": [
     {
       "handle": "skincarebyhyram",
-      "name": "skincarebyhyram",
-      "reason": "0 original posts in the last 7 days; highest 0 views",
+      "reason": "0 originals in the last 7 days; highest 0 views",
       "max_views": 0
     },
     {
       "handle": "DiscoverSelf",
-      "name": "Celebrate Woman",
-      "reason": "2 original posts in the last 7 days; highest 75 views",
-      "max_views": 75
+      "reason": "2 originals in the last 7 days; highest 77 views",
+      "max_views": 77
     },
     {
       "handle": "cerave",
-      "name": "cerave",
-      "reason": "0 original posts in the last 7 days; highest 0 views",
+      "reason": "0 originals in the last 7 days; highest 0 views",
       "max_views": 0
     },
     {
       "handle": "LabMuffin",
-      "name": "LabMuffin",
-      "reason": "0 original posts in the last 7 days; highest 0 views",
+      "reason": "0 originals in the last 7 days; highest 0 views",
       "max_views": 0
     },
     {
       "handle": "GlowRecipe",
-      "name": "GlowRecipe",
-      "reason": "0 original posts in the last 7 days; highest 0 views",
+      "reason": "0 originals in the last 7 days; highest 0 views",
       "max_views": 0
     },
     {
       "handle": "PaulasChoice",
-      "name": "PaulasChoice",
-      "reason": "0 original posts in the last 7 days; highest 0 views",
+      "reason": "0 originals in the last 7 days; highest 0 views",
       "max_views": 0
     },
     {
       "handle": "sokoglam",
-      "name": "sokoglam",
-      "reason": "0 original posts in the last 7 days; highest 0 views",
+      "reason": "0 originals in the last 7 days; highest 0 views",
       "max_views": 0
     },
     {
       "handle": "drdrayzday",
-      "name": "drdrayzday",
-      "reason": "0 original posts in the last 7 days; highest 0 views",
+      "reason": "0 originals in the last 7 days; highest 0 views",
       "max_views": 0
     }
   ],
@@ -66,15 +58,12 @@
   "virals_target": 0,
   "hits_count": 0,
   "outsiders_count": 0,
-  "watch_window": {
-    "start": "2026-11-02T17:00:00Z",
-    "end": "2026-11-09T17:09:54Z"
-  },
+  "watch_window": "2026-11-03T17:00Z to 2026-11-10T17:07Z",
   "watchlist_posts_7d": [
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 75,
+      "views": 77,
       "url": "https://x.com/DiscoverSelf/status/2119047967990546770",
       "posted_at": "2026-11-07T12:43:00.000Z",
       "text": "#Winter air makes #menopause #skin feel even drier. A creamy shea butter bar turns a warm-water hand wash into a small ritual she will look forward to. #soap #gifts #giftsforher https://t.co/ktZ09wiYDa https://t.co/rOn4aBnz0T"
@@ -82,7 +71,7 @@
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 33,
+      "views": 35,
       "url": "https://x.com/DiscoverSelf/status/2118316649141191103",
       "posted_at": "2026-11-05T12:17:00.000Z",
       "text": "Menopause can change how your mouth feels, from sensitive gums to dryness. A soft-bristle electric brush with a pressure sensor is a quiet, practical gift she will use daily. #gifts #giftideas #giftsforher https://t.co/7GWrdVwTZP https://t.co/L8Fe2WZ4dg"
@@ -90,37 +79,26 @@
   ],
   "drafts_today": [
     {
-      "topic": "your skin by the decade",
+      "topic": "GLP-1, no hype",
       "keywords": [
-        "menopause skin",
-        "winter dryness",
-        "fewer products"
+        "GLP-1",
+        "metabolism",
+        "weight"
       ],
-      "text": "Your skin, by the decade:\n\n30s: \"I'll moisturize later\"\n40s: tight by noon\n50s: menopause arrives and everything's dry\n\nThe fix at every age is the same: a gentle cleanser, a cream on damp skin, and fewer products done well. Mine's RIMAN.\n\nWhich decade are you? #Over40",
-      "video_tip": "10 seconds: hold up three fingers for three steps while the decade lines appear as on-screen text, then end on your RIMAN cream. Ask \"Which decade are you?\" on the last frame.",
-      "intent_url": "https://x.com/intent/post?text=Your%20skin%2C%20by%20the%20decade%3A%0A%0A30s%3A%20%22I%27ll%20moisturize%20later%22%0A40s%3A%20tight%20by%20noon%0A50s%3A%20menopause%20arrives%20and%20everything%27s%20dry%0A%0AThe%20fix%20at%20every%20age%20is%20the%20same%3A%20a%20gentle%20cleanser%2C%20a%20cream%20on%20damp%20skin%2C%20and%20fewer%20products%20done%20well.%20Mine%27s%20RIMAN.%0A%0AWhich%20decade%20are%20you%3F%20%23Over40"
+      "text": "A doctor on a podcast says GLP-1 drugs should go \"in the water.\"\n\nI'm not buying the hype. At my age, the questions that matter are simple: am I keeping my muscle, am I eating enough protein, and what happens when I stop?\n\nAsk those before you ask what the scale says.",
+      "video_tip": "Talk to camera, 15 seconds, one take: read the podcast quote off your phone, then count the three questions on your fingers.",
+      "intent_url": "https://x.com/intent/post?text=A%20doctor%20on%20a%20podcast%20says%20GLP-1%20drugs%20should%20go%20%22in%20the%20water.%22%0A%0AI%27m%20not%20buying%20the%20hype.%20At%20my%20age%2C%20the%20questions%20that%20matter%20are%20simple%3A%20am%20I%20keeping%20my%20muscle%2C%20am%20I%20eating%20enough%20protein%2C%20and%20what%20happens%20when%20I%20stop%3F%0A%0AAsk%20those%20before%20you%20ask%20what%20the%20scale%20says."
     },
     {
-      "topic": "two things every woman over 40 should know",
+      "topic": "Fewer products for 70+ sensitive skin",
       "keywords": [
-        "skin barrier",
-        "three-step routine",
-        "menopause skin"
-      ],
-      "text": "Two things every woman over 40 should know about her skin:\n\n1. Dryness after 40 is usually a barrier problem, not a \"need more products\" problem.\n2. What you put on damp skin in the first minute matters more than the 10th step.\n\nSave this for tonight. #SkinBarrier #Over40",
-      "video_tip": "12 seconds: show \"1\" on screen while you splash and pat dry halfway, then \"2\" as you press in your RIMAN cream within a minute. End with \"Save this.\"",
-      "intent_url": "https://x.com/intent/post?text=Two%20things%20every%20woman%20over%2040%20should%20know%20about%20her%20skin%3A%0A%0A1.%20Dryness%20after%2040%20is%20usually%20a%20barrier%20problem%2C%20not%20a%20%22need%20more%20products%22%20problem.%0A2.%20What%20you%20put%20on%20damp%20skin%20in%20the%20first%20minute%20matters%20more%20than%20the%2010th%20step.%0A%0ASave%20this%20for%20tonight.%20%23SkinBarrier%20%23Over40"
-    },
-    {
-      "topic": "Monday 3-step reset",
-      "keywords": [
-        "three-step routine",
+        "sensitive skin",
         "fewer products",
-        "winter dryness"
+        "K-beauty"
       ],
-      "text": "Monday reset for skin over 40:\n\nCleanse gently. Hydrate while it's still damp. Seal it in with a richer cream at night.\n\nThree steps, five minutes, and your skin feels comfortable by Friday. That's my whole RIMAN routine this week. Who's in? #SkinCare",
-      "video_tip": "15 seconds, timer on screen: cleanse, pat, press in cream, stop the timer under five minutes. On-screen text: \"Three steps. That's it.\"",
-      "intent_url": "https://x.com/intent/post?text=Monday%20reset%20for%20skin%20over%2040%3A%0A%0ACleanse%20gently.%20Hydrate%20while%20it%27s%20still%20damp.%20Seal%20it%20in%20with%20a%20richer%20cream%20at%20night.%0A%0AThree%20steps%2C%20five%20minutes%2C%20and%20your%20skin%20feels%20comfortable%20by%20Friday.%20That%27s%20my%20whole%20RIMAN%20routine%20this%20week.%20Who%27s%20in%3F%20%23SkinCare"
+      "text": "Skin in your 70s doesn't need a 10-step routine.\n\nIt needs a gentle cleanser, something calming, one good serum, and a collagen mask when it looks tired. That's my whole RIMAN shelf.\n\nFewer products, done well. What's on yours?",
+      "video_tip": "10 seconds: line up the four products on the counter, tap each one as you name it, end on the question.",
+      "intent_url": "https://x.com/intent/post?text=Skin%20in%20your%2070s%20doesn%27t%20need%20a%2010-step%20routine.%0A%0AIt%20needs%20a%20gentle%20cleanser%2C%20something%20calming%2C%20one%20good%20serum%2C%20and%20a%20collagen%20mask%20when%20it%20looks%20tired.%20That%27s%20my%20whole%20RIMAN%20shelf.%0A%0AFewer%20products%2C%20done%20well.%20What%27s%20on%20yours%3F"
     }
   ],
   "trend_keywords": {
@@ -150,37 +128,26 @@
   "trend_radar": {
     "ideas": [
       {
-        "topic": "your skin by the decade",
+        "topic": "GLP-1, no hype",
         "keywords": [
-          "menopause skin",
-          "winter dryness",
-          "fewer products"
+          "GLP-1",
+          "metabolism",
+          "weight"
         ],
-        "text": "Your skin, by the decade:\n\n30s: \"I'll moisturize later\"\n40s: tight by noon\n50s: menopause arrives and everything's dry\n\nThe fix at every age is the same: a gentle cleanser, a cream on damp skin, and fewer products done well. Mine's RIMAN.\n\nWhich decade are you? #Over40",
-        "video_tip": "10 seconds: hold up three fingers for three steps while the decade lines appear as on-screen text, then end on your RIMAN cream. Ask \"Which decade are you?\" on the last frame.",
-        "intent_url": "https://x.com/intent/post?text=Your%20skin%2C%20by%20the%20decade%3A%0A%0A30s%3A%20%22I%27ll%20moisturize%20later%22%0A40s%3A%20tight%20by%20noon%0A50s%3A%20menopause%20arrives%20and%20everything%27s%20dry%0A%0AThe%20fix%20at%20every%20age%20is%20the%20same%3A%20a%20gentle%20cleanser%2C%20a%20cream%20on%20damp%20skin%2C%20and%20fewer%20products%20done%20well.%20Mine%27s%20RIMAN.%0A%0AWhich%20decade%20are%20you%3F%20%23Over40"
+        "text": "A doctor on a podcast says GLP-1 drugs should go \"in the water.\"\n\nI'm not buying the hype. At my age, the questions that matter are simple: am I keeping my muscle, am I eating enough protein, and what happens when I stop?\n\nAsk those before you ask what the scale says.",
+        "video_tip": "Talk to camera, 15 seconds, one take: read the podcast quote off your phone, then count the three questions on your fingers.",
+        "intent_url": "https://x.com/intent/post?text=A%20doctor%20on%20a%20podcast%20says%20GLP-1%20drugs%20should%20go%20%22in%20the%20water.%22%0A%0AI%27m%20not%20buying%20the%20hype.%20At%20my%20age%2C%20the%20questions%20that%20matter%20are%20simple%3A%20am%20I%20keeping%20my%20muscle%2C%20am%20I%20eating%20enough%20protein%2C%20and%20what%20happens%20when%20I%20stop%3F%0A%0AAsk%20those%20before%20you%20ask%20what%20the%20scale%20says."
       },
       {
-        "topic": "two things every woman over 40 should know",
+        "topic": "Fewer products for 70+ sensitive skin",
         "keywords": [
-          "skin barrier",
-          "three-step routine",
-          "menopause skin"
-        ],
-        "text": "Two things every woman over 40 should know about her skin:\n\n1. Dryness after 40 is usually a barrier problem, not a \"need more products\" problem.\n2. What you put on damp skin in the first minute matters more than the 10th step.\n\nSave this for tonight. #SkinBarrier #Over40",
-        "video_tip": "12 seconds: show \"1\" on screen while you splash and pat dry halfway, then \"2\" as you press in your RIMAN cream within a minute. End with \"Save this.\"",
-        "intent_url": "https://x.com/intent/post?text=Two%20things%20every%20woman%20over%2040%20should%20know%20about%20her%20skin%3A%0A%0A1.%20Dryness%20after%2040%20is%20usually%20a%20barrier%20problem%2C%20not%20a%20%22need%20more%20products%22%20problem.%0A2.%20What%20you%20put%20on%20damp%20skin%20in%20the%20first%20minute%20matters%20more%20than%20the%2010th%20step.%0A%0ASave%20this%20for%20tonight.%20%23SkinBarrier%20%23Over40"
-      },
-      {
-        "topic": "Monday 3-step reset",
-        "keywords": [
-          "three-step routine",
+          "sensitive skin",
           "fewer products",
-          "winter dryness"
+          "K-beauty"
         ],
-        "text": "Monday reset for skin over 40:\n\nCleanse gently. Hydrate while it's still damp. Seal it in with a richer cream at night.\n\nThree steps, five minutes, and your skin feels comfortable by Friday. That's my whole RIMAN routine this week. Who's in? #SkinCare",
-        "video_tip": "15 seconds, timer on screen: cleanse, pat, press in cream, stop the timer under five minutes. On-screen text: \"Three steps. That's it.\"",
-        "intent_url": "https://x.com/intent/post?text=Monday%20reset%20for%20skin%20over%2040%3A%0A%0ACleanse%20gently.%20Hydrate%20while%20it%27s%20still%20damp.%20Seal%20it%20in%20with%20a%20richer%20cream%20at%20night.%0A%0AThree%20steps%2C%20five%20minutes%2C%20and%20your%20skin%20feels%20comfortable%20by%20Friday.%20That%27s%20my%20whole%20RIMAN%20routine%20this%20week.%20Who%27s%20in%3F%20%23SkinCare"
+        "text": "Skin in your 70s doesn't need a 10-step routine.\n\nIt needs a gentle cleanser, something calming, one good serum, and a collagen mask when it looks tired. That's my whole RIMAN shelf.\n\nFewer products, done well. What's on yours?",
+        "video_tip": "10 seconds: line up the four products on the counter, tap each one as you name it, end on the question.",
+        "intent_url": "https://x.com/intent/post?text=Skin%20in%20your%2070s%20doesn%27t%20need%20a%2010-step%20routine.%0A%0AIt%20needs%20a%20gentle%20cleanser%2C%20something%20calming%2C%20one%20good%20serum%2C%20and%20a%20collagen%20mask%20when%20it%20looks%20tired.%20That%27s%20my%20whole%20RIMAN%20shelf.%0A%0AFewer%20products%2C%20done%20well.%20What%27s%20on%20yours%3F"
       }
     ]
   },
@@ -203,8 +170,8 @@
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 75,
-      "total_views": 108,
+      "views": 77,
+      "total_views": 112,
       "hit": false
     },
     {
@@ -253,16 +220,16 @@
   "you_rank": null,
   "trend_input_only_posts": [],
   "leaderboards": {
-    "as_of": "2026-11-09",
+    "as_of": "2026-11-10",
     "tracking_start": "2026-10-27",
     "days_included": [
-      "2026-11-03",
       "2026-11-04",
       "2026-11-05",
       "2026-11-06",
       "2026-11-07",
       "2026-11-08",
-      "2026-11-09"
+      "2026-11-09",
+      "2026-11-10"
     ],
     "month_days_included": [
       "2026-11-01",
@@ -273,13 +240,14 @@
       "2026-11-06",
       "2026-11-07",
       "2026-11-08",
-      "2026-11-09"
+      "2026-11-09",
+      "2026-11-10"
     ],
     "week": {
-      "label": "Rolling week · Nov 3–Nov 9",
+      "label": "Rolling week · Nov 4–Nov 10",
       "range": [
-        "2026-11-03",
-        "2026-11-09"
+        "2026-11-04",
+        "2026-11-10"
       ],
       "entries": []
     },
@@ -287,7 +255,7 @@
       "label": "November 2026 · from Nov 1",
       "range": [
         "2026-11-01",
-        "2026-11-09"
+        "2026-11-10"
       ],
       "entries": []
     }
