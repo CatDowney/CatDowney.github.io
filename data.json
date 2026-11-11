@@ -2,7 +2,7 @@
   "title": "Cats Health and Beauty · daily X skincare digest - 2026-11-11",
   "date": "2026-11-11",
   "timezone": "America/Vancouver",
-  "updated": "2026-11-11T09:45:18-07:00",
+  "updated": "2026-11-11T10:57:40-07:00",
   "brand_title": "Cats Health and Beauty · X Skincare Board",
   "brand_handle": "@CatsBeauty26",
   "virals_title": "Outsiders · last 48h",
@@ -23,8 +23,8 @@
     },
     {
       "handle": "cerave",
-      "reason": "1 original in the last 7 days; highest 358 views",
-      "max_views": 358
+      "reason": "1 original in the last 7 days; highest 380 views",
+      "max_views": 380
     },
     {
       "handle": "LabMuffin",
@@ -58,12 +58,12 @@
   "virals_target": 0,
   "hits_count": 0,
   "outsiders_count": 0,
-  "watch_window": "2026-11-04T17:00Z to 2026-11-11T16:50Z",
+  "watch_window": "2026-11-04T18:00Z to 2026-11-11T17:57Z",
   "watchlist_posts_7d": [
     {
       "handle": "cerave",
       "name": "CeraVe",
-      "views": 358,
+      "views": 380,
       "url": "https://x.com/cerave/status/2120241794008924356",
       "posted_at": "2026-11-10T19:46:50.000Z",
       "text": "on a mission to moisturize the driest of places.. can you guess where https://t.co/Ve5eoSY34d"
@@ -86,6 +86,39 @@
     }
   ],
   "drafts_today": [
+    {
+      "topic": "Winter skin after 40: three swaps",
+      "keywords": [
+        "winter dryness",
+        "over 40",
+        "three-step routine"
+      ],
+      "text": "Winter skin after 40 isn't about adding more products.\n\nIt's three swaps:\n1. Gentle cleanser, never squeaky-clean\n2. Hydrate on damp skin, within a minute of washing\n3. A richer cream at night to seal it in\n\nThat's my whole November routine with RIMAN Incellderm.",
+      "video_tip": "15 seconds at the sink: hold up one finger per swap, finish by pressing cream onto still-damp cheeks.",
+      "intent_url": "https://x.com/intent/post?text=Winter%20skin%20after%2040%20isn%27t%20about%20adding%20more%20products.%0A%0AIt%27s%20three%20swaps%3A%0A1.%20Gentle%20cleanser%2C%20never%20squeaky-clean%0A2.%20Hydrate%20on%20damp%20skin%2C%20within%20a%20minute%20of%20washing%0A3.%20A%20richer%20cream%20at%20night%20to%20seal%20it%20in%0A%0AThat%27s%20my%20whole%20November%20routine%20with%20RIMAN%20Incellderm."
+    },
+    {
+      "topic": "Your hands are aging faster than your face",
+      "keywords": [
+        "skin barrier",
+        "winter hands",
+        "hand sanitizer"
+      ],
+      "text": "Your hands are aging faster than your face this winter.\n\nHot water, hand sanitizer, furnace air, and no cream after.\n\nThe fix: lukewarm wash, pat almost dry, then cream while they're still damp. Backs of the hands too.\n\nWho else forgets their hands?",
+      "video_tip": "10 seconds: close-up of washing in lukewarm water, pat with a towel, then rub cream into the backs of your hands.",
+      "intent_url": "https://x.com/intent/post?text=Your%20hands%20are%20aging%20faster%20than%20your%20face%20this%20winter.%0A%0AHot%20water%2C%20hand%20sanitizer%2C%20furnace%20air%2C%20and%20no%20cream%20after.%0A%0AThe%20fix%3A%20lukewarm%20wash%2C%20pat%20almost%20dry%2C%20then%20cream%20while%20they%27re%20still%20damp.%20Backs%20of%20the%20hands%20too.%0A%0AWho%20else%20forgets%20their%20hands%3F"
+    },
+    {
+      "topic": "Where does winter hit your skin first?",
+      "keywords": [
+        "winter dryness",
+        "driest spots",
+        "question post"
+      ],
+      "text": "Quick question for my 40+ friends: where does winter hit your skin first?\n\nCheeks?\nAround the nose?\nHands?\nShins and heels?\n\nMine is always my cheeks by the furnace. Tell me yours and I'll share what I do for it.",
+      "video_tip": "8 seconds: point to each spot on your face and hands as you say it, then point at the camera on 'tell me yours'.",
+      "intent_url": "https://x.com/intent/post?text=Quick%20question%20for%20my%2040%2B%20friends%3A%20where%20does%20winter%20hit%20your%20skin%20first%3F%0A%0ACheeks%3F%0AAround%20the%20nose%3F%0AHands%3F%0AShins%20and%20heels%3F%0A%0AMine%20is%20always%20my%20cheeks%20by%20the%20furnace.%20Tell%20me%20yours%20and%20I%27ll%20share%20what%20I%20do%20for%20it."
+    },
     {
       "topic": "GLP-1: the muscle question",
       "keywords": [
@@ -158,6 +191,39 @@
   "trend_radar": {
     "ideas": [
       {
+        "topic": "Winter skin after 40: three swaps",
+        "keywords": [
+          "winter dryness",
+          "over 40",
+          "three-step routine"
+        ],
+        "text": "Winter skin after 40 isn't about adding more products.\n\nIt's three swaps:\n1. Gentle cleanser, never squeaky-clean\n2. Hydrate on damp skin, within a minute of washing\n3. A richer cream at night to seal it in\n\nThat's my whole November routine with RIMAN Incellderm.",
+        "video_tip": "15 seconds at the sink: hold up one finger per swap, finish by pressing cream onto still-damp cheeks.",
+        "intent_url": "https://x.com/intent/post?text=Winter%20skin%20after%2040%20isn%27t%20about%20adding%20more%20products.%0A%0AIt%27s%20three%20swaps%3A%0A1.%20Gentle%20cleanser%2C%20never%20squeaky-clean%0A2.%20Hydrate%20on%20damp%20skin%2C%20within%20a%20minute%20of%20washing%0A3.%20A%20richer%20cream%20at%20night%20to%20seal%20it%20in%0A%0AThat%27s%20my%20whole%20November%20routine%20with%20RIMAN%20Incellderm."
+      },
+      {
+        "topic": "Your hands are aging faster than your face",
+        "keywords": [
+          "skin barrier",
+          "winter hands",
+          "hand sanitizer"
+        ],
+        "text": "Your hands are aging faster than your face this winter.\n\nHot water, hand sanitizer, furnace air, and no cream after.\n\nThe fix: lukewarm wash, pat almost dry, then cream while they're still damp. Backs of the hands too.\n\nWho else forgets their hands?",
+        "video_tip": "10 seconds: close-up of washing in lukewarm water, pat with a towel, then rub cream into the backs of your hands.",
+        "intent_url": "https://x.com/intent/post?text=Your%20hands%20are%20aging%20faster%20than%20your%20face%20this%20winter.%0A%0AHot%20water%2C%20hand%20sanitizer%2C%20furnace%20air%2C%20and%20no%20cream%20after.%0A%0AThe%20fix%3A%20lukewarm%20wash%2C%20pat%20almost%20dry%2C%20then%20cream%20while%20they%27re%20still%20damp.%20Backs%20of%20the%20hands%20too.%0A%0AWho%20else%20forgets%20their%20hands%3F"
+      },
+      {
+        "topic": "Where does winter hit your skin first?",
+        "keywords": [
+          "winter dryness",
+          "driest spots",
+          "question post"
+        ],
+        "text": "Quick question for my 40+ friends: where does winter hit your skin first?\n\nCheeks?\nAround the nose?\nHands?\nShins and heels?\n\nMine is always my cheeks by the furnace. Tell me yours and I'll share what I do for it.",
+        "video_tip": "8 seconds: point to each spot on your face and hands as you say it, then point at the camera on 'tell me yours'.",
+        "intent_url": "https://x.com/intent/post?text=Quick%20question%20for%20my%2040%2B%20friends%3A%20where%20does%20winter%20hit%20your%20skin%20first%3F%0A%0ACheeks%3F%0AAround%20the%20nose%3F%0AHands%3F%0AShins%20and%20heels%3F%0A%0AMine%20is%20always%20my%20cheeks%20by%20the%20furnace.%20Tell%20me%20yours%20and%20I%27ll%20share%20what%20I%20do%20for%20it."
+      },
+      {
         "topic": "GLP-1: the muscle question",
         "keywords": [
           "GLP-1",
@@ -229,8 +295,8 @@
     {
       "handle": "cerave",
       "name": "CeraVe",
-      "views": 358,
-      "total_views": 358,
+      "views": 380,
+      "total_views": 380,
       "hit": false
     },
     {
