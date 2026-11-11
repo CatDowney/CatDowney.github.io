@@ -1,8 +1,8 @@
 {
-  "title": "Cats Health and Beauty · daily X skincare digest - 2026-11-08",
-  "date": "2026-11-10",
+  "title": "Cats Health and Beauty · daily X skincare digest - 2026-11-11",
+  "date": "2026-11-11",
   "timezone": "America/Vancouver",
-  "updated": "2026-11-10T10:56:03-07:00",
+  "updated": "2026-11-11T09:45:18-07:00",
   "brand_title": "Cats Health and Beauty · X Skincare Board",
   "brand_handle": "@CatsBeauty26",
   "virals_title": "Outsiders · last 48h",
@@ -18,13 +18,13 @@
     },
     {
       "handle": "DiscoverSelf",
-      "reason": "2 originals in the last 7 days; highest 77 views",
-      "max_views": 77
+      "reason": "2 originals in the last 7 days; highest 83 views",
+      "max_views": 83
     },
     {
       "handle": "cerave",
-      "reason": "1 original in the last 7 days; highest 110 views",
-      "max_views": 110
+      "reason": "1 original in the last 7 days; highest 358 views",
+      "max_views": 358
     },
     {
       "handle": "LabMuffin",
@@ -58,20 +58,20 @@
   "virals_target": 0,
   "hits_count": 0,
   "outsiders_count": 0,
-  "watch_window": "2026-11-03T18:00Z to 2026-11-10T17:56Z",
+  "watch_window": "2026-11-04T17:00Z to 2026-11-11T16:50Z",
   "watchlist_posts_7d": [
     {
       "handle": "cerave",
       "name": "CeraVe",
-      "views": 110,
-      "url": "https://x.com/cerave/status/2120209371120419173",
-      "posted_at": "2026-11-10T17:38:00.000Z",
-      "text": "dryness cure coming soon… https://t.co/knw12SybG2"
+      "views": 358,
+      "url": "https://x.com/cerave/status/2120241794008924356",
+      "posted_at": "2026-11-10T19:46:50.000Z",
+      "text": "on a mission to moisturize the driest of places.. can you guess where https://t.co/Ve5eoSY34d"
     },
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 77,
+      "views": 83,
       "url": "https://x.com/DiscoverSelf/status/2119047967990546770",
       "posted_at": "2026-11-07T12:43:00.000Z",
       "text": "#Winter air makes #menopause #skin feel even drier. A creamy shea butter bar turns a warm-water hand wash into a small ritual she will look forward to. #soap #gifts #giftsforher https://t.co/ktZ09wiYDa https://t.co/rOn4aBnz0T"
@@ -79,7 +79,7 @@
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 35,
+      "views": 40,
       "url": "https://x.com/DiscoverSelf/status/2118316649141191103",
       "posted_at": "2026-11-05T12:17:00.000Z",
       "text": "Menopause can change how your mouth feels, from sensitive gums to dryness. A soft-bristle electric brush with a pressure sensor is a quiet, practical gift she will use daily. #gifts #giftideas #giftsforher https://t.co/7GWrdVwTZP https://t.co/L8Fe2WZ4dg"
@@ -87,59 +87,48 @@
   ],
   "drafts_today": [
     {
-      "topic": "GLP-1, no hype",
+      "topic": "GLP-1: the muscle question",
       "keywords": [
         "GLP-1",
-        "metabolism",
+        "muscle",
         "weight"
       ],
-      "text": "A doctor on a podcast says GLP-1 drugs should go \"in the water.\"\n\nI'm not buying the hype. At my age, the questions that matter are simple: am I keeping my muscle, am I eating enough protein, and what happens when I stop?\n\nAsk those before you ask what the scale says.",
-      "video_tip": "Talk to camera, 15 seconds, one take: read the podcast quote off your phone, then count the three questions on your fingers.",
-      "intent_url": "https://x.com/intent/post?text=A%20doctor%20on%20a%20podcast%20says%20GLP-1%20drugs%20should%20go%20%22in%20the%20water.%22%0A%0AI%27m%20not%20buying%20the%20hype.%20At%20my%20age%2C%20the%20questions%20that%20matter%20are%20simple%3A%20am%20I%20keeping%20my%20muscle%2C%20am%20I%20eating%20enough%20protein%2C%20and%20what%20happens%20when%20I%20stop%3F%0A%0AAsk%20those%20before%20you%20ask%20what%20the%20scale%20says."
+      "text": "The part nobody puts in the before-and-after photo: a good share of GLP-1 weight loss can be muscle, and a lot of people regain much of the weight when they stop.\n\nAfter 70, muscle is what keeps you steady on your feet.\n\nSo before the scale: protein at every meal, lift something twice a week, and have a plan for after.",
+      "video_tip": "15 seconds to camera: say the first line, then count the three habits on your fingers.",
+      "intent_url": "https://x.com/intent/post?text=The%20part%20nobody%20puts%20in%20the%20before-and-after%20photo%3A%20a%20good%20share%20of%20GLP-1%20weight%20loss%20can%20be%20muscle%2C%20and%20a%20lot%20of%20people%20regain%20much%20of%20the%20weight%20when%20they%20stop.%0A%0AAfter%2070%2C%20muscle%20is%20what%20keeps%20you%20steady%20on%20your%20feet.%0A%0ASo%20before%20the%20scale%3A%20protein%20at%20every%20meal%2C%20lift%20something%20twice%20a%20week%2C%20and%20have%20a%20plan%20for%20after."
     },
     {
-      "topic": "Fewer products for 70+ sensitive skin",
+      "topic": "FDA eye warning on GLP-1s, no panic",
+      "keywords": [
+        "GLP-1",
+        "over 60",
+        "safety"
+      ],
+      "text": "The FDA just added a rare vision-loss warning (NAION) to Ozempic, Zepbound and other GLP-1 labels.\n\nRare is the key word. Not a reason to panic.\n\nIt is a reason to call your doctor right away about any sudden change in one eye, and to keep up your eye exams if you're over 60.",
+      "video_tip": "10 seconds: hold your reading glasses, say 'rare, but know the sign', then the one-eye line.",
+      "intent_url": "https://x.com/intent/post?text=The%20FDA%20just%20added%20a%20rare%20vision-loss%20warning%20%28NAION%29%20to%20Ozempic%2C%20Zepbound%20and%20other%20GLP-1%20labels.%0A%0ARare%20is%20the%20key%20word.%20Not%20a%20reason%20to%20panic.%0A%0AIt%20is%20a%20reason%20to%20call%20your%20doctor%20right%20away%20about%20any%20sudden%20change%20in%20one%20eye%2C%20and%20to%20keep%20up%20your%20eye%20exams%20if%20you%27re%20over%2060."
+    },
+    {
+      "topic": "Sensitive skin: one product at a time",
       "keywords": [
         "sensitive skin",
         "fewer products",
         "K-beauty"
       ],
-      "text": "Skin in your 70s doesn't need a 10-step routine.\n\nIt needs a gentle cleanser, something calming, one good serum, and a collagen mask when it looks tired. That's my whole RIMAN shelf.\n\nFewer products, done well. What's on yours?",
-      "video_tip": "10 seconds: line up the four products on the counter, tap each one as you name it, end on the question.",
-      "intent_url": "https://x.com/intent/post?text=Skin%20in%20your%2070s%20doesn%27t%20need%20a%2010-step%20routine.%0A%0AIt%20needs%20a%20gentle%20cleanser%2C%20something%20calming%2C%20one%20good%20serum%2C%20and%20a%20collagen%20mask%20when%20it%20looks%20tired.%20That%27s%20my%20whole%20RIMAN%20shelf.%0A%0AFewer%20products%2C%20done%20well.%20What%27s%20on%20yours%3F"
+      "text": "Sensitive skin rule: never start three new products in the same week.\n\nAdd one. Give it 5 to 7 days. If your skin's calm, add the next.\n\nThat's how you find out what's working, and what's making you sting.",
+      "video_tip": "12 seconds: three products on the counter, slide one forward, hold up a calendar or seven fingers, then slide the next.",
+      "intent_url": "https://x.com/intent/post?text=Sensitive%20skin%20rule%3A%20never%20start%20three%20new%20products%20in%20the%20same%20week.%0A%0AAdd%20one.%20Give%20it%205%20to%207%20days.%20If%20your%20skin%27s%20calm%2C%20add%20the%20next.%0A%0AThat%27s%20how%20you%20find%20out%20what%27s%20working%2C%20and%20what%27s%20making%20you%20sting."
     },
     {
-      "topic": "Broken barrier, 3 signs",
+      "topic": "Liver health: no trial and error",
       "keywords": [
-        "skin barrier",
-        "fewer products",
-        "mature skin"
+        "liver",
+        "safe supplements",
+        "women 70+"
       ],
-      "text": "Think your skin barrier is \"broken\"?\n\nThree signs after 40: tight after cleansing, stinging when you apply anything, and flaky patches by afternoon.\n\nThe fix is boring: a gentle cleanser, fewer products for a week, and cream on damp skin. Mine is my RIMAN Incellderm routine.",
-      "video_tip": "12 seconds: hold up three fingers and name each sign, then show cleanser, then cream patted onto damp skin.",
-      "intent_url": "https://x.com/intent/post?text=Think%20your%20skin%20barrier%20is%20%22broken%22%3F%0A%0AThree%20signs%20after%2040%3A%20tight%20after%20cleansing%2C%20stinging%20when%20you%20apply%20anything%2C%20and%20flaky%20patches%20by%20afternoon.%0A%0AThe%20fix%20is%20boring%3A%20a%20gentle%20cleanser%2C%20fewer%20products%20for%20a%20week%2C%20and%20cream%20on%20damp%20skin.%20Mine%20is%20my%20RIMAN%20Incellderm%20routine."
-    },
-    {
-      "topic": "No dryness cure in a jar",
-      "keywords": [
-        "winter dryness",
-        "dryness cure",
-        "three-step routine"
-      ],
-      "text": "Everyone's teasing a \"dryness cure\" this week.\n\nAfter 40, mine isn't one jar. It's three habits:\n1. Lukewarm water, never hot\n2. Serum on damp skin\n3. A richer cream at night to seal it in\n\nWhich one do you skip?",
-      "video_tip": "10 seconds: run the tap, test the water on your wrist, then pat serum and cream on still-damp skin. End on the question as on-screen text.",
-      "intent_url": "https://x.com/intent/post?text=Everyone%27s%20teasing%20a%20%22dryness%20cure%22%20this%20week.%0A%0AAfter%2040%2C%20mine%20isn%27t%20one%20jar.%20It%27s%20three%20habits%3A%0A1.%20Lukewarm%20water%2C%20never%20hot%0A2.%20Serum%20on%20damp%20skin%0A3.%20A%20richer%20cream%20at%20night%20to%20seal%20it%20in%0A%0AWhich%20one%20do%20you%20skip%3F"
-    },
-    {
-      "topic": "Furnace-on hydration",
-      "keywords": [
-        "winter dryness",
-        "hyaluronic acid",
-        "skin barrier"
-      ],
-      "text": "Furnace on, skin feeling drier than ever?\n\nHydrating serums work best on damp skin, then sealed in right away with cream. If you put them on dry skin in dry indoor air and stop there, your face can feel tighter, not better.\n\nDamp skin, then seal. Every time.",
-      "video_tip": "8 seconds: mist your face, pat on serum, follow straight away with cream. Caption: damp skin, then seal.",
-      "intent_url": "https://x.com/intent/post?text=Furnace%20on%2C%20skin%20feeling%20drier%20than%20ever%3F%0A%0AHydrating%20serums%20work%20best%20on%20damp%20skin%2C%20then%20sealed%20in%20right%20away%20with%20cream.%20If%20you%20put%20them%20on%20dry%20skin%20in%20dry%20indoor%20air%20and%20stop%20there%2C%20your%20face%20can%20feel%20tighter%2C%20not%20better.%0A%0ADamp%20skin%2C%20then%20seal.%20Every%20time."
+      "text": "\"Fix your fatty liver\" lists are everywhere this week.\n\nIf your liver is already a medical issue, please don't start a new supplement, tea or \"detox\" because a post said so.\n\nTake the bottle to your doctor or pharmacist first. Your liver isn't the place for trial and error.",
+      "video_tip": "10 seconds: hold up a supplement bottle, read the first line, end tapping the label.",
+      "intent_url": "https://x.com/intent/post?text=%22Fix%20your%20fatty%20liver%22%20lists%20are%20everywhere%20this%20week.%0A%0AIf%20your%20liver%20is%20already%20a%20medical%20issue%2C%20please%20don%27t%20start%20a%20new%20supplement%2C%20tea%20or%20%22detox%22%20because%20a%20post%20said%20so.%0A%0ATake%20the%20bottle%20to%20your%20doctor%20or%20pharmacist%20first.%20Your%20liver%20isn%27t%20the%20place%20for%20trial%20and%20error."
     }
   ],
   "trend_keywords": {
@@ -169,59 +158,48 @@
   "trend_radar": {
     "ideas": [
       {
-        "topic": "GLP-1, no hype",
+        "topic": "GLP-1: the muscle question",
         "keywords": [
           "GLP-1",
-          "metabolism",
+          "muscle",
           "weight"
         ],
-        "text": "A doctor on a podcast says GLP-1 drugs should go \"in the water.\"\n\nI'm not buying the hype. At my age, the questions that matter are simple: am I keeping my muscle, am I eating enough protein, and what happens when I stop?\n\nAsk those before you ask what the scale says.",
-        "video_tip": "Talk to camera, 15 seconds, one take: read the podcast quote off your phone, then count the three questions on your fingers.",
-        "intent_url": "https://x.com/intent/post?text=A%20doctor%20on%20a%20podcast%20says%20GLP-1%20drugs%20should%20go%20%22in%20the%20water.%22%0A%0AI%27m%20not%20buying%20the%20hype.%20At%20my%20age%2C%20the%20questions%20that%20matter%20are%20simple%3A%20am%20I%20keeping%20my%20muscle%2C%20am%20I%20eating%20enough%20protein%2C%20and%20what%20happens%20when%20I%20stop%3F%0A%0AAsk%20those%20before%20you%20ask%20what%20the%20scale%20says."
+        "text": "The part nobody puts in the before-and-after photo: a good share of GLP-1 weight loss can be muscle, and a lot of people regain much of the weight when they stop.\n\nAfter 70, muscle is what keeps you steady on your feet.\n\nSo before the scale: protein at every meal, lift something twice a week, and have a plan for after.",
+        "video_tip": "15 seconds to camera: say the first line, then count the three habits on your fingers.",
+        "intent_url": "https://x.com/intent/post?text=The%20part%20nobody%20puts%20in%20the%20before-and-after%20photo%3A%20a%20good%20share%20of%20GLP-1%20weight%20loss%20can%20be%20muscle%2C%20and%20a%20lot%20of%20people%20regain%20much%20of%20the%20weight%20when%20they%20stop.%0A%0AAfter%2070%2C%20muscle%20is%20what%20keeps%20you%20steady%20on%20your%20feet.%0A%0ASo%20before%20the%20scale%3A%20protein%20at%20every%20meal%2C%20lift%20something%20twice%20a%20week%2C%20and%20have%20a%20plan%20for%20after."
       },
       {
-        "topic": "Fewer products for 70+ sensitive skin",
+        "topic": "FDA eye warning on GLP-1s, no panic",
+        "keywords": [
+          "GLP-1",
+          "over 60",
+          "safety"
+        ],
+        "text": "The FDA just added a rare vision-loss warning (NAION) to Ozempic, Zepbound and other GLP-1 labels.\n\nRare is the key word. Not a reason to panic.\n\nIt is a reason to call your doctor right away about any sudden change in one eye, and to keep up your eye exams if you're over 60.",
+        "video_tip": "10 seconds: hold your reading glasses, say 'rare, but know the sign', then the one-eye line.",
+        "intent_url": "https://x.com/intent/post?text=The%20FDA%20just%20added%20a%20rare%20vision-loss%20warning%20%28NAION%29%20to%20Ozempic%2C%20Zepbound%20and%20other%20GLP-1%20labels.%0A%0ARare%20is%20the%20key%20word.%20Not%20a%20reason%20to%20panic.%0A%0AIt%20is%20a%20reason%20to%20call%20your%20doctor%20right%20away%20about%20any%20sudden%20change%20in%20one%20eye%2C%20and%20to%20keep%20up%20your%20eye%20exams%20if%20you%27re%20over%2060."
+      },
+      {
+        "topic": "Sensitive skin: one product at a time",
         "keywords": [
           "sensitive skin",
           "fewer products",
           "K-beauty"
         ],
-        "text": "Skin in your 70s doesn't need a 10-step routine.\n\nIt needs a gentle cleanser, something calming, one good serum, and a collagen mask when it looks tired. That's my whole RIMAN shelf.\n\nFewer products, done well. What's on yours?",
-        "video_tip": "10 seconds: line up the four products on the counter, tap each one as you name it, end on the question.",
-        "intent_url": "https://x.com/intent/post?text=Skin%20in%20your%2070s%20doesn%27t%20need%20a%2010-step%20routine.%0A%0AIt%20needs%20a%20gentle%20cleanser%2C%20something%20calming%2C%20one%20good%20serum%2C%20and%20a%20collagen%20mask%20when%20it%20looks%20tired.%20That%27s%20my%20whole%20RIMAN%20shelf.%0A%0AFewer%20products%2C%20done%20well.%20What%27s%20on%20yours%3F"
+        "text": "Sensitive skin rule: never start three new products in the same week.\n\nAdd one. Give it 5 to 7 days. If your skin's calm, add the next.\n\nThat's how you find out what's working, and what's making you sting.",
+        "video_tip": "12 seconds: three products on the counter, slide one forward, hold up a calendar or seven fingers, then slide the next.",
+        "intent_url": "https://x.com/intent/post?text=Sensitive%20skin%20rule%3A%20never%20start%20three%20new%20products%20in%20the%20same%20week.%0A%0AAdd%20one.%20Give%20it%205%20to%207%20days.%20If%20your%20skin%27s%20calm%2C%20add%20the%20next.%0A%0AThat%27s%20how%20you%20find%20out%20what%27s%20working%2C%20and%20what%27s%20making%20you%20sting."
       },
       {
-        "topic": "Broken barrier, 3 signs",
+        "topic": "Liver health: no trial and error",
         "keywords": [
-          "skin barrier",
-          "fewer products",
-          "mature skin"
+          "liver",
+          "safe supplements",
+          "women 70+"
         ],
-        "text": "Think your skin barrier is \"broken\"?\n\nThree signs after 40: tight after cleansing, stinging when you apply anything, and flaky patches by afternoon.\n\nThe fix is boring: a gentle cleanser, fewer products for a week, and cream on damp skin. Mine is my RIMAN Incellderm routine.",
-        "video_tip": "12 seconds: hold up three fingers and name each sign, then show cleanser, then cream patted onto damp skin.",
-        "intent_url": "https://x.com/intent/post?text=Think%20your%20skin%20barrier%20is%20%22broken%22%3F%0A%0AThree%20signs%20after%2040%3A%20tight%20after%20cleansing%2C%20stinging%20when%20you%20apply%20anything%2C%20and%20flaky%20patches%20by%20afternoon.%0A%0AThe%20fix%20is%20boring%3A%20a%20gentle%20cleanser%2C%20fewer%20products%20for%20a%20week%2C%20and%20cream%20on%20damp%20skin.%20Mine%20is%20my%20RIMAN%20Incellderm%20routine."
-      },
-      {
-        "topic": "No dryness cure in a jar",
-        "keywords": [
-          "winter dryness",
-          "dryness cure",
-          "three-step routine"
-        ],
-        "text": "Everyone's teasing a \"dryness cure\" this week.\n\nAfter 40, mine isn't one jar. It's three habits:\n1. Lukewarm water, never hot\n2. Serum on damp skin\n3. A richer cream at night to seal it in\n\nWhich one do you skip?",
-        "video_tip": "10 seconds: run the tap, test the water on your wrist, then pat serum and cream on still-damp skin. End on the question as on-screen text.",
-        "intent_url": "https://x.com/intent/post?text=Everyone%27s%20teasing%20a%20%22dryness%20cure%22%20this%20week.%0A%0AAfter%2040%2C%20mine%20isn%27t%20one%20jar.%20It%27s%20three%20habits%3A%0A1.%20Lukewarm%20water%2C%20never%20hot%0A2.%20Serum%20on%20damp%20skin%0A3.%20A%20richer%20cream%20at%20night%20to%20seal%20it%20in%0A%0AWhich%20one%20do%20you%20skip%3F"
-      },
-      {
-        "topic": "Furnace-on hydration",
-        "keywords": [
-          "winter dryness",
-          "hyaluronic acid",
-          "skin barrier"
-        ],
-        "text": "Furnace on, skin feeling drier than ever?\n\nHydrating serums work best on damp skin, then sealed in right away with cream. If you put them on dry skin in dry indoor air and stop there, your face can feel tighter, not better.\n\nDamp skin, then seal. Every time.",
-        "video_tip": "8 seconds: mist your face, pat on serum, follow straight away with cream. Caption: damp skin, then seal.",
-        "intent_url": "https://x.com/intent/post?text=Furnace%20on%2C%20skin%20feeling%20drier%20than%20ever%3F%0A%0AHydrating%20serums%20work%20best%20on%20damp%20skin%2C%20then%20sealed%20in%20right%20away%20with%20cream.%20If%20you%20put%20them%20on%20dry%20skin%20in%20dry%20indoor%20air%20and%20stop%20there%2C%20your%20face%20can%20feel%20tighter%2C%20not%20better.%0A%0ADamp%20skin%2C%20then%20seal.%20Every%20time."
+        "text": "\"Fix your fatty liver\" lists are everywhere this week.\n\nIf your liver is already a medical issue, please don't start a new supplement, tea or \"detox\" because a post said so.\n\nTake the bottle to your doctor or pharmacist first. Your liver isn't the place for trial and error.",
+        "video_tip": "10 seconds: hold up a supplement bottle, read the first line, end tapping the label.",
+        "intent_url": "https://x.com/intent/post?text=%22Fix%20your%20fatty%20liver%22%20lists%20are%20everywhere%20this%20week.%0A%0AIf%20your%20liver%20is%20already%20a%20medical%20issue%2C%20please%20don%27t%20start%20a%20new%20supplement%2C%20tea%20or%20%22detox%22%20because%20a%20post%20said%20so.%0A%0ATake%20the%20bottle%20to%20your%20doctor%20or%20pharmacist%20first.%20Your%20liver%20isn%27t%20the%20place%20for%20trial%20and%20error."
       }
     ]
   },
@@ -244,15 +222,15 @@
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 77,
-      "total_views": 112,
+      "views": 83,
+      "total_views": 123,
       "hit": false
     },
     {
       "handle": "cerave",
       "name": "CeraVe",
-      "views": 110,
-      "total_views": 110,
+      "views": 358,
+      "total_views": 358,
       "hit": false
     },
     {
@@ -294,16 +272,16 @@
   "you_rank": null,
   "trend_input_only_posts": [],
   "leaderboards": {
-    "as_of": "2026-11-10",
+    "as_of": "2026-11-11",
     "tracking_start": "2026-10-27",
     "days_included": [
-      "2026-11-04",
       "2026-11-05",
       "2026-11-06",
       "2026-11-07",
       "2026-11-08",
       "2026-11-09",
-      "2026-11-10"
+      "2026-11-10",
+      "2026-11-11"
     ],
     "month_days_included": [
       "2026-11-01",
@@ -315,13 +293,14 @@
       "2026-11-07",
       "2026-11-08",
       "2026-11-09",
-      "2026-11-10"
+      "2026-11-10",
+      "2026-11-11"
     ],
     "week": {
-      "label": "Rolling week · Nov 4–Nov 10",
+      "label": "Rolling week · Nov 5–Nov 11",
       "range": [
-        "2026-11-04",
-        "2026-11-10"
+        "2026-11-05",
+        "2026-11-11"
       ],
       "entries": []
     },
@@ -329,7 +308,7 @@
       "label": "November 2026 · from Nov 1",
       "range": [
         "2026-11-01",
-        "2026-11-10"
+        "2026-11-11"
       ],
       "entries": []
     }
