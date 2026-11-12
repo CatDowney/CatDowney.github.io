@@ -2,7 +2,7 @@
   "title": "Cats Health and Beauty · daily X skincare digest - 2026-11-11",
   "date": "2026-11-12",
   "timezone": "America/Vancouver",
-  "updated": "2026-11-12T09:47:23-07:00",
+  "updated": "2026-11-12T10:52:07-07:00",
   "brand_title": "Cats Health and Beauty · X Skincare Board",
   "brand_handle": "@CatsBeauty26",
   "virals_title": "Outsiders · last 48h",
@@ -18,13 +18,13 @@
     },
     {
       "handle": "DiscoverSelf",
-      "reason": "1 original in the last 7 days; highest 92 views",
-      "max_views": 92
+      "reason": "1 original in the last 7 days; highest 93 views",
+      "max_views": 93
     },
     {
       "handle": "cerave",
-      "reason": "1 original in the last 7 days; highest 523 views",
-      "max_views": 523
+      "reason": "1 original in the last 7 days; highest 528 views",
+      "max_views": 528
     },
     {
       "handle": "LabMuffin",
@@ -58,12 +58,12 @@
   "virals_target": 0,
   "hits_count": 0,
   "outsiders_count": 0,
-  "watch_window": "2026-11-05T17:00Z to 2026-11-12T16:50Z",
+  "watch_window": "2026-11-05T18:00Z to 2026-11-12T17:55Z",
   "watchlist_posts_7d": [
     {
       "handle": "cerave",
       "name": "CeraVe",
-      "views": 523,
+      "views": 528,
       "url": "https://x.com/cerave/status/2120241794008924356",
       "posted_at": "2026-11-10T19:46:50.000Z",
       "text": "on a mission to moisturize the driest of places.. can you guess where https://t.co/Ve5eoSY34d"
@@ -71,13 +71,49 @@
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 92,
+      "views": 93,
       "url": "https://x.com/DiscoverSelf/status/2119047967990546770",
       "posted_at": "2026-11-07T12:43:00.000Z",
       "text": "#Winter air makes #menopause #skin feel even drier. A creamy shea butter bar turns a warm-water hand wash into a small ritual she will look forward to. #soap #gifts #giftsforher https://t.co/ktZ09wiYDa https://t.co/rOn4aBnz0T"
     }
   ],
   "drafts_today": [
+    {
+      "topic": "Not gatekeeping: 3-step winter routine after 40",
+      "keywords": [
+        "winter dryness",
+        "three-step routine",
+        "over 40"
+      ],
+      "text": "Not gatekeeping this one, ladies over 40:\n\nDry winter skin doesn't need a 10-step routine.\n\n1. Gentle gel cleanser, never bar soap\n2. Serum while skin is still damp\n3. Press (don't rub) a rich cream to seal it\n\nSave this for tonight. Which step do you skip?",
+      "picture_tip": "Flat lay on a white towel by the bathroom window: your RIMAN cleanser, serum and cream in a row with a handwritten '1 2 3' sticky note above each.",
+      "video_tip": "15 seconds, vertical, bathroom window light: 3 quick clips, each with a number on screen: (1) lather the RIMAN Balancing Gel Cleanser in your hands, (2) pat serum onto damp cheeks, (3) press the cream in with flat palms. End on the 3 jars lined up.",
+      "intent_url": "https://x.com/intent/post?text=Not%20gatekeeping%20this%20one%2C%20ladies%20over%2040%3A%0A%0ADry%20winter%20skin%20doesn%27t%20need%20a%2010-step%20routine.%0A%0A1.%20Gentle%20gel%20cleanser%2C%20never%20bar%20soap%0A2.%20Serum%20while%20skin%20is%20still%20damp%0A3.%20Press%20%28don%27t%20rub%29%20a%20rich%20cream%20to%20seal%20it%0A%0ASave%20this%20for%20tonight.%20Which%20step%20do%20you%20skip%3F"
+    },
+    {
+      "topic": "Winter skin starter pack after 40",
+      "keywords": [
+        "winter dryness",
+        "skin barrier",
+        "over 40"
+      ],
+      "text": "Winter skin starter pack after 40:\n\n- Cheeks tight by noon\n- Makeup clinging to dry patches\n- Hands looking older than your face\n- Lips go first\n\nWhat helped me: a gentler cleanser, layering on damp skin, a richer cream at night.\n\nWhich one is you?",
+      "picture_tip": "Your hands holding a warm mug next to your RIMAN cream jar on the windowsill, with a cozy sweater sleeve in frame (simple 1:1 or 16:9 photo).",
+      "video_tip": "8 seconds: a quick close-up of the furnace vent or thermostat, then your hands rubbing in cream by a window, then cream pressed onto your cheek. On-screen text: 'Winter skin starter pack 40+'.",
+      "intent_url": "https://x.com/intent/post?text=Winter%20skin%20starter%20pack%20after%2040%3A%0A%0A-%20Cheeks%20tight%20by%20noon%0A-%20Makeup%20clinging%20to%20dry%20patches%0A-%20Hands%20looking%20older%20than%20your%20face%0A-%20Lips%20go%20first%0A%0AWhat%20helped%20me%3A%20a%20gentler%20cleanser%2C%20layering%20on%20damp%20skin%2C%20a%20richer%20cream%20at%20night.%0A%0AWhich%20one%20is%20you%3F"
+    },
+    {
+      "topic": "Your cream didn't stop working",
+      "keywords": [
+        "winter dryness",
+        "menopause skin",
+        "skin barrier"
+      ],
+      "text": "\"My cream stopped working.\"\n\nIt probably didn't. Dry winter air and furnace heat pull water out of skin faster.\n\nPut it on damp skin, press it in, and add a second thin layer on your cheeks at night.\n\nI use my RIMAN Incellderm cream for that last step.",
+      "picture_tip": "Close-up of your open RIMAN cream jar beside a few water droplets on the counter, natural morning light.",
+      "video_tip": "10 seconds: splash water on your face, pat lightly with a towel (leave it damp), then slowly press cream in with both palms. On-screen text: 'It's not the cream. It's the timing.'",
+      "intent_url": "https://x.com/intent/post?text=%22My%20cream%20stopped%20working.%22%0A%0AIt%20probably%20didn%27t.%20Dry%20winter%20air%20and%20furnace%20heat%20pull%20water%20out%20of%20skin%20faster.%0A%0APut%20it%20on%20damp%20skin%2C%20press%20it%20in%2C%20and%20add%20a%20second%20thin%20layer%20on%20your%20cheeks%20at%20night.%0A%0AI%20use%20my%20RIMAN%20Incellderm%20cream%20for%20that%20last%20step."
+    },
     {
       "topic": "GLP-1 after 60: lift, don't just shrink",
       "keywords": [
@@ -128,6 +164,42 @@
   "trend_radar": {
     "ideas": [
       {
+        "topic": "Not gatekeeping: 3-step winter routine after 40",
+        "keywords": [
+          "winter dryness",
+          "three-step routine",
+          "over 40"
+        ],
+        "text": "Not gatekeeping this one, ladies over 40:\n\nDry winter skin doesn't need a 10-step routine.\n\n1. Gentle gel cleanser, never bar soap\n2. Serum while skin is still damp\n3. Press (don't rub) a rich cream to seal it\n\nSave this for tonight. Which step do you skip?",
+        "picture_tip": "Flat lay on a white towel by the bathroom window: your RIMAN cleanser, serum and cream in a row with a handwritten '1 2 3' sticky note above each.",
+        "video_tip": "15 seconds, vertical, bathroom window light: 3 quick clips, each with a number on screen: (1) lather the RIMAN Balancing Gel Cleanser in your hands, (2) pat serum onto damp cheeks, (3) press the cream in with flat palms. End on the 3 jars lined up.",
+        "intent_url": "https://x.com/intent/post?text=Not%20gatekeeping%20this%20one%2C%20ladies%20over%2040%3A%0A%0ADry%20winter%20skin%20doesn%27t%20need%20a%2010-step%20routine.%0A%0A1.%20Gentle%20gel%20cleanser%2C%20never%20bar%20soap%0A2.%20Serum%20while%20skin%20is%20still%20damp%0A3.%20Press%20%28don%27t%20rub%29%20a%20rich%20cream%20to%20seal%20it%0A%0ASave%20this%20for%20tonight.%20Which%20step%20do%20you%20skip%3F"
+      },
+      {
+        "topic": "Winter skin starter pack after 40",
+        "keywords": [
+          "winter dryness",
+          "skin barrier",
+          "over 40"
+        ],
+        "text": "Winter skin starter pack after 40:\n\n- Cheeks tight by noon\n- Makeup clinging to dry patches\n- Hands looking older than your face\n- Lips go first\n\nWhat helped me: a gentler cleanser, layering on damp skin, a richer cream at night.\n\nWhich one is you?",
+        "picture_tip": "Your hands holding a warm mug next to your RIMAN cream jar on the windowsill, with a cozy sweater sleeve in frame (simple 1:1 or 16:9 photo).",
+        "video_tip": "8 seconds: a quick close-up of the furnace vent or thermostat, then your hands rubbing in cream by a window, then cream pressed onto your cheek. On-screen text: 'Winter skin starter pack 40+'.",
+        "intent_url": "https://x.com/intent/post?text=Winter%20skin%20starter%20pack%20after%2040%3A%0A%0A-%20Cheeks%20tight%20by%20noon%0A-%20Makeup%20clinging%20to%20dry%20patches%0A-%20Hands%20looking%20older%20than%20your%20face%0A-%20Lips%20go%20first%0A%0AWhat%20helped%20me%3A%20a%20gentler%20cleanser%2C%20layering%20on%20damp%20skin%2C%20a%20richer%20cream%20at%20night.%0A%0AWhich%20one%20is%20you%3F"
+      },
+      {
+        "topic": "Your cream didn't stop working",
+        "keywords": [
+          "winter dryness",
+          "menopause skin",
+          "skin barrier"
+        ],
+        "text": "\"My cream stopped working.\"\n\nIt probably didn't. Dry winter air and furnace heat pull water out of skin faster.\n\nPut it on damp skin, press it in, and add a second thin layer on your cheeks at night.\n\nI use my RIMAN Incellderm cream for that last step.",
+        "picture_tip": "Close-up of your open RIMAN cream jar beside a few water droplets on the counter, natural morning light.",
+        "video_tip": "10 seconds: splash water on your face, pat lightly with a towel (leave it damp), then slowly press cream in with both palms. On-screen text: 'It's not the cream. It's the timing.'",
+        "intent_url": "https://x.com/intent/post?text=%22My%20cream%20stopped%20working.%22%0A%0AIt%20probably%20didn%27t.%20Dry%20winter%20air%20and%20furnace%20heat%20pull%20water%20out%20of%20skin%20faster.%0A%0APut%20it%20on%20damp%20skin%2C%20press%20it%20in%2C%20and%20add%20a%20second%20thin%20layer%20on%20your%20cheeks%20at%20night.%0A%0AI%20use%20my%20RIMAN%20Incellderm%20cream%20for%20that%20last%20step."
+      },
+      {
         "topic": "GLP-1 after 60: lift, don't just shrink",
         "keywords": [
           "GLP-1",
@@ -170,15 +242,15 @@
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 92,
-      "total_views": 92,
+      "views": 93,
+      "total_views": 93,
       "hit": false
     },
     {
       "handle": "cerave",
       "name": "CeraVe",
-      "views": 523,
-      "total_views": 523,
+      "views": 528,
+      "total_views": 528,
       "hit": false
     },
     {
