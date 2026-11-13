@@ -1,8 +1,8 @@
 {
   "title": "Cats Health and Beauty · daily X skincare digest - 2026-11-11",
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "timezone": "America/Vancouver",
-  "updated": "2026-11-12T15:56:33-07:00",
+  "updated": "2026-11-13T09:49:12-07:00",
   "brand_title": "Cats Health and Beauty · X Skincare Board",
   "brand_handle": "@CatsBeauty26",
   "virals_title": "Outsiders · last 48h",
@@ -18,13 +18,13 @@
     },
     {
       "handle": "DiscoverSelf",
-      "reason": "1 original in the last 7 days; highest 93 views",
-      "max_views": 93
+      "reason": "2 originals in the last 7 days; highest 97 views",
+      "max_views": 97
     },
     {
       "handle": "cerave",
-      "reason": "1 original in the last 7 days; highest 528 views",
-      "max_views": 528
+      "reason": "2 originals in the last 7 days; highest 1,342 views",
+      "max_views": 1342
     },
     {
       "handle": "LabMuffin",
@@ -58,12 +58,20 @@
   "virals_target": 0,
   "hits_count": 0,
   "outsiders_count": 0,
-  "watch_window": "2026-11-05T18:00Z to 2026-11-12T17:55Z",
+  "watch_window": "2026-11-06T17:00Z to 2026-11-13T16:50Z",
   "watchlist_posts_7d": [
     {
       "handle": "cerave",
       "name": "CeraVe",
-      "views": 528,
+      "views": 1342,
+      "url": "https://x.com/cerave/status/2120960712050704607",
+      "posted_at": "2026-11-12T19:23:33.000Z",
+      "text": "outlook down for yall too?"
+    },
+    {
+      "handle": "cerave",
+      "name": "CeraVe",
+      "views": 566,
       "url": "https://x.com/cerave/status/2120241794008924356",
       "posted_at": "2026-11-10T19:46:50.000Z",
       "text": "on a mission to moisturize the driest of places.. can you guess where https://t.co/Ve5eoSY34d"
@@ -71,70 +79,44 @@
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 93,
+      "views": 97,
       "url": "https://x.com/DiscoverSelf/status/2119047967990546770",
       "posted_at": "2026-11-07T12:43:00.000Z",
       "text": "#Winter air makes #menopause #skin feel even drier. A creamy shea butter bar turns a warm-water hand wash into a small ritual she will look forward to. #soap #gifts #giftsforher https://t.co/ktZ09wiYDa https://t.co/rOn4aBnz0T"
+    },
+    {
+      "handle": "DiscoverSelf",
+      "name": "Celebrate Woman",
+      "views": 22,
+      "url": "https://x.com/DiscoverSelf/status/2121229593302425859",
+      "posted_at": "2026-11-13T13:12:00.000Z",
+      "text": "Fresh Start gift basket: a gentle electric toothbrush, a soft towel, and a shea butter soap bar. Easy to pull together for a friend, sister, or mom. #gifts #holidayseason #giftideas https://t.co/7GWrdVwmah https://t.co/kbEyxC5q04"
     }
   ],
   "drafts_today": [
     {
-      "topic": "Not gatekeeping: Boo-Se-Boo + cream after 40",
-      "keywords": [
-        "winter dryness",
-        "three-step routine",
-        "over 40"
-      ],
-      "text": "Not gatekeeping this one, ladies over 40:\n\nDry winter skin doesn't need a 10-step routine.\n\n1. Spray the Booster, let it dry\n2. Massage in the Serum, let it dry\n3. Spray the Booster again\n4. Massage in the Cream to seal it\n\nSave this for tonight. Which step is new for you?",
-      "picture_tip": "Flat lay in order: Dermatology Booster, Dermatology Serum, and Dermatology Cream, with a folded face cloth and a small bowl of water in the frame (to show you cleanse, then dry, before layering). Handwritten notes for Booster, Serum, Booster, Cream.",
-      "video_tip": "About 20 seconds, vertical, bathroom window light. On-screen steps: (1) spray the Booster and pause so it can absorb, (2) massage the Serum in and pause, (3) spray the Booster again, (4) scoop Dermatology Cream with the spatula and massage it in. End on the products lined up. Wait for each layer to absorb before the next.",
-      "intent_url": "https://x.com/intent/post?text=Not%20gatekeeping%20this%20one%2C%20ladies%20over%2040%3A%0A%0ADry%20winter%20skin%20doesn%27t%20need%20a%2010-step%20routine.%0A%0A1.%20Spray%20the%20Booster%2C%20let%20it%20dry%0A2.%20Massage%20in%20the%20Serum%2C%20let%20it%20dry%0A3.%20Spray%20the%20Booster%20again%0A4.%20Massage%20in%20the%20Cream%20to%20seal%20it%0A%0ASave%20this%20for%20tonight.%20Which%20step%20is%20new%20for%20you%3F"
-    },
-    {
-      "topic": "Winter body starter pack after 40 (Botalab Suamel)",
-      "keywords": [
-        "winter dryness",
-        "skin barrier",
-        "over 40"
-      ],
-      "text": "Winter body starter pack after 40:\n\n- Tight skin after a shower\n- Dry patches on arms and legs\n- Hands looking older than your face\n\nWhat helped me: a gentle body wash, then a rich cream fresh out of the shower.\n\nI use my Botalab Suamel wash and cream for that.\n\nWhich one is you?",
-      "picture_tip": "Your Botalab Suamel Nourishing Body Wash and Body Cream on the edge of the tub, with a folded towel and a cozy sweater sleeve in frame (simple 1:1 or 16:9 photo).",
-      "video_tip": "About 12 seconds: a quick shot of winter weather or the bathroom after a shower, then pump the Suamel Body Wash, then (after drying off) massage the Suamel Body Cream from the neck down in circles until it absorbs. On-screen text: 'Winter body starter pack 40+'. Follow the official body-cream direction: apply fresh out of the shower.",
-      "intent_url": "https://x.com/intent/post?text=Winter%20body%20starter%20pack%20after%2040%3A%0A%0A-%20Tight%20skin%20after%20a%20shower%0A-%20Dry%20patches%20on%20arms%20and%20legs%0A-%20Hands%20looking%20older%20than%20your%20face%0A%0AWhat%20helped%20me%3A%20a%20gentle%20body%20wash%2C%20then%20a%20rich%20cream%20fresh%20out%20of%20the%20shower.%0A%0AI%20use%20my%20Botalab%20Suamel%20wash%20and%20cream%20for%20that.%0A%0AWhich%20one%20is%20you%3F"
-    },
-    {
-      "topic": "Your cream didn't stop working",
-      "keywords": [
-        "winter dryness",
-        "menopause skin",
-        "skin barrier"
-      ],
-      "text": "\"My cream stopped working.\"\n\nIt probably didn't. Dry winter air and furnace heat pull water out of skin faster.\n\nTry Booster, Serum, Booster, then cream, and let each layer absorb first.\n\nI use my RIMAN Incellderm cream for that last step.",
-      "picture_tip": "Close-up of your open Dermatology Cream with the spatula in the jar, Booster and Serum beside it, and a folded face cloth nearby, in morning light. No leftover rinse water on the counter.",
-      "video_tip": "About 12 seconds: spray the Booster and wait, massage in the Serum and wait, spray the Booster again, then massage in the Cream with the spatula. On-screen text: 'It's not the cream. It's the layering.'",
-      "intent_url": "https://x.com/intent/post?text=%22My%20cream%20stopped%20working.%22%0A%0AIt%20probably%20didn%27t.%20Dry%20winter%20air%20and%20furnace%20heat%20pull%20water%20out%20of%20skin%20faster.%0A%0ATry%20Booster%2C%20Serum%2C%20Booster%2C%20then%20cream%2C%20and%20let%20each%20layer%20absorb%20first.%0A%0AI%20use%20my%20RIMAN%20Incellderm%20cream%20for%20that%20last%20step."
-    },
-    {
-      "topic": "GLP-1 after 60: lift, don't just shrink",
+      "topic": "GLP-1, no hype: what women our age actually need to hear",
       "keywords": [
         "GLP-1",
-        "strength training",
-        "over 60"
+        "no hype",
+        "women 70+"
       ],
-      "text": "The scale can't tell you if you're losing fat or muscle.\n\nA new Nature Medicine trial put adults 50–70 on tirzepatide for 40 weeks. Half also did strength training 3x a week, and the lifters kept more muscle.\n\nOn a GLP-1 past 60? Ask about protein and lifting, not just the dose.",
-      "video_tip": "12 seconds: step on a bathroom scale, then cut to you doing a few slow chair squats or lifting a light dumbbell.",
-      "intent_url": "https://x.com/intent/post?text=The%20scale%20can%27t%20tell%20you%20if%20you%27re%20losing%20fat%20or%20muscle.%0A%0AA%20new%20Nature%20Medicine%20trial%20put%20adults%2050%E2%80%9370%20on%20tirzepatide%20for%2040%20weeks.%20Half%20also%20did%20strength%20training%203x%20a%20week%2C%20and%20the%20lifters%20kept%20more%20muscle.%0A%0AOn%20a%20GLP-1%20past%2060%3F%20Ask%20about%20protein%20and%20lifting%2C%20not%20just%20the%20dose."
+      "text": "A doctor on a big podcast just said GLP-1 drugs should be \"put in the water.\"\n\nNo thanks.\n\nWomen in their 70s don't need hype. We need what's safe for our own bodies.\n\nMy rule: anything for weight or metabolism, I run past my doctor first.\n\nWhat's your rule?",
+      "picture_tip": "Simple photo: your morning glass on the kitchen counter by a window, with a handwritten sticky note that says 'Ask your doctor first.'",
+      "video_tip": "10 to 15 seconds, talking to camera in natural light: say the rule in your own words. No product claims on screen.",
+      "intent_url": "https://x.com/intent/post?text=A%20doctor%20on%20a%20big%20podcast%20just%20said%20GLP-1%20drugs%20should%20be%20%22put%20in%20the%20water.%22%0A%0ANo%20thanks.%0A%0AWomen%20in%20their%2070s%20don%27t%20need%20hype.%20We%20need%20what%27s%20safe%20for%20our%20own%20bodies.%0A%0AMy%20rule%3A%20anything%20for%20weight%20or%20metabolism%2C%20I%20run%20past%20my%20doctor%20first.%0A%0AWhat%27s%20your%20rule%3F"
     },
     {
-      "topic": "Viral liver lists aren't written for cirrhosis",
+      "topic": "Losing weight after 60? Protect your muscle",
       "keywords": [
-        "liver health",
-        "cirrhosis",
-        "supplements"
+        "GLP-1",
+        "weight after 60",
+        "muscle"
       ],
-      "text": "Those viral \"8 rules to protect your liver\" lists are written for fatty liver.\n\nIf you're living with cirrhosis, some of that advice doesn't fit, and some \"natural\" supplements can do real harm.\n\nBefore adding anything new, run it past your liver specialist first.",
-      "video_tip": "10 seconds: hold up a supplement bottle, shake your head, then hold up a notepad that says \"ask my specialist\".",
-      "intent_url": "https://x.com/intent/post?text=Those%20viral%20%228%20rules%20to%20protect%20your%20liver%22%20lists%20are%20written%20for%20fatty%20liver.%0A%0AIf%20you%27re%20living%20with%20cirrhosis%2C%20some%20of%20that%20advice%20doesn%27t%20fit%2C%20and%20some%20%22natural%22%20supplements%20can%20do%20real%20harm.%0A%0ABefore%20adding%20anything%20new%2C%20run%20it%20past%20your%20liver%20specialist%20first."
+      "text": "Losing weight after 60? Ask what you're losing.\n\nOn GLP-1 drugs, a good share of the weight lost can be muscle, and stopping often brings much of the weight back.\n\nMuscle is what keeps us steady on our feet.\n\nProtein at every meal. Light weights. A daily walk.\n\nSave this.",
+      "picture_tip": "Light hand weights and walking shoes by the door, with a Sunshine Coast window view if you have it.",
+      "video_tip": "About 12 seconds: lace up shoes, step outside, a short clip of the walk. On-screen text: 'Protein. Light weights. Daily walk.'",
+      "intent_url": "https://x.com/intent/post?text=Losing%20weight%20after%2060%3F%20Ask%20what%20you%27re%20losing.%0A%0AOn%20GLP-1%20drugs%2C%20a%20good%20share%20of%20the%20weight%20lost%20can%20be%20muscle%2C%20and%20stopping%20often%20brings%20much%20of%20the%20weight%20back.%0A%0AMuscle%20is%20what%20keeps%20us%20steady%20on%20our%20feet.%0A%0AProtein%20at%20every%20meal.%20Light%20weights.%20A%20daily%20walk.%0A%0ASave%20this."
     }
   ],
   "trend_keywords": {
@@ -164,62 +146,28 @@
   "trend_radar": {
     "ideas": [
       {
-        "topic": "Not gatekeeping: Boo-Se-Boo + cream after 40",
-        "keywords": [
-          "winter dryness",
-          "three-step routine",
-          "over 40"
-        ],
-        "text": "Not gatekeeping this one, ladies over 40:\n\nDry winter skin doesn't need a 10-step routine.\n\n1. Spray the Booster, let it dry\n2. Massage in the Serum, let it dry\n3. Spray the Booster again\n4. Massage in the Cream to seal it\n\nSave this for tonight. Which step is new for you?",
-        "picture_tip": "Flat lay in order: Dermatology Booster, Dermatology Serum, and Dermatology Cream, with a folded face cloth and a small bowl of water in the frame (to show you cleanse, then dry, before layering). Handwritten notes for Booster, Serum, Booster, Cream.",
-        "video_tip": "About 20 seconds, vertical, bathroom window light. On-screen steps: (1) spray the Booster and pause so it can absorb, (2) massage the Serum in and pause, (3) spray the Booster again, (4) scoop Dermatology Cream with the spatula and massage it in. End on the products lined up. Wait for each layer to absorb before the next.",
-        "intent_url": "https://x.com/intent/post?text=Not%20gatekeeping%20this%20one%2C%20ladies%20over%2040%3A%0A%0ADry%20winter%20skin%20doesn%27t%20need%20a%2010-step%20routine.%0A%0A1.%20Spray%20the%20Booster%2C%20let%20it%20dry%0A2.%20Massage%20in%20the%20Serum%2C%20let%20it%20dry%0A3.%20Spray%20the%20Booster%20again%0A4.%20Massage%20in%20the%20Cream%20to%20seal%20it%0A%0ASave%20this%20for%20tonight.%20Which%20step%20is%20new%20for%20you%3F"
-      },
-      {
-        "topic": "Winter body starter pack after 40 (Botalab Suamel)",
-        "keywords": [
-          "winter dryness",
-          "skin barrier",
-          "over 40"
-        ],
-        "text": "Winter body starter pack after 40:\n\n- Tight skin after a shower\n- Dry patches on arms and legs\n- Hands looking older than your face\n\nWhat helped me: a gentle body wash, then a rich cream fresh out of the shower.\n\nI use my Botalab Suamel wash and cream for that.\n\nWhich one is you?",
-        "picture_tip": "Your Botalab Suamel Nourishing Body Wash and Body Cream on the edge of the tub, with a folded towel and a cozy sweater sleeve in frame (simple 1:1 or 16:9 photo).",
-        "video_tip": "About 12 seconds: a quick shot of winter weather or the bathroom after a shower, then pump the Suamel Body Wash, then (after drying off) massage the Suamel Body Cream from the neck down in circles until it absorbs. On-screen text: 'Winter body starter pack 40+'. Follow the official body-cream direction: apply fresh out of the shower.",
-        "intent_url": "https://x.com/intent/post?text=Winter%20body%20starter%20pack%20after%2040%3A%0A%0A-%20Tight%20skin%20after%20a%20shower%0A-%20Dry%20patches%20on%20arms%20and%20legs%0A-%20Hands%20looking%20older%20than%20your%20face%0A%0AWhat%20helped%20me%3A%20a%20gentle%20body%20wash%2C%20then%20a%20rich%20cream%20fresh%20out%20of%20the%20shower.%0A%0AI%20use%20my%20Botalab%20Suamel%20wash%20and%20cream%20for%20that.%0A%0AWhich%20one%20is%20you%3F"
-      },
-      {
-        "topic": "Your cream didn't stop working",
-        "keywords": [
-          "winter dryness",
-          "menopause skin",
-          "skin barrier"
-        ],
-        "text": "\"My cream stopped working.\"\n\nIt probably didn't. Dry winter air and furnace heat pull water out of skin faster.\n\nTry Booster, Serum, Booster, then cream, and let each layer absorb first.\n\nI use my RIMAN Incellderm cream for that last step.",
-        "picture_tip": "Close-up of your open Dermatology Cream with the spatula in the jar, Booster and Serum beside it, and a folded face cloth nearby, in morning light. No leftover rinse water on the counter.",
-        "video_tip": "About 12 seconds: spray the Booster and wait, massage in the Serum and wait, spray the Booster again, then massage in the Cream with the spatula. On-screen text: 'It's not the cream. It's the layering.'",
-        "intent_url": "https://x.com/intent/post?text=%22My%20cream%20stopped%20working.%22%0A%0AIt%20probably%20didn%27t.%20Dry%20winter%20air%20and%20furnace%20heat%20pull%20water%20out%20of%20skin%20faster.%0A%0ATry%20Booster%2C%20Serum%2C%20Booster%2C%20then%20cream%2C%20and%20let%20each%20layer%20absorb%20first.%0A%0AI%20use%20my%20RIMAN%20Incellderm%20cream%20for%20that%20last%20step."
-      },
-      {
-        "topic": "GLP-1 after 60: lift, don't just shrink",
+        "topic": "GLP-1, no hype: what women our age actually need to hear",
         "keywords": [
           "GLP-1",
-          "strength training",
-          "over 60"
+          "no hype",
+          "women 70+"
         ],
-        "text": "The scale can't tell you if you're losing fat or muscle.\n\nA new Nature Medicine trial put adults 50–70 on tirzepatide for 40 weeks. Half also did strength training 3x a week, and the lifters kept more muscle.\n\nOn a GLP-1 past 60? Ask about protein and lifting, not just the dose.",
-        "video_tip": "12 seconds: step on a bathroom scale, then cut to you doing a few slow chair squats or lifting a light dumbbell.",
-        "intent_url": "https://x.com/intent/post?text=The%20scale%20can%27t%20tell%20you%20if%20you%27re%20losing%20fat%20or%20muscle.%0A%0AA%20new%20Nature%20Medicine%20trial%20put%20adults%2050%E2%80%9370%20on%20tirzepatide%20for%2040%20weeks.%20Half%20also%20did%20strength%20training%203x%20a%20week%2C%20and%20the%20lifters%20kept%20more%20muscle.%0A%0AOn%20a%20GLP-1%20past%2060%3F%20Ask%20about%20protein%20and%20lifting%2C%20not%20just%20the%20dose."
+        "text": "A doctor on a big podcast just said GLP-1 drugs should be \"put in the water.\"\n\nNo thanks.\n\nWomen in their 70s don't need hype. We need what's safe for our own bodies.\n\nMy rule: anything for weight or metabolism, I run past my doctor first.\n\nWhat's your rule?",
+        "picture_tip": "Simple photo: your morning glass on the kitchen counter by a window, with a handwritten sticky note that says 'Ask your doctor first.'",
+        "video_tip": "10 to 15 seconds, talking to camera in natural light: say the rule in your own words. No product claims on screen.",
+        "intent_url": "https://x.com/intent/post?text=A%20doctor%20on%20a%20big%20podcast%20just%20said%20GLP-1%20drugs%20should%20be%20%22put%20in%20the%20water.%22%0A%0ANo%20thanks.%0A%0AWomen%20in%20their%2070s%20don%27t%20need%20hype.%20We%20need%20what%27s%20safe%20for%20our%20own%20bodies.%0A%0AMy%20rule%3A%20anything%20for%20weight%20or%20metabolism%2C%20I%20run%20past%20my%20doctor%20first.%0A%0AWhat%27s%20your%20rule%3F"
       },
       {
-        "topic": "Viral liver lists aren't written for cirrhosis",
+        "topic": "Losing weight after 60? Protect your muscle",
         "keywords": [
-          "liver health",
-          "cirrhosis",
-          "supplements"
+          "GLP-1",
+          "weight after 60",
+          "muscle"
         ],
-        "text": "Those viral \"8 rules to protect your liver\" lists are written for fatty liver.\n\nIf you're living with cirrhosis, some of that advice doesn't fit, and some \"natural\" supplements can do real harm.\n\nBefore adding anything new, run it past your liver specialist first.",
-        "video_tip": "10 seconds: hold up a supplement bottle, shake your head, then hold up a notepad that says \"ask my specialist\".",
-        "intent_url": "https://x.com/intent/post?text=Those%20viral%20%228%20rules%20to%20protect%20your%20liver%22%20lists%20are%20written%20for%20fatty%20liver.%0A%0AIf%20you%27re%20living%20with%20cirrhosis%2C%20some%20of%20that%20advice%20doesn%27t%20fit%2C%20and%20some%20%22natural%22%20supplements%20can%20do%20real%20harm.%0A%0ABefore%20adding%20anything%20new%2C%20run%20it%20past%20your%20liver%20specialist%20first."
+        "text": "Losing weight after 60? Ask what you're losing.\n\nOn GLP-1 drugs, a good share of the weight lost can be muscle, and stopping often brings much of the weight back.\n\nMuscle is what keeps us steady on our feet.\n\nProtein at every meal. Light weights. A daily walk.\n\nSave this.",
+        "picture_tip": "Light hand weights and walking shoes by the door, with a Sunshine Coast window view if you have it.",
+        "video_tip": "About 12 seconds: lace up shoes, step outside, a short clip of the walk. On-screen text: 'Protein. Light weights. Daily walk.'",
+        "intent_url": "https://x.com/intent/post?text=Losing%20weight%20after%2060%3F%20Ask%20what%20you%27re%20losing.%0A%0AOn%20GLP-1%20drugs%2C%20a%20good%20share%20of%20the%20weight%20lost%20can%20be%20muscle%2C%20and%20stopping%20often%20brings%20much%20of%20the%20weight%20back.%0A%0AMuscle%20is%20what%20keeps%20us%20steady%20on%20our%20feet.%0A%0AProtein%20at%20every%20meal.%20Light%20weights.%20A%20daily%20walk.%0A%0ASave%20this."
       }
     ]
   },
@@ -242,15 +190,15 @@
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 93,
-      "total_views": 93,
+      "views": 97,
+      "total_views": 119,
       "hit": false
     },
     {
       "handle": "cerave",
       "name": "CeraVe",
-      "views": 528,
-      "total_views": 528,
+      "views": 1342,
+      "total_views": 1908,
       "hit": false
     },
     {
@@ -292,16 +240,16 @@
   "you_rank": null,
   "trend_input_only_posts": [],
   "leaderboards": {
-    "as_of": "2026-11-12",
+    "as_of": "2026-11-13",
     "tracking_start": "2026-10-27",
     "days_included": [
-      "2026-11-06",
       "2026-11-07",
       "2026-11-08",
       "2026-11-09",
       "2026-11-10",
       "2026-11-11",
-      "2026-11-12"
+      "2026-11-12",
+      "2026-11-13"
     ],
     "month_days_included": [
       "2026-11-01",
@@ -315,13 +263,14 @@
       "2026-11-09",
       "2026-11-10",
       "2026-11-11",
-      "2026-11-12"
+      "2026-11-12",
+      "2026-11-13"
     ],
     "week": {
-      "label": "Rolling week · Nov 6–Nov 12",
+      "label": "Rolling week · Nov 7–Nov 13",
       "range": [
-        "2026-11-06",
-        "2026-11-12"
+        "2026-11-07",
+        "2026-11-13"
       ],
       "entries": []
     },
@@ -329,7 +278,7 @@
       "label": "November 2026 · from Nov 1",
       "range": [
         "2026-11-01",
-        "2026-11-12"
+        "2026-11-13"
       ],
       "entries": []
     }

@@ -1,0 +1,96 @@
+{
+ "data": [
+  {
+   "author_id": "24968293",
+   "created_at": "2026-11-13T13:12:00.000Z",
+   "edit_history_tweet_ids": [
+    "2121229593302425859"
+   ],
+   "id": "2121229593302425859",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 22,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Fresh Start gift basket: a gentle electric toothbrush, a soft towel, and a shea butter soap bar. Easy to pull together for a friend, sister, or mom. #gifts #holidayseason #giftideas\u00a0https://t.co/7GWrdVwmah https://t.co/kbEyxC5q04",
+   "url": "https://x.com/DiscoverSelf/status/2121229593302425859"
+  },
+  {
+   "author_id": "44693072",
+   "created_at": "2026-11-12T19:23:33.000Z",
+   "edit_history_tweet_ids": [
+    "2120960712050704607"
+   ],
+   "id": "2120960712050704607",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1342,
+    "like_count": 13,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 0
+   },
+   "text": "outlook down for yall too?",
+   "url": "https://x.com/cerave/status/2120960712050704607"
+  },
+  {
+   "author_id": "44693072",
+   "created_at": "2026-11-10T19:46:50.000Z",
+   "edit_history_tweet_ids": [
+    "2120241794008924356"
+   ],
+   "id": "2120241794008924356",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 566,
+    "like_count": 3,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 1
+   },
+   "text": "on a mission to moisturize the driest of places.. can you guess where https://t.co/Ve5eoSY34d",
+   "url": "https://x.com/cerave/status/2120241794008924356"
+  },
+  {
+   "author_id": "24968293",
+   "created_at": "2026-11-07T12:43:00.000Z",
+   "edit_history_tweet_ids": [
+    "2119047967990546770"
+   ],
+   "id": "2119047967990546770",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 97,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "#Winter air makes #menopause #skin feel even drier. A creamy shea butter bar turns a warm-water hand wash into a small ritual she will look forward to.\u00a0#soap #gifts #giftsforher https://t.co/ktZ09wiYDa https://t.co/rOn4aBnz0T",
+   "url": "https://x.com/DiscoverSelf/status/2119047967990546770"
+  }
+ ],
+ "includes": {
+  "users": [
+   {
+    "id": "24968293",
+    "name": "Celebrate Woman",
+    "username": "DiscoverSelf"
+   },
+   {
+    "id": "44693072",
+    "name": "CeraVe",
+    "username": "cerave"
+   }
+  ]
+ },
+ "meta": {
+  "newest_id": "2121229593302425859",
+  "next_token": "b26v89c19zqg8o3juzlzcgaut6w2o1m9q6es72l8srn25",
+  "oldest_id": "2119047967990546770",
+  "result_count": 4
+ }
+}
