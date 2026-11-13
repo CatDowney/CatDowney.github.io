@@ -1,0 +1,5 @@
+{"query":"(from:8 watchlist accounts) -is:retweet -is:reply -is:quote","start_time":"2026-11-06T18:00:00Z","fetched":"2026-11-13T17:51Z","data":[
+{"handle":"DiscoverSelf","id":"2121229593302425859","created_at":"2026-11-13T13:12:00.000Z","impression_count":22,"like_count":0},
+{"handle":"cerave","id":"2120960712050704607","created_at":"2026-11-12T19:23:33.000Z","impression_count":1362,"like_count":13},
+{"handle":"cerave","id":"2120241794008924356","created_at":"2026-11-10T19:46:50.000Z","impression_count":568,"like_count":3},
+{"handle":"DiscoverSelf","id":"2119047967990546770","created_at":"2026-11-07T12:43:00.000Z","impression_count":97,"like_count":1}]}

@@ -2,7 +2,7 @@
   "title": "Cats Health and Beauty · daily X skincare digest - 2026-11-11",
   "date": "2026-11-13",
   "timezone": "America/Vancouver",
-  "updated": "2026-11-13T09:49:12-07:00",
+  "updated": "2026-11-13T10:51:29-07:00",
   "brand_title": "Cats Health and Beauty · X Skincare Board",
   "brand_handle": "@CatsBeauty26",
   "virals_title": "Outsiders · last 48h",
@@ -23,8 +23,8 @@
     },
     {
       "handle": "cerave",
-      "reason": "2 originals in the last 7 days; highest 1,342 views",
-      "max_views": 1342
+      "reason": "2 originals in the last 7 days; highest 1,362 views",
+      "max_views": 1362
     },
     {
       "handle": "LabMuffin",
@@ -58,12 +58,12 @@
   "virals_target": 0,
   "hits_count": 0,
   "outsiders_count": 0,
-  "watch_window": "2026-11-06T17:00Z to 2026-11-13T16:50Z",
+  "watch_window": "2026-11-06T18:00Z to 2026-11-13T17:51Z",
   "watchlist_posts_7d": [
     {
       "handle": "cerave",
       "name": "CeraVe",
-      "views": 1342,
+      "views": 1362,
       "url": "https://x.com/cerave/status/2120960712050704607",
       "posted_at": "2026-11-12T19:23:33.000Z",
       "text": "outlook down for yall too?"
@@ -71,7 +71,7 @@
     {
       "handle": "cerave",
       "name": "CeraVe",
-      "views": 566,
+      "views": 568,
       "url": "https://x.com/cerave/status/2120241794008924356",
       "posted_at": "2026-11-10T19:46:50.000Z",
       "text": "on a mission to moisturize the driest of places.. can you guess where https://t.co/Ve5eoSY34d"
@@ -94,6 +94,42 @@
     }
   ],
   "drafts_today": [
+    {
+      "topic": "The correct order after 40 (Boo-Se-Boo)",
+      "keywords": [
+        "layering order",
+        "over 40",
+        "let it dry"
+      ],
+      "text": "Four bottles on the counter and no idea which goes first?\n\nMy order after 40:\n1. Booster (spray, then wait)\n2. Serum (massage in, let it absorb)\n3. Booster again\n4. Cream to seal\n\nThe secret isn't more product. It's letting each layer dry.\n\nSave this for tonight.",
+      "picture_tip": "Overhead photo of your four real jars in order (Dermatology Booster EX, Serum EX, Booster EX, Dermatology Cream) on a white towel by the bathroom window, numbered 1-4 on sticky notes.",
+      "video_tip": "12-15 s vertical close-up on hands: spray Booster and pause (on-screen 'wait'), massage Serum, pause, spray Booster, scoop Cream with the spatula and massage in. Start on dry skin.",
+      "intent_url": "https://x.com/intent/post?text=Four%20bottles%20on%20the%20counter%20and%20no%20idea%20which%20goes%20first%3F%0A%0AMy%20order%20after%2040%3A%0A1.%20Booster%20%28spray%2C%20then%20wait%29%0A2.%20Serum%20%28massage%20in%2C%20let%20it%20absorb%29%0A3.%20Booster%20again%0A4.%20Cream%20to%20seal%0A%0AThe%20secret%20isn%27t%20more%20product.%20It%27s%20letting%20each%20layer%20dry.%0A%0ASave%20this%20for%20tonight."
+    },
+    {
+      "topic": "Come see me at Sunnycrest this weekend",
+      "keywords": [
+        "winter market",
+        "Sunshine Coast",
+        "come see me"
+      ],
+      "text": "Sunshine Coast friends: I'll be at the Sunnycrest Winter Market this weekend, Nov 14-15.\n\nCome try RIMAN on the back of your hand and bring your winter skin questions.\n\nWhat's the one thing winter does to your skin? Tell me and I'll have an answer ready.",
+      "picture_tip": "Your table set up with the products and your sign, shot from the front at eye level in daylight; you smiling behind it if you like.",
+      "video_tip": "8-10 s: pan across the table, end on you waving. On-screen text: 'Sunnycrest, Nov 14-15. Come say hi.'",
+      "intent_url": "https://x.com/intent/post?text=Sunshine%20Coast%20friends%3A%20I%27ll%20be%20at%20the%20Sunnycrest%20Winter%20Market%20this%20weekend%2C%20Nov%2014-15.%0A%0ACome%20try%20RIMAN%20on%20the%20back%20of%20your%20hand%20and%20bring%20your%20winter%20skin%20questions.%0A%0AWhat%27s%20the%20one%20thing%20winter%20does%20to%20your%20skin%3F%20Tell%20me%20and%20I%27ll%20have%20an%20answer%20ready."
+    },
+    {
+      "topic": "Lip liner trick after 40 (new ICD Butter Lip Liner)",
+      "keywords": [
+        "makeup over 40",
+        "lip liner",
+        "new release"
+      ],
+      "text": "Makeup after 40 tip nobody told me: line your lips from the centre out.\n\nTrace the upper lip from the middle outward, then the lower lip. Fill in lightly. Soften the edge with a fingertip.\n\nColour stays put.\n\nMine is the new RIMAN ICD Butter Lip Liner.",
+      "picture_tip": "Close-up of the Butter Lip Liner (twisted up only a little) next to a Butter Lip Tint on your vanity, soft window light.",
+      "video_tip": "10-12 s mirror shot: trace upper lip centre-out, then lower, fill lightly, fingertip blend, add tint and pat. On-screen text: 'Centre out.'",
+      "intent_url": "https://x.com/intent/post?text=Makeup%20after%2040%20tip%20nobody%20told%20me%3A%20line%20your%20lips%20from%20the%20centre%20out.%0A%0ATrace%20the%20upper%20lip%20from%20the%20middle%20outward%2C%20then%20the%20lower%20lip.%20Fill%20in%20lightly.%20Soften%20the%20edge%20with%20a%20fingertip.%0A%0AColour%20stays%20put.%0A%0AMine%20is%20the%20new%20RIMAN%20ICD%20Butter%20Lip%20Liner."
+    },
     {
       "topic": "GLP-1, no hype: what women our age actually need to hear",
       "keywords": [
@@ -146,6 +182,42 @@
   "trend_radar": {
     "ideas": [
       {
+        "topic": "The correct order after 40 (Boo-Se-Boo)",
+        "keywords": [
+          "layering order",
+          "over 40",
+          "let it dry"
+        ],
+        "text": "Four bottles on the counter and no idea which goes first?\n\nMy order after 40:\n1. Booster (spray, then wait)\n2. Serum (massage in, let it absorb)\n3. Booster again\n4. Cream to seal\n\nThe secret isn't more product. It's letting each layer dry.\n\nSave this for tonight.",
+        "picture_tip": "Overhead photo of your four real jars in order (Dermatology Booster EX, Serum EX, Booster EX, Dermatology Cream) on a white towel by the bathroom window, numbered 1-4 on sticky notes.",
+        "video_tip": "12-15 s vertical close-up on hands: spray Booster and pause (on-screen 'wait'), massage Serum, pause, spray Booster, scoop Cream with the spatula and massage in. Start on dry skin.",
+        "intent_url": "https://x.com/intent/post?text=Four%20bottles%20on%20the%20counter%20and%20no%20idea%20which%20goes%20first%3F%0A%0AMy%20order%20after%2040%3A%0A1.%20Booster%20%28spray%2C%20then%20wait%29%0A2.%20Serum%20%28massage%20in%2C%20let%20it%20absorb%29%0A3.%20Booster%20again%0A4.%20Cream%20to%20seal%0A%0AThe%20secret%20isn%27t%20more%20product.%20It%27s%20letting%20each%20layer%20dry.%0A%0ASave%20this%20for%20tonight."
+      },
+      {
+        "topic": "Come see me at Sunnycrest this weekend",
+        "keywords": [
+          "winter market",
+          "Sunshine Coast",
+          "come see me"
+        ],
+        "text": "Sunshine Coast friends: I'll be at the Sunnycrest Winter Market this weekend, Nov 14-15.\n\nCome try RIMAN on the back of your hand and bring your winter skin questions.\n\nWhat's the one thing winter does to your skin? Tell me and I'll have an answer ready.",
+        "picture_tip": "Your table set up with the products and your sign, shot from the front at eye level in daylight; you smiling behind it if you like.",
+        "video_tip": "8-10 s: pan across the table, end on you waving. On-screen text: 'Sunnycrest, Nov 14-15. Come say hi.'",
+        "intent_url": "https://x.com/intent/post?text=Sunshine%20Coast%20friends%3A%20I%27ll%20be%20at%20the%20Sunnycrest%20Winter%20Market%20this%20weekend%2C%20Nov%2014-15.%0A%0ACome%20try%20RIMAN%20on%20the%20back%20of%20your%20hand%20and%20bring%20your%20winter%20skin%20questions.%0A%0AWhat%27s%20the%20one%20thing%20winter%20does%20to%20your%20skin%3F%20Tell%20me%20and%20I%27ll%20have%20an%20answer%20ready."
+      },
+      {
+        "topic": "Lip liner trick after 40 (new ICD Butter Lip Liner)",
+        "keywords": [
+          "makeup over 40",
+          "lip liner",
+          "new release"
+        ],
+        "text": "Makeup after 40 tip nobody told me: line your lips from the centre out.\n\nTrace the upper lip from the middle outward, then the lower lip. Fill in lightly. Soften the edge with a fingertip.\n\nColour stays put.\n\nMine is the new RIMAN ICD Butter Lip Liner.",
+        "picture_tip": "Close-up of the Butter Lip Liner (twisted up only a little) next to a Butter Lip Tint on your vanity, soft window light.",
+        "video_tip": "10-12 s mirror shot: trace upper lip centre-out, then lower, fill lightly, fingertip blend, add tint and pat. On-screen text: 'Centre out.'",
+        "intent_url": "https://x.com/intent/post?text=Makeup%20after%2040%20tip%20nobody%20told%20me%3A%20line%20your%20lips%20from%20the%20centre%20out.%0A%0ATrace%20the%20upper%20lip%20from%20the%20middle%20outward%2C%20then%20the%20lower%20lip.%20Fill%20in%20lightly.%20Soften%20the%20edge%20with%20a%20fingertip.%0A%0AColour%20stays%20put.%0A%0AMine%20is%20the%20new%20RIMAN%20ICD%20Butter%20Lip%20Liner."
+      },
+      {
         "topic": "GLP-1, no hype: what women our age actually need to hear",
         "keywords": [
           "GLP-1",
@@ -197,8 +269,8 @@
     {
       "handle": "cerave",
       "name": "CeraVe",
-      "views": 1342,
-      "total_views": 1908,
+      "views": 1362,
+      "total_views": 1930,
       "hit": false
     },
     {
