@@ -1,8 +1,8 @@
 {
-  "title": "Cats Health and Beauty · daily X skincare digest - 2026-11-11",
-  "date": "2026-11-13",
+  "title": "Cats Health and Beauty · daily X skincare digest - 2026-11-14",
+  "date": "2026-11-14",
   "timezone": "America/Vancouver",
-  "updated": "2026-11-13T10:51:29-07:00",
+  "updated": "2026-11-14T10:55:44-07:00",
   "brand_title": "Cats Health and Beauty · X Skincare Board",
   "brand_handle": "@CatsBeauty26",
   "virals_title": "Outsiders · last 48h",
@@ -18,13 +18,13 @@
     },
     {
       "handle": "DiscoverSelf",
-      "reason": "2 originals in the last 7 days; highest 97 views",
-      "max_views": 97
+      "reason": "2 originals in the last 7 days; highest 32 views",
+      "max_views": 32
     },
     {
       "handle": "cerave",
-      "reason": "2 originals in the last 7 days; highest 1,362 views",
-      "max_views": 1362
+      "reason": "2 originals in the last 7 days; highest 1,444 views",
+      "max_views": 1444
     },
     {
       "handle": "LabMuffin",
@@ -58,12 +58,12 @@
   "virals_target": 0,
   "hits_count": 0,
   "outsiders_count": 0,
-  "watch_window": "2026-11-06T18:00Z to 2026-11-13T17:51Z",
+  "watch_window": "2026-11-07T18:00Z to 2026-11-14T17:55Z",
   "watchlist_posts_7d": [
     {
       "handle": "cerave",
       "name": "CeraVe",
-      "views": 1362,
+      "views": 1444,
       "url": "https://x.com/cerave/status/2120960712050704607",
       "posted_at": "2026-11-12T19:23:33.000Z",
       "text": "outlook down for yall too?"
@@ -71,7 +71,7 @@
     {
       "handle": "cerave",
       "name": "CeraVe",
-      "views": 568,
+      "views": 598,
       "url": "https://x.com/cerave/status/2120241794008924356",
       "posted_at": "2026-11-10T19:46:50.000Z",
       "text": "on a mission to moisturize the driest of places.. can you guess where https://t.co/Ve5eoSY34d"
@@ -79,80 +79,59 @@
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 97,
-      "url": "https://x.com/DiscoverSelf/status/2119047967990546770",
-      "posted_at": "2026-11-07T12:43:00.000Z",
-      "text": "#Winter air makes #menopause #skin feel even drier. A creamy shea butter bar turns a warm-water hand wash into a small ritual she will look forward to. #soap #gifts #giftsforher https://t.co/ktZ09wiYDa https://t.co/rOn4aBnz0T"
+      "views": 32,
+      "url": "https://x.com/DiscoverSelf/status/2121229593302425859",
+      "posted_at": "2026-11-13T13:12:00.000Z",
+      "text": "Fresh Start gift basket: a gentle electric toothbrush, a soft towel, and a shea butter soap bar. Easy to pull together for a friend, sister, or mom. #gifts #holidayseason #giftideas https://t.co/7GWrdVwmah https://t.co/kbEyxC5q04"
     },
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 22,
-      "url": "https://x.com/DiscoverSelf/status/2121229593302425859",
-      "posted_at": "2026-11-13T13:12:00.000Z",
-      "text": "Fresh Start gift basket: a gentle electric toothbrush, a soft towel, and a shea butter soap bar. Easy to pull together for a friend, sister, or mom. #gifts #holidayseason #giftideas https://t.co/7GWrdVwmah https://t.co/kbEyxC5q04"
+      "views": 11,
+      "url": "https://x.com/DiscoverSelf/status/2121591981134479585",
+      "posted_at": "2026-11-14T13:12:00.000Z",
+      "text": "Balsam & Fir. Spiced Orange & Cedar. Sugared Plum & Fig. Joyeux Noel. Which holiday scent is yours? #gifts #giftideas #giftsforher https://t.co/ktZ09wiYDa https://t.co/KUIBBWsdoI"
     }
   ],
   "drafts_today": [
     {
-      "topic": "The correct order after 40 (Boo-Se-Boo)",
+      "topic": "I'm at Sunnycrest today and tomorrow",
       "keywords": [
-        "layering order",
+        "Sunnycrest",
+        "free facial",
+        "prize draw"
+      ],
+      "text": "Sunshine Coast: I'm at Sunnycrest Mall in Gibsons today and tomorrow, 11 to 4.\n\nFree self-applied facial, no purchase necessary.\nGuess how many balls are in the tub. Closest guess wins at the end of each day.\n\nCome say hi and tell me what winter is doing to your skin.",
+      "picture_tip": "One straight-on phone photo of your table right now: the ball tub front and centre with a draw slip beside it, your Dermatology Booster EX, Serum EX and Dermatology Cream behind, Sunnycrest Radiance poster in the corner. Mall daylight, no flash.",
+      "video_tip": "8-10 s vertical clip: start tight on the ball tub, give it a little shake, pull back to the whole table and end on you waving. On-screen text: 'Sunnycrest Mall, Gibsons. Sat + Sun 11-4.'",
+      "chars": 268,
+      "intent_url": "https://x.com/intent/post?text=Sunshine%20Coast%3A%20I%27m%20at%20Sunnycrest%20Mall%20in%20Gibsons%20today%20and%20tomorrow%2C%2011%20to%204.%0A%0AFree%20self-applied%20facial%2C%20no%20purchase%20necessary.%0AGuess%20how%20many%20balls%20are%20in%20the%20tub.%20Closest%20guess%20wins%20at%20the%20end%20of%20each%20day.%0A%0ACome%20say%20hi%20and%20tell%20me%20what%20winter%20is%20doing%20to%20your%20skin."
+    },
+    {
+      "topic": "The 3 spots winter hits first (Multi Stick Balm)",
+      "keywords": [
+        "winter dryness",
         "over 40",
-        "let it dry"
+        "dry lips"
       ],
-      "text": "Four bottles on the counter and no idea which goes first?\n\nMy order after 40:\n1. Booster (spray, then wait)\n2. Serum (massage in, let it absorb)\n3. Booster again\n4. Cream to seal\n\nThe secret isn't more product. It's letting each layer dry.\n\nSave this for tonight.",
-      "picture_tip": "Overhead photo of your four real jars in order (Dermatology Booster EX, Serum EX, Booster EX, Dermatology Cream) on a white towel by the bathroom window, numbered 1-4 on sticky notes.",
-      "video_tip": "12-15 s vertical close-up on hands: spray Booster and pause (on-screen 'wait'), massage Serum, pause, spray Booster, scoop Cream with the spatula and massage in. Start on dry skin.",
-      "intent_url": "https://x.com/intent/post?text=Four%20bottles%20on%20the%20counter%20and%20no%20idea%20which%20goes%20first%3F%0A%0AMy%20order%20after%2040%3A%0A1.%20Booster%20%28spray%2C%20then%20wait%29%0A2.%20Serum%20%28massage%20in%2C%20let%20it%20absorb%29%0A3.%20Booster%20again%0A4.%20Cream%20to%20seal%0A%0AThe%20secret%20isn%27t%20more%20product.%20It%27s%20letting%20each%20layer%20dry.%0A%0ASave%20this%20for%20tonight."
+      "text": "Winter skin after 40 doesn't dry out evenly.\n\nFor me it's the same 3 spots:\n1. Around the nose\n2. Lips\n3. The cheek that faces the car heater\n\nI keep a RIMAN ICD Multi Stick Balm in my coat pocket for exactly those.\n\nWhere does winter hit you first?",
+      "picture_tip": "Close-up of the Multi Stick Balm half out of your coat pocket (cozy knit or rain jacket), on the car seat or by the front door. Natural window light.",
+      "video_tip": "6-8 s: hand pulls the balm from the coat pocket, uncaps it, glides it over the back of the hand (or a cheekbone). On-screen text: '3 spots winter hits first'. No voice needed.",
+      "chars": 249,
+      "intent_url": "https://x.com/intent/post?text=Winter%20skin%20after%2040%20doesn%27t%20dry%20out%20evenly.%0A%0AFor%20me%20it%27s%20the%20same%203%20spots%3A%0A1.%20Around%20the%20nose%0A2.%20Lips%0A3.%20The%20cheek%20that%20faces%20the%20car%20heater%0A%0AI%20keep%20a%20RIMAN%20ICD%20Multi%20Stick%20Balm%20in%20my%20coat%20pocket%20for%20exactly%20those.%0A%0AWhere%20does%20winter%20hit%20you%20first%3F"
     },
     {
-      "topic": "Come see me at Sunnycrest this weekend",
+      "topic": "The only skincare tool I reach for (Radiansome 100 Concentrate)",
       "keywords": [
-        "winter market",
-        "Sunshine Coast",
-        "come see me"
+        "skincare tools",
+        "eyes and neck",
+        "Radiansome"
       ],
-      "text": "Sunshine Coast friends: I'll be at the Sunnycrest Winter Market this weekend, Nov 14-15.\n\nCome try RIMAN on the back of your hand and bring your winter skin questions.\n\nWhat's the one thing winter does to your skin? Tell me and I'll have an answer ready.",
-      "picture_tip": "Your table set up with the products and your sign, shot from the front at eye level in daylight; you smiling behind it if you like.",
-      "video_tip": "8-10 s: pan across the table, end on you waving. On-screen text: 'Sunnycrest, Nov 14-15. Come say hi.'",
-      "intent_url": "https://x.com/intent/post?text=Sunshine%20Coast%20friends%3A%20I%27ll%20be%20at%20the%20Sunnycrest%20Winter%20Market%20this%20weekend%2C%20Nov%2014-15.%0A%0ACome%20try%20RIMAN%20on%20the%20back%20of%20your%20hand%20and%20bring%20your%20winter%20skin%20questions.%0A%0AWhat%27s%20the%20one%20thing%20winter%20does%20to%20your%20skin%3F%20Tell%20me%20and%20I%27ll%20have%20an%20answer%20ready."
-    },
-    {
-      "topic": "Lip liner trick after 40 (new ICD Butter Lip Liner)",
-      "keywords": [
-        "makeup over 40",
-        "lip liner",
-        "new release"
-      ],
-      "text": "Makeup after 40 tip nobody told me: line your lips from the centre out.\n\nTrace the upper lip from the middle outward, then the lower lip. Fill in lightly. Soften the edge with a fingertip.\n\nColour stays put.\n\nMine is the new RIMAN ICD Butter Lip Liner.",
-      "picture_tip": "Close-up of the Butter Lip Liner (twisted up only a little) next to a Butter Lip Tint on your vanity, soft window light.",
-      "video_tip": "10-12 s mirror shot: trace upper lip centre-out, then lower, fill lightly, fingertip blend, add tint and pat. On-screen text: 'Centre out.'",
-      "intent_url": "https://x.com/intent/post?text=Makeup%20after%2040%20tip%20nobody%20told%20me%3A%20line%20your%20lips%20from%20the%20centre%20out.%0A%0ATrace%20the%20upper%20lip%20from%20the%20middle%20outward%2C%20then%20the%20lower%20lip.%20Fill%20in%20lightly.%20Soften%20the%20edge%20with%20a%20fingertip.%0A%0AColour%20stays%20put.%0A%0AMine%20is%20the%20new%20RIMAN%20ICD%20Butter%20Lip%20Liner."
-    },
-    {
-      "topic": "GLP-1, no hype: what women our age actually need to hear",
-      "keywords": [
-        "GLP-1",
-        "no hype",
-        "women 70+"
-      ],
-      "text": "A doctor on a big podcast just said GLP-1 drugs should be \"put in the water.\"\n\nNo thanks.\n\nWomen in their 70s don't need hype. We need what's safe for our own bodies.\n\nMy rule: anything for weight or metabolism, I run past my doctor first.\n\nWhat's your rule?",
-      "picture_tip": "Simple photo: your morning glass on the kitchen counter by a window, with a handwritten sticky note that says 'Ask your doctor first.'",
-      "video_tip": "10 to 15 seconds, talking to camera in natural light: say the rule in your own words. No product claims on screen.",
-      "intent_url": "https://x.com/intent/post?text=A%20doctor%20on%20a%20big%20podcast%20just%20said%20GLP-1%20drugs%20should%20be%20%22put%20in%20the%20water.%22%0A%0ANo%20thanks.%0A%0AWomen%20in%20their%2070s%20don%27t%20need%20hype.%20We%20need%20what%27s%20safe%20for%20our%20own%20bodies.%0A%0AMy%20rule%3A%20anything%20for%20weight%20or%20metabolism%2C%20I%20run%20past%20my%20doctor%20first.%0A%0AWhat%27s%20your%20rule%3F"
-    },
-    {
-      "topic": "Losing weight after 60? Protect your muscle",
-      "keywords": [
-        "GLP-1",
-        "weight after 60",
-        "muscle"
-      ],
-      "text": "Losing weight after 60? Ask what you're losing.\n\nOn GLP-1 drugs, a good share of the weight lost can be muscle, and stopping often brings much of the weight back.\n\nMuscle is what keeps us steady on our feet.\n\nProtein at every meal. Light weights. A daily walk.\n\nSave this.",
-      "picture_tip": "Light hand weights and walking shoes by the door, with a Sunshine Coast window view if you have it.",
-      "video_tip": "About 12 seconds: lace up shoes, step outside, a short clip of the walk. On-screen text: 'Protein. Light weights. Daily walk.'",
-      "intent_url": "https://x.com/intent/post?text=Losing%20weight%20after%2060%3F%20Ask%20what%20you%27re%20losing.%0A%0AOn%20GLP-1%20drugs%2C%20a%20good%20share%20of%20the%20weight%20lost%20can%20be%20muscle%2C%20and%20stopping%20often%20brings%20much%20of%20the%20weight%20back.%0A%0AMuscle%20is%20what%20keeps%20us%20steady%20on%20our%20feet.%0A%0AProtein%20at%20every%20meal.%20Light%20weights.%20A%20daily%20walk.%0A%0ASave%20this."
+      "text": "Everyone's buying skincare tools this season.\n\nThe only one I reach for comes on the bottle: the metal applicator on RIMAN's Radiansome 100 Concentrate.\n\nA small amount, light strokes outward and upward:\n- around the eyes\n- along the neck\n\nThen cream to seal. That's it.",
+      "picture_tip": "The Radiansome 100 Concentrate standing on a bathroom shelf with the metal applicator tip toward the camera, the Toner, Essence and Cream softly blurred behind. Morning window light.",
+      "video_tip": "8-12 s vertical: dispense a little, glide the applicator outward under the eye, then upward along the neck, then a quick shot of the Radiansome Cream. On-screen text: 'outward + upward'. Only post if you have the Concentrate in your kit.",
+      "chars": 270,
+      "intent_url": "https://x.com/intent/post?text=Everyone%27s%20buying%20skincare%20tools%20this%20season.%0A%0AThe%20only%20one%20I%20reach%20for%20comes%20on%20the%20bottle%3A%20the%20metal%20applicator%20on%20RIMAN%27s%20Radiansome%20100%20Concentrate.%0A%0AA%20small%20amount%2C%20light%20strokes%20outward%20and%20upward%3A%0A-%20around%20the%20eyes%0A-%20along%20the%20neck%0A%0AThen%20cream%20to%20seal.%20That%27s%20it."
     }
   ],
   "trend_keywords": {
@@ -182,64 +161,43 @@
   "trend_radar": {
     "ideas": [
       {
-        "topic": "The correct order after 40 (Boo-Se-Boo)",
+        "topic": "I'm at Sunnycrest today and tomorrow",
         "keywords": [
-          "layering order",
+          "Sunnycrest",
+          "free facial",
+          "prize draw"
+        ],
+        "text": "Sunshine Coast: I'm at Sunnycrest Mall in Gibsons today and tomorrow, 11 to 4.\n\nFree self-applied facial, no purchase necessary.\nGuess how many balls are in the tub. Closest guess wins at the end of each day.\n\nCome say hi and tell me what winter is doing to your skin.",
+        "picture_tip": "One straight-on phone photo of your table right now: the ball tub front and centre with a draw slip beside it, your Dermatology Booster EX, Serum EX and Dermatology Cream behind, Sunnycrest Radiance poster in the corner. Mall daylight, no flash.",
+        "video_tip": "8-10 s vertical clip: start tight on the ball tub, give it a little shake, pull back to the whole table and end on you waving. On-screen text: 'Sunnycrest Mall, Gibsons. Sat + Sun 11-4.'",
+        "chars": 268,
+        "intent_url": "https://x.com/intent/post?text=Sunshine%20Coast%3A%20I%27m%20at%20Sunnycrest%20Mall%20in%20Gibsons%20today%20and%20tomorrow%2C%2011%20to%204.%0A%0AFree%20self-applied%20facial%2C%20no%20purchase%20necessary.%0AGuess%20how%20many%20balls%20are%20in%20the%20tub.%20Closest%20guess%20wins%20at%20the%20end%20of%20each%20day.%0A%0ACome%20say%20hi%20and%20tell%20me%20what%20winter%20is%20doing%20to%20your%20skin."
+      },
+      {
+        "topic": "The 3 spots winter hits first (Multi Stick Balm)",
+        "keywords": [
+          "winter dryness",
           "over 40",
-          "let it dry"
+          "dry lips"
         ],
-        "text": "Four bottles on the counter and no idea which goes first?\n\nMy order after 40:\n1. Booster (spray, then wait)\n2. Serum (massage in, let it absorb)\n3. Booster again\n4. Cream to seal\n\nThe secret isn't more product. It's letting each layer dry.\n\nSave this for tonight.",
-        "picture_tip": "Overhead photo of your four real jars in order (Dermatology Booster EX, Serum EX, Booster EX, Dermatology Cream) on a white towel by the bathroom window, numbered 1-4 on sticky notes.",
-        "video_tip": "12-15 s vertical close-up on hands: spray Booster and pause (on-screen 'wait'), massage Serum, pause, spray Booster, scoop Cream with the spatula and massage in. Start on dry skin.",
-        "intent_url": "https://x.com/intent/post?text=Four%20bottles%20on%20the%20counter%20and%20no%20idea%20which%20goes%20first%3F%0A%0AMy%20order%20after%2040%3A%0A1.%20Booster%20%28spray%2C%20then%20wait%29%0A2.%20Serum%20%28massage%20in%2C%20let%20it%20absorb%29%0A3.%20Booster%20again%0A4.%20Cream%20to%20seal%0A%0AThe%20secret%20isn%27t%20more%20product.%20It%27s%20letting%20each%20layer%20dry.%0A%0ASave%20this%20for%20tonight."
+        "text": "Winter skin after 40 doesn't dry out evenly.\n\nFor me it's the same 3 spots:\n1. Around the nose\n2. Lips\n3. The cheek that faces the car heater\n\nI keep a RIMAN ICD Multi Stick Balm in my coat pocket for exactly those.\n\nWhere does winter hit you first?",
+        "picture_tip": "Close-up of the Multi Stick Balm half out of your coat pocket (cozy knit or rain jacket), on the car seat or by the front door. Natural window light.",
+        "video_tip": "6-8 s: hand pulls the balm from the coat pocket, uncaps it, glides it over the back of the hand (or a cheekbone). On-screen text: '3 spots winter hits first'. No voice needed.",
+        "chars": 249,
+        "intent_url": "https://x.com/intent/post?text=Winter%20skin%20after%2040%20doesn%27t%20dry%20out%20evenly.%0A%0AFor%20me%20it%27s%20the%20same%203%20spots%3A%0A1.%20Around%20the%20nose%0A2.%20Lips%0A3.%20The%20cheek%20that%20faces%20the%20car%20heater%0A%0AI%20keep%20a%20RIMAN%20ICD%20Multi%20Stick%20Balm%20in%20my%20coat%20pocket%20for%20exactly%20those.%0A%0AWhere%20does%20winter%20hit%20you%20first%3F"
       },
       {
-        "topic": "Come see me at Sunnycrest this weekend",
+        "topic": "The only skincare tool I reach for (Radiansome 100 Concentrate)",
         "keywords": [
-          "winter market",
-          "Sunshine Coast",
-          "come see me"
+          "skincare tools",
+          "eyes and neck",
+          "Radiansome"
         ],
-        "text": "Sunshine Coast friends: I'll be at the Sunnycrest Winter Market this weekend, Nov 14-15.\n\nCome try RIMAN on the back of your hand and bring your winter skin questions.\n\nWhat's the one thing winter does to your skin? Tell me and I'll have an answer ready.",
-        "picture_tip": "Your table set up with the products and your sign, shot from the front at eye level in daylight; you smiling behind it if you like.",
-        "video_tip": "8-10 s: pan across the table, end on you waving. On-screen text: 'Sunnycrest, Nov 14-15. Come say hi.'",
-        "intent_url": "https://x.com/intent/post?text=Sunshine%20Coast%20friends%3A%20I%27ll%20be%20at%20the%20Sunnycrest%20Winter%20Market%20this%20weekend%2C%20Nov%2014-15.%0A%0ACome%20try%20RIMAN%20on%20the%20back%20of%20your%20hand%20and%20bring%20your%20winter%20skin%20questions.%0A%0AWhat%27s%20the%20one%20thing%20winter%20does%20to%20your%20skin%3F%20Tell%20me%20and%20I%27ll%20have%20an%20answer%20ready."
-      },
-      {
-        "topic": "Lip liner trick after 40 (new ICD Butter Lip Liner)",
-        "keywords": [
-          "makeup over 40",
-          "lip liner",
-          "new release"
-        ],
-        "text": "Makeup after 40 tip nobody told me: line your lips from the centre out.\n\nTrace the upper lip from the middle outward, then the lower lip. Fill in lightly. Soften the edge with a fingertip.\n\nColour stays put.\n\nMine is the new RIMAN ICD Butter Lip Liner.",
-        "picture_tip": "Close-up of the Butter Lip Liner (twisted up only a little) next to a Butter Lip Tint on your vanity, soft window light.",
-        "video_tip": "10-12 s mirror shot: trace upper lip centre-out, then lower, fill lightly, fingertip blend, add tint and pat. On-screen text: 'Centre out.'",
-        "intent_url": "https://x.com/intent/post?text=Makeup%20after%2040%20tip%20nobody%20told%20me%3A%20line%20your%20lips%20from%20the%20centre%20out.%0A%0ATrace%20the%20upper%20lip%20from%20the%20middle%20outward%2C%20then%20the%20lower%20lip.%20Fill%20in%20lightly.%20Soften%20the%20edge%20with%20a%20fingertip.%0A%0AColour%20stays%20put.%0A%0AMine%20is%20the%20new%20RIMAN%20ICD%20Butter%20Lip%20Liner."
-      },
-      {
-        "topic": "GLP-1, no hype: what women our age actually need to hear",
-        "keywords": [
-          "GLP-1",
-          "no hype",
-          "women 70+"
-        ],
-        "text": "A doctor on a big podcast just said GLP-1 drugs should be \"put in the water.\"\n\nNo thanks.\n\nWomen in their 70s don't need hype. We need what's safe for our own bodies.\n\nMy rule: anything for weight or metabolism, I run past my doctor first.\n\nWhat's your rule?",
-        "picture_tip": "Simple photo: your morning glass on the kitchen counter by a window, with a handwritten sticky note that says 'Ask your doctor first.'",
-        "video_tip": "10 to 15 seconds, talking to camera in natural light: say the rule in your own words. No product claims on screen.",
-        "intent_url": "https://x.com/intent/post?text=A%20doctor%20on%20a%20big%20podcast%20just%20said%20GLP-1%20drugs%20should%20be%20%22put%20in%20the%20water.%22%0A%0ANo%20thanks.%0A%0AWomen%20in%20their%2070s%20don%27t%20need%20hype.%20We%20need%20what%27s%20safe%20for%20our%20own%20bodies.%0A%0AMy%20rule%3A%20anything%20for%20weight%20or%20metabolism%2C%20I%20run%20past%20my%20doctor%20first.%0A%0AWhat%27s%20your%20rule%3F"
-      },
-      {
-        "topic": "Losing weight after 60? Protect your muscle",
-        "keywords": [
-          "GLP-1",
-          "weight after 60",
-          "muscle"
-        ],
-        "text": "Losing weight after 60? Ask what you're losing.\n\nOn GLP-1 drugs, a good share of the weight lost can be muscle, and stopping often brings much of the weight back.\n\nMuscle is what keeps us steady on our feet.\n\nProtein at every meal. Light weights. A daily walk.\n\nSave this.",
-        "picture_tip": "Light hand weights and walking shoes by the door, with a Sunshine Coast window view if you have it.",
-        "video_tip": "About 12 seconds: lace up shoes, step outside, a short clip of the walk. On-screen text: 'Protein. Light weights. Daily walk.'",
-        "intent_url": "https://x.com/intent/post?text=Losing%20weight%20after%2060%3F%20Ask%20what%20you%27re%20losing.%0A%0AOn%20GLP-1%20drugs%2C%20a%20good%20share%20of%20the%20weight%20lost%20can%20be%20muscle%2C%20and%20stopping%20often%20brings%20much%20of%20the%20weight%20back.%0A%0AMuscle%20is%20what%20keeps%20us%20steady%20on%20our%20feet.%0A%0AProtein%20at%20every%20meal.%20Light%20weights.%20A%20daily%20walk.%0A%0ASave%20this."
+        "text": "Everyone's buying skincare tools this season.\n\nThe only one I reach for comes on the bottle: the metal applicator on RIMAN's Radiansome 100 Concentrate.\n\nA small amount, light strokes outward and upward:\n- around the eyes\n- along the neck\n\nThen cream to seal. That's it.",
+        "picture_tip": "The Radiansome 100 Concentrate standing on a bathroom shelf with the metal applicator tip toward the camera, the Toner, Essence and Cream softly blurred behind. Morning window light.",
+        "video_tip": "8-12 s vertical: dispense a little, glide the applicator outward under the eye, then upward along the neck, then a quick shot of the Radiansome Cream. On-screen text: 'outward + upward'. Only post if you have the Concentrate in your kit.",
+        "chars": 270,
+        "intent_url": "https://x.com/intent/post?text=Everyone%27s%20buying%20skincare%20tools%20this%20season.%0A%0AThe%20only%20one%20I%20reach%20for%20comes%20on%20the%20bottle%3A%20the%20metal%20applicator%20on%20RIMAN%27s%20Radiansome%20100%20Concentrate.%0A%0AA%20small%20amount%2C%20light%20strokes%20outward%20and%20upward%3A%0A-%20around%20the%20eyes%0A-%20along%20the%20neck%0A%0AThen%20cream%20to%20seal.%20That%27s%20it."
       }
     ]
   },
@@ -262,15 +220,15 @@
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 97,
-      "total_views": 119,
+      "views": 32,
+      "total_views": 43,
       "hit": false
     },
     {
       "handle": "cerave",
       "name": "CeraVe",
-      "views": 1362,
-      "total_views": 1930,
+      "views": 1444,
+      "total_views": 2042,
       "hit": false
     },
     {
@@ -312,16 +270,16 @@
   "you_rank": null,
   "trend_input_only_posts": [],
   "leaderboards": {
-    "as_of": "2026-11-13",
+    "as_of": "2026-11-14",
     "tracking_start": "2026-10-27",
     "days_included": [
-      "2026-11-07",
       "2026-11-08",
       "2026-11-09",
       "2026-11-10",
       "2026-11-11",
       "2026-11-12",
-      "2026-11-13"
+      "2026-11-13",
+      "2026-11-14"
     ],
     "month_days_included": [
       "2026-11-01",
@@ -336,13 +294,14 @@
       "2026-11-10",
       "2026-11-11",
       "2026-11-12",
-      "2026-11-13"
+      "2026-11-13",
+      "2026-11-14"
     ],
     "week": {
-      "label": "Rolling week · Nov 7–Nov 13",
+      "label": "Rolling week · Nov 8–Nov 14",
       "range": [
-        "2026-11-07",
-        "2026-11-13"
+        "2026-11-08",
+        "2026-11-14"
       ],
       "entries": []
     },
@@ -350,7 +309,7 @@
       "label": "November 2026 · from Nov 1",
       "range": [
         "2026-11-01",
-        "2026-11-13"
+        "2026-11-14"
       ],
       "entries": []
     }
