@@ -2,7 +2,7 @@
   "title": "Cats Health and Beauty · daily X skincare digest - 2026-11-16",
   "date": "2026-11-16",
   "timezone": "America/Vancouver",
-  "updated": "2026-11-16T09:37:51-07:00",
+  "updated": "2026-11-16T10:59:52-07:00",
   "brand_title": "Cats Health and Beauty · X Skincare Board",
   "brand_handle": "@CatsBeauty26",
   "virals_title": "Outsiders · last 48h",
@@ -23,8 +23,8 @@
     },
     {
       "handle": "cerave",
-      "reason": "2 originals in the last 7 days; highest 1,522 views",
-      "max_views": 1522
+      "reason": "2 originals in the last 7 days; highest 1,529 views",
+      "max_views": 1529
     },
     {
       "handle": "LabMuffin",
@@ -58,12 +58,12 @@
   "virals_target": 0,
   "hits_count": 0,
   "outsiders_count": 0,
-  "watch_window": "2026-11-09T16:00Z to 2026-11-16T16:00Z",
+  "watch_window": "2026-11-09T18:00Z to 2026-11-16T18:00Z",
   "watchlist_posts_7d": [
     {
       "handle": "cerave",
       "name": "CeraVe",
-      "views": 1522,
+      "views": 1529,
       "url": "https://x.com/cerave/status/2120960712050704607",
       "posted_at": "2026-11-12T19:23:33.000Z",
       "text": "outlook down for yall too?"
@@ -71,7 +71,7 @@
     {
       "handle": "cerave",
       "name": "CeraVe",
-      "views": 637,
+      "views": 640,
       "url": "https://x.com/cerave/status/2120241794008924356",
       "posted_at": "2026-11-10T19:46:50.000Z",
       "text": "on a mission to moisturize the driest of places.. can you guess where https://t.co/Ve5eoSY34d"
@@ -94,6 +94,45 @@
     }
   ],
   "drafts_today": [
+    {
+      "topic": "Foundation settling into lines after 50 (prep + Sheer Glow BB + Set & Stay)",
+      "keywords": [
+        "foundation over 50",
+        "mature skin makeup",
+        "fine lines"
+      ],
+      "text": "Foundation settling into your lines after 50? It's usually the prep, not your face.\n\n1. Let skincare absorb first: Booster, Serum, Booster, Cream, dry between\n2. Sunscreen\n3. A thin BB, blended with fingertips\n4. 1-2 sprays of setting spray\n\nSave this for tomorrow morning.",
+      "picture_tip": "Flat lay on your vanity in window light: Dermatology Booster, Serum, Cream, Moisture Layer Sunscreen, Sheer Glow BB, Set & Stay spray in a row, numbered 1-6 with sticky notes.",
+      "video_tip": "12-15s vertical clip: spray Booster and wait (on-screen 'wait'), massage Serum, spray Booster again, Cream with spatula, sunscreen, dot BB and blend, two spritzes of spray. Text overlay: 'Prep is the secret after 50'.",
+      "chars": 273,
+      "intent_url": "https://x.com/intent/post?text=Foundation%20settling%20into%20your%20lines%20after%2050%3F%20It%27s%20usually%20the%20prep%2C%20not%20your%20face.%0A%0A1.%20Let%20skincare%20absorb%20first%3A%20Booster%2C%20Serum%2C%20Booster%2C%20Cream%2C%20dry%20between%0A2.%20Sunscreen%0A3.%20A%20thin%20BB%2C%20blended%20with%20fingertips%0A4.%201-2%20sprays%20of%20setting%20spray%0A%0ASave%20this%20for%20tomorrow%20morning."
+    },
+    {
+      "topic": "Winter cracked lips: Glow Up Lip Oil as an overnight lip mask",
+      "keywords": [
+        "cracked lips",
+        "winter lips",
+        "lip care"
+      ],
+      "text": "Your lips aren't failing. Winter air is.\n\nMy furnace-season fix: a generous layer of lip oil at bedtime, left on overnight like a sleeping mask.\n\nMine is RIMAN Glow Up Lip Oil (a light cool tingle is normal, it has menthol).\n\nWhere does winter hit you first?",
+      "picture_tip": "Close-up of the Glow Up Lip Oil on your nightstand beside a book and reading glasses, warm lamp light.",
+      "video_tip": "8-10s clip: bedside lamp on, swipe a generous layer of lip oil, cap it, lights off. Text: 'Night shift for winter lips'.",
+      "chars": 258,
+      "intent_url": "https://x.com/intent/post?text=Your%20lips%20aren%27t%20failing.%20Winter%20air%20is.%0A%0AMy%20furnace-season%20fix%3A%20a%20generous%20layer%20of%20lip%20oil%20at%20bedtime%2C%20left%20on%20overnight%20like%20a%20sleeping%20mask.%0A%0AMine%20is%20RIMAN%20Glow%20Up%20Lip%20Oil%20%28a%20light%20cool%20tingle%20is%20normal%2C%20it%20has%20menthol%29.%0A%0AWhere%20does%20winter%20hit%20you%20first%3F"
+    },
+    {
+      "topic": "Straw-like hair ends in furnace season (botalab Deserticola shampoo, conditioner, hair oil)",
+      "keywords": [
+        "winter hair",
+        "dry ends",
+        "hair over 40"
+      ],
+      "text": "If your hair ends feel like straw once the heat comes on, try this:\n\n1. Shampoo on the scalp only, warm water\n2. Conditioner after\n3. 1-2 pumps of hair oil on mid-lengths and ends, never the roots\n\nI use botalab Deserticola for all three. Save this for wash day.",
+      "picture_tip": "The three botalab Deserticola bottles (shampoo, conditioner, hair oil serum) on the shower ledge or bathroom counter, labels out, bright daylight.",
+      "video_tip": "10-12s clip: 1-2 pumps of oil into your palm, rub hands, smooth through ends only, then a slow-motion hair flip. Text: 'Ends only. Never the roots.'",
+      "chars": 262,
+      "intent_url": "https://x.com/intent/post?text=If%20your%20hair%20ends%20feel%20like%20straw%20once%20the%20heat%20comes%20on%2C%20try%20this%3A%0A%0A1.%20Shampoo%20on%20the%20scalp%20only%2C%20warm%20water%0A2.%20Conditioner%20after%0A3.%201-2%20pumps%20of%20hair%20oil%20on%20mid-lengths%20and%20ends%2C%20never%20the%20roots%0A%0AI%20use%20botalab%20Deserticola%20for%20all%20three.%20Save%20this%20for%20wash%20day."
+    },
     {
       "topic": "Insulin resistance and weight after 70: 'even if you're older' (fill in your real numbers)",
       "keywords": [
@@ -146,6 +185,45 @@
   "trend_radar": {
     "ideas": [
       {
+        "topic": "Foundation settling into lines after 50 (prep + Sheer Glow BB + Set & Stay)",
+        "keywords": [
+          "foundation over 50",
+          "mature skin makeup",
+          "fine lines"
+        ],
+        "text": "Foundation settling into your lines after 50? It's usually the prep, not your face.\n\n1. Let skincare absorb first: Booster, Serum, Booster, Cream, dry between\n2. Sunscreen\n3. A thin BB, blended with fingertips\n4. 1-2 sprays of setting spray\n\nSave this for tomorrow morning.",
+        "picture_tip": "Flat lay on your vanity in window light: Dermatology Booster, Serum, Cream, Moisture Layer Sunscreen, Sheer Glow BB, Set & Stay spray in a row, numbered 1-6 with sticky notes.",
+        "video_tip": "12-15s vertical clip: spray Booster and wait (on-screen 'wait'), massage Serum, spray Booster again, Cream with spatula, sunscreen, dot BB and blend, two spritzes of spray. Text overlay: 'Prep is the secret after 50'.",
+        "chars": 273,
+        "intent_url": "https://x.com/intent/post?text=Foundation%20settling%20into%20your%20lines%20after%2050%3F%20It%27s%20usually%20the%20prep%2C%20not%20your%20face.%0A%0A1.%20Let%20skincare%20absorb%20first%3A%20Booster%2C%20Serum%2C%20Booster%2C%20Cream%2C%20dry%20between%0A2.%20Sunscreen%0A3.%20A%20thin%20BB%2C%20blended%20with%20fingertips%0A4.%201-2%20sprays%20of%20setting%20spray%0A%0ASave%20this%20for%20tomorrow%20morning."
+      },
+      {
+        "topic": "Winter cracked lips: Glow Up Lip Oil as an overnight lip mask",
+        "keywords": [
+          "cracked lips",
+          "winter lips",
+          "lip care"
+        ],
+        "text": "Your lips aren't failing. Winter air is.\n\nMy furnace-season fix: a generous layer of lip oil at bedtime, left on overnight like a sleeping mask.\n\nMine is RIMAN Glow Up Lip Oil (a light cool tingle is normal, it has menthol).\n\nWhere does winter hit you first?",
+        "picture_tip": "Close-up of the Glow Up Lip Oil on your nightstand beside a book and reading glasses, warm lamp light.",
+        "video_tip": "8-10s clip: bedside lamp on, swipe a generous layer of lip oil, cap it, lights off. Text: 'Night shift for winter lips'.",
+        "chars": 258,
+        "intent_url": "https://x.com/intent/post?text=Your%20lips%20aren%27t%20failing.%20Winter%20air%20is.%0A%0AMy%20furnace-season%20fix%3A%20a%20generous%20layer%20of%20lip%20oil%20at%20bedtime%2C%20left%20on%20overnight%20like%20a%20sleeping%20mask.%0A%0AMine%20is%20RIMAN%20Glow%20Up%20Lip%20Oil%20%28a%20light%20cool%20tingle%20is%20normal%2C%20it%20has%20menthol%29.%0A%0AWhere%20does%20winter%20hit%20you%20first%3F"
+      },
+      {
+        "topic": "Straw-like hair ends in furnace season (botalab Deserticola shampoo, conditioner, hair oil)",
+        "keywords": [
+          "winter hair",
+          "dry ends",
+          "hair over 40"
+        ],
+        "text": "If your hair ends feel like straw once the heat comes on, try this:\n\n1. Shampoo on the scalp only, warm water\n2. Conditioner after\n3. 1-2 pumps of hair oil on mid-lengths and ends, never the roots\n\nI use botalab Deserticola for all three. Save this for wash day.",
+        "picture_tip": "The three botalab Deserticola bottles (shampoo, conditioner, hair oil serum) on the shower ledge or bathroom counter, labels out, bright daylight.",
+        "video_tip": "10-12s clip: 1-2 pumps of oil into your palm, rub hands, smooth through ends only, then a slow-motion hair flip. Text: 'Ends only. Never the roots.'",
+        "chars": 262,
+        "intent_url": "https://x.com/intent/post?text=If%20your%20hair%20ends%20feel%20like%20straw%20once%20the%20heat%20comes%20on%2C%20try%20this%3A%0A%0A1.%20Shampoo%20on%20the%20scalp%20only%2C%20warm%20water%0A2.%20Conditioner%20after%0A3.%201-2%20pumps%20of%20hair%20oil%20on%20mid-lengths%20and%20ends%2C%20never%20the%20roots%0A%0AI%20use%20botalab%20Deserticola%20for%20all%20three.%20Save%20this%20for%20wash%20day."
+      },
+      {
         "topic": "Insulin resistance and weight after 70: 'even if you're older' (fill in your real numbers)",
         "keywords": [
           "women over 70",
@@ -197,8 +275,8 @@
     {
       "handle": "cerave",
       "name": "CeraVe",
-      "views": 1522,
-      "total_views": 2159,
+      "views": 1529,
+      "total_views": 2169,
       "hit": false
     },
     {
