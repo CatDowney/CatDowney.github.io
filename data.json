@@ -2,7 +2,7 @@
   "title": "Cat's Health and Beauty · daily X skincare digest - 2026-11-19",
   "date": "2026-11-19",
   "timezone": "America/Vancouver",
-  "updated": "2026-11-19T09:42:17-07:00",
+  "updated": "2026-11-19T11:05:45-07:00",
   "brand_title": "Cat's Health and Beauty · X Skincare Board",
   "brand_handle": "@CatsBeauty26",
   "virals_title": "Outsiders · last 48h",
@@ -23,8 +23,8 @@
     },
     {
       "handle": "cerave",
-      "reason": "1 originals in the last 7 days; highest 1,615 views",
-      "max_views": 1615
+      "reason": "1 originals in the last 7 days; highest 1,619 views",
+      "max_views": 1619
     },
     {
       "handle": "LabMuffin",
@@ -58,12 +58,12 @@
   "virals_target": 0,
   "hits_count": 0,
   "outsiders_count": 0,
-  "watch_window": "2026-11-12T16:00Z to 2026-11-19T16:45Z",
+  "watch_window": "2026-11-12T18:00Z to 2026-11-19T18:10Z",
   "watchlist_posts_7d": [
     {
       "handle": "cerave",
       "name": "CeraVe",
-      "views": 1615,
+      "views": 1619,
       "url": "https://x.com/cerave/status/2120960712050704607",
       "posted_at": "2026-11-12T19:23:33.000Z",
       "text": "outlook down for yall too?"
@@ -87,32 +87,45 @@
   ],
   "drafts_today": [
     {
-      "topic": "NAD+ and NMN without the hype: ask whether you actually need it",
-      "keywords": [
-        "NAD+",
-        "NMN",
-        "women 70+",
-        "no hype"
-      ],
-      "text": "NAD+ and NMN are everywhere right now.\n\nNew data: blood NAD held steady in healthy adults from 18 to 65, and ran low in people with heart disease and high blood pressure.\n\nSo before I buy the hype, I ask: do I actually need it?\n\nMy doctor gets the final say.",
-      "linkedin": "NAD+ and NMN are all over my feed right now. Drips, powders, \"longevity stacks.\" The pitch is usually the same: your NAD drops as you age, so top it up.\n\nThis week a post on X shared data that tells a more careful story. In healthy adults, blood NAD held fairly steady from age 18 to 65. It ran low in people with heart disease and high blood pressure.\n\nThat doesn't mean these supplements are useless. It means age alone isn't the whole picture, and \"everyone over 50 needs this\" is a sales line, not a diagnosis.\n\nIn my 70s, my rule stays simple:\n1. What's actually in it?\n2. Do I have a real reason to take it?\n3. Does it fit with my other medications?\n4. Has my doctor seen the label?\n\nNo hype. Just better questions.\n\nWhat's one supplement you started, then stopped, once you looked closer?",
-      "picture_tip": "A supplement bottle with the label turned to the camera next to a notepad with the four questions handwritten.",
-      "video_tip": "8s clip: turn a supplement bottle around to the ingredient label. Text: 'Do I actually need it?'",
-      "chars": 258,
-      "intent_url": "https://x.com/intent/post?text=NAD%2B%20and%20NMN%20are%20everywhere%20right%20now.%0A%0ANew%20data%3A%20blood%20NAD%20held%20steady%20in%20healthy%20adults%20from%2018%20to%2065%2C%20and%20ran%20low%20in%20people%20with%20heart%20disease%20and%20high%20blood%20pressure.%0A%0ASo%20before%20I%20buy%20the%20hype%2C%20I%20ask%3A%20do%20I%20actually%20need%20it%3F%0A%0AMy%20doctor%20gets%20the%20final%20say."
-    },
-    {
-      "topic": "Trail Bay Centre: two dates, Fri Nov 27 and Sun Nov 29",
+      "topic": "Trail Bay moved: not today, Fri Nov 27 and Sun Nov 29",
       "keywords": [
         "Sechelt",
         "Trail Bay",
-        "Black Friday"
+        "market",
+        "over 40"
       ],
-      "text": "Sechelt friends: you get two chances now.\n\nTrail Bay Centre\nFri Nov 27, 11 to 4\nSun Nov 29\n\nCome feel the RIMAN textures on your hands, ask me anything about skin after 40, and guess how many candies are in the tub.\n\nWhich day works for you?",
-      "picture_tip": "Your candy tub front and centre on the booth table with 3-4 RIMAN jars behind it, a handwritten card 'Fri Nov 27 + Sun Nov 29'. Daylight from the mall windows.",
-      "video_tip": "8-10s clip: shake the candy tub to camera, set it down beside your products, tap the date card. On-screen: 'Trail Bay. Nov 27 + 29. Guess the candies.'",
-      "chars": 241,
-      "intent_url": "https://x.com/intent/post?text=Sechelt%20friends%3A%20you%20get%20two%20chances%20now.%0A%0ATrail%20Bay%20Centre%0AFri%20Nov%2027%2C%2011%20to%204%0ASun%20Nov%2029%0A%0ACome%20feel%20the%20RIMAN%20textures%20on%20your%20hands%2C%20ask%20me%20anything%20about%20skin%20after%2040%2C%20and%20guess%20how%20many%20candies%20are%20in%20the%20tub.%0A%0AWhich%20day%20works%20for%20you%3F"
+      "text": "If you were looking for me at Trail Bay today, I moved!\n\nCome find me:\nFri Nov 27, 11 to 4\nSun Nov 29\n\nSample the RIMAN textures, ask me anything about skin after 40, and guess the candies in the tub to win a Multi Stick Balm, a facial, or both.\n\nWhich day suits you?",
+      "picture_tip": "Your Trail Bay poster (the v7 with both dates) propped next to the candy tub and a Multi Stick Balm on your kitchen counter, daylight from a window.",
+      "video_tip": "6-8s clip: hand sets the candy tub down, then the Multi Stick Balm beside it. On-screen text: 'Moved! Nov 27 + 29, Trail Bay'.",
+      "chars": 267,
+      "intent_url": "https://x.com/intent/post?text=If%20you%20were%20looking%20for%20me%20at%20Trail%20Bay%20today%2C%20I%20moved%21%0A%0ACome%20find%20me%3A%0AFri%20Nov%2027%2C%2011%20to%204%0ASun%20Nov%2029%0A%0ASample%20the%20RIMAN%20textures%2C%20ask%20me%20anything%20about%20skin%20after%2040%2C%20and%20guess%20the%20candies%20in%20the%20tub%20to%20win%20a%20Multi%20Stick%20Balm%2C%20a%20facial%2C%20or%20both.%0A%0AWhich%20day%20suits%20you%3F"
+    },
+    {
+      "topic": "Less makeup after 50 (Parade 'Pamela Anderson rule' signal)",
+      "keywords": [
+        "makeup over 50",
+        "less is more",
+        "settling into lines"
+      ],
+      "text": "After 50, more coverage isn't hiding anything. It settles into the lines.\n\nLess is more:\n1. Skincare first, let it settle\n2. Sunscreen\n3. A few dots of Sheer Glow BB, blended thin with fingertips\n4. Glow Up Lip Oil\n5. 1-2 sprays of Set & Stay\n\nSave this for tomorrow morning.",
+      "picture_tip": "Flat lay on a white towel: Moisture Layer Sunscreen, Sheer Glow BB, Glow Up Lip Oil, Set & Stay spray, in order left to right.",
+      "video_tip": "12-15s, bathroom window light: dot BB on forehead, cheeks, nose, chin; blend with fingertips; swipe lip oil; mist Set & Stay. Text: 'After 50, less is more'.",
+      "chars": 275,
+      "intent_url": "https://x.com/intent/post?text=After%2050%2C%20more%20coverage%20isn%27t%20hiding%20anything.%20It%20settles%20into%20the%20lines.%0A%0ALess%20is%20more%3A%0A1.%20Skincare%20first%2C%20let%20it%20settle%0A2.%20Sunscreen%0A3.%20A%20few%20dots%20of%20Sheer%20Glow%20BB%2C%20blended%20thin%20with%20fingertips%0A4.%20Glow%20Up%20Lip%20Oil%0A5.%201-2%20sprays%20of%20Set%20%26%20Stay%0A%0ASave%20this%20for%20tomorrow%20morning."
+    },
+    {
+      "topic": "Dry heat inside is hard on your ends too (botalab hair)",
+      "keywords": [
+        "winter hair",
+        "dry ends",
+        "dry heat",
+        "botalab"
+      ],
+      "text": "Cold air outside. Dry heat inside.\n\nMy ends feel it as much as my cheeks.\n\nWhat helps:\n1. Warm water, not hot\n2. Shampoo on the scalp, never the ends\n3. Conditioner\n4. 1-2 pumps of oil on mid-lengths and ends only\n\nMine: botalab Deserticola.\n\nWhere does winter hit your hair?",
+      "picture_tip": "botalab Deserticola Plus Shampoo, Conditioner and Hair Oil Serum lined up on the edge of the tub, soft morning light.",
+      "video_tip": "8-10s: one pump of Hair Oil Serum into your palm, rub hands, smooth over the ends of your hair (not the roots). Text: 'Ends only'.",
+      "chars": 275,
+      "intent_url": "https://x.com/intent/post?text=Cold%20air%20outside.%20Dry%20heat%20inside.%0A%0AMy%20ends%20feel%20it%20as%20much%20as%20my%20cheeks.%0A%0AWhat%20helps%3A%0A1.%20Warm%20water%2C%20not%20hot%0A2.%20Shampoo%20on%20the%20scalp%2C%20never%20the%20ends%0A3.%20Conditioner%0A4.%201-2%20pumps%20of%20oil%20on%20mid-lengths%20and%20ends%20only%0A%0AMine%3A%20botalab%20Deserticola.%0A%0AWhere%20does%20winter%20hit%20your%20hair%3F"
     }
   ],
   "trend_keywords": {
@@ -142,32 +155,45 @@
   "trend_radar": {
     "ideas": [
       {
-        "topic": "NAD+ and NMN without the hype: ask whether you actually need it",
-        "keywords": [
-          "NAD+",
-          "NMN",
-          "women 70+",
-          "no hype"
-        ],
-        "text": "NAD+ and NMN are everywhere right now.\n\nNew data: blood NAD held steady in healthy adults from 18 to 65, and ran low in people with heart disease and high blood pressure.\n\nSo before I buy the hype, I ask: do I actually need it?\n\nMy doctor gets the final say.",
-        "linkedin": "NAD+ and NMN are all over my feed right now. Drips, powders, \"longevity stacks.\" The pitch is usually the same: your NAD drops as you age, so top it up.\n\nThis week a post on X shared data that tells a more careful story. In healthy adults, blood NAD held fairly steady from age 18 to 65. It ran low in people with heart disease and high blood pressure.\n\nThat doesn't mean these supplements are useless. It means age alone isn't the whole picture, and \"everyone over 50 needs this\" is a sales line, not a diagnosis.\n\nIn my 70s, my rule stays simple:\n1. What's actually in it?\n2. Do I have a real reason to take it?\n3. Does it fit with my other medications?\n4. Has my doctor seen the label?\n\nNo hype. Just better questions.\n\nWhat's one supplement you started, then stopped, once you looked closer?",
-        "picture_tip": "A supplement bottle with the label turned to the camera next to a notepad with the four questions handwritten.",
-        "video_tip": "8s clip: turn a supplement bottle around to the ingredient label. Text: 'Do I actually need it?'",
-        "chars": 258,
-        "intent_url": "https://x.com/intent/post?text=NAD%2B%20and%20NMN%20are%20everywhere%20right%20now.%0A%0ANew%20data%3A%20blood%20NAD%20held%20steady%20in%20healthy%20adults%20from%2018%20to%2065%2C%20and%20ran%20low%20in%20people%20with%20heart%20disease%20and%20high%20blood%20pressure.%0A%0ASo%20before%20I%20buy%20the%20hype%2C%20I%20ask%3A%20do%20I%20actually%20need%20it%3F%0A%0AMy%20doctor%20gets%20the%20final%20say."
-      },
-      {
-        "topic": "Trail Bay Centre: two dates, Fri Nov 27 and Sun Nov 29",
+        "topic": "Trail Bay moved: not today, Fri Nov 27 and Sun Nov 29",
         "keywords": [
           "Sechelt",
           "Trail Bay",
-          "Black Friday"
+          "market",
+          "over 40"
         ],
-        "text": "Sechelt friends: you get two chances now.\n\nTrail Bay Centre\nFri Nov 27, 11 to 4\nSun Nov 29\n\nCome feel the RIMAN textures on your hands, ask me anything about skin after 40, and guess how many candies are in the tub.\n\nWhich day works for you?",
-        "picture_tip": "Your candy tub front and centre on the booth table with 3-4 RIMAN jars behind it, a handwritten card 'Fri Nov 27 + Sun Nov 29'. Daylight from the mall windows.",
-        "video_tip": "8-10s clip: shake the candy tub to camera, set it down beside your products, tap the date card. On-screen: 'Trail Bay. Nov 27 + 29. Guess the candies.'",
-        "chars": 241,
-        "intent_url": "https://x.com/intent/post?text=Sechelt%20friends%3A%20you%20get%20two%20chances%20now.%0A%0ATrail%20Bay%20Centre%0AFri%20Nov%2027%2C%2011%20to%204%0ASun%20Nov%2029%0A%0ACome%20feel%20the%20RIMAN%20textures%20on%20your%20hands%2C%20ask%20me%20anything%20about%20skin%20after%2040%2C%20and%20guess%20how%20many%20candies%20are%20in%20the%20tub.%0A%0AWhich%20day%20works%20for%20you%3F"
+        "text": "If you were looking for me at Trail Bay today, I moved!\n\nCome find me:\nFri Nov 27, 11 to 4\nSun Nov 29\n\nSample the RIMAN textures, ask me anything about skin after 40, and guess the candies in the tub to win a Multi Stick Balm, a facial, or both.\n\nWhich day suits you?",
+        "picture_tip": "Your Trail Bay poster (the v7 with both dates) propped next to the candy tub and a Multi Stick Balm on your kitchen counter, daylight from a window.",
+        "video_tip": "6-8s clip: hand sets the candy tub down, then the Multi Stick Balm beside it. On-screen text: 'Moved! Nov 27 + 29, Trail Bay'.",
+        "chars": 267,
+        "intent_url": "https://x.com/intent/post?text=If%20you%20were%20looking%20for%20me%20at%20Trail%20Bay%20today%2C%20I%20moved%21%0A%0ACome%20find%20me%3A%0AFri%20Nov%2027%2C%2011%20to%204%0ASun%20Nov%2029%0A%0ASample%20the%20RIMAN%20textures%2C%20ask%20me%20anything%20about%20skin%20after%2040%2C%20and%20guess%20the%20candies%20in%20the%20tub%20to%20win%20a%20Multi%20Stick%20Balm%2C%20a%20facial%2C%20or%20both.%0A%0AWhich%20day%20suits%20you%3F"
+      },
+      {
+        "topic": "Less makeup after 50 (Parade 'Pamela Anderson rule' signal)",
+        "keywords": [
+          "makeup over 50",
+          "less is more",
+          "settling into lines"
+        ],
+        "text": "After 50, more coverage isn't hiding anything. It settles into the lines.\n\nLess is more:\n1. Skincare first, let it settle\n2. Sunscreen\n3. A few dots of Sheer Glow BB, blended thin with fingertips\n4. Glow Up Lip Oil\n5. 1-2 sprays of Set & Stay\n\nSave this for tomorrow morning.",
+        "picture_tip": "Flat lay on a white towel: Moisture Layer Sunscreen, Sheer Glow BB, Glow Up Lip Oil, Set & Stay spray, in order left to right.",
+        "video_tip": "12-15s, bathroom window light: dot BB on forehead, cheeks, nose, chin; blend with fingertips; swipe lip oil; mist Set & Stay. Text: 'After 50, less is more'.",
+        "chars": 275,
+        "intent_url": "https://x.com/intent/post?text=After%2050%2C%20more%20coverage%20isn%27t%20hiding%20anything.%20It%20settles%20into%20the%20lines.%0A%0ALess%20is%20more%3A%0A1.%20Skincare%20first%2C%20let%20it%20settle%0A2.%20Sunscreen%0A3.%20A%20few%20dots%20of%20Sheer%20Glow%20BB%2C%20blended%20thin%20with%20fingertips%0A4.%20Glow%20Up%20Lip%20Oil%0A5.%201-2%20sprays%20of%20Set%20%26%20Stay%0A%0ASave%20this%20for%20tomorrow%20morning."
+      },
+      {
+        "topic": "Dry heat inside is hard on your ends too (botalab hair)",
+        "keywords": [
+          "winter hair",
+          "dry ends",
+          "dry heat",
+          "botalab"
+        ],
+        "text": "Cold air outside. Dry heat inside.\n\nMy ends feel it as much as my cheeks.\n\nWhat helps:\n1. Warm water, not hot\n2. Shampoo on the scalp, never the ends\n3. Conditioner\n4. 1-2 pumps of oil on mid-lengths and ends only\n\nMine: botalab Deserticola.\n\nWhere does winter hit your hair?",
+        "picture_tip": "botalab Deserticola Plus Shampoo, Conditioner and Hair Oil Serum lined up on the edge of the tub, soft morning light.",
+        "video_tip": "8-10s: one pump of Hair Oil Serum into your palm, rub hands, smooth over the ends of your hair (not the roots). Text: 'Ends only'.",
+        "chars": 275,
+        "intent_url": "https://x.com/intent/post?text=Cold%20air%20outside.%20Dry%20heat%20inside.%0A%0AMy%20ends%20feel%20it%20as%20much%20as%20my%20cheeks.%0A%0AWhat%20helps%3A%0A1.%20Warm%20water%2C%20not%20hot%0A2.%20Shampoo%20on%20the%20scalp%2C%20never%20the%20ends%0A3.%20Conditioner%0A4.%201-2%20pumps%20of%20oil%20on%20mid-lengths%20and%20ends%20only%0A%0AMine%3A%20botalab%20Deserticola.%0A%0AWhere%20does%20winter%20hit%20your%20hair%3F"
       }
     ]
   },
@@ -197,8 +223,8 @@
     {
       "handle": "cerave",
       "name": "CeraVe",
-      "views": 1615,
-      "total_views": 1615,
+      "views": 1619,
+      "total_views": 1619,
       "hit": false
     },
     {
