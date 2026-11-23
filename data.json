@@ -1,8 +1,8 @@
 {
   "title": "Cat's Health and Beauty · daily X skincare digest - 2026-11-19",
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "timezone": "America/Vancouver",
-  "updated": "2026-11-22T10:58:01-07:00",
+  "updated": "2026-11-23T09:38:05-07:00",
   "brand_title": "Cat's Health and Beauty · X Skincare Board",
   "brand_handle": "@CatsBeauty26",
   "virals_title": "Outsiders · last 48h",
@@ -18,8 +18,8 @@
     },
     {
       "handle": "DiscoverSelf",
-      "reason": "2 originals in the last 7 days; highest 52 views",
-      "max_views": 52
+      "reason": "2 originals in the last 7 days; highest 55 views",
+      "max_views": 55
     },
     {
       "handle": "cerave",
@@ -58,12 +58,12 @@
   "virals_target": 0,
   "hits_count": 0,
   "outsiders_count": 0,
-  "watch_window": "2026-11-15T17Z to 2026-11-22T17:58Z",
+  "watch_window": "2026-11-16T16Z to 2026-11-23T16:38Z",
   "watchlist_posts_7d": [
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 52,
+      "views": 55,
       "url": "https://x.com/DiscoverSelf/status/2123503731937611939",
       "posted_at": "2026-11-19T19:48:37.000Z",
       "text": "Incredible #giftidea for you or anybody in your family-friends circle – Organic Herbs &amp; Spices to cook with, add to fresh salads, enjoy the aromas to support you! Enter to #Win this festive set! #giveaways #giveaway #HolidaySeason #Holidays https://t.co/59AeOnqRKE https://t.co/WhI0LTUqWi"
@@ -71,7 +71,7 @@
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 46,
+      "views": 50,
       "url": "https://x.com/DiscoverSelf/status/2123519431439511651",
       "posted_at": "2026-11-19T20:51:00.000Z",
       "text": "Winter air makes #menopause #skin feel even drier. A creamy shea butter bar turns a warm-water hand wash into a small ritual she will look forward to. #soap #gifts #giftsforher https://t.co/ktZ09wiYDa https://t.co/2fiK3CFRTN"
@@ -79,46 +79,32 @@
   ],
   "drafts_today": [
     {
-      "topic": "Black Friday list after 40 is 3 things long (Boo-Se-Boo + Trail Bay)",
+      "topic": "No-hype gut health tier list for women in their 70s",
       "keywords": [
-        "Black Friday",
-        "deals list",
+        "gut health",
+        "supplements",
+        "tier list",
+        "no hype"
+      ],
+      "text": "Gut health supplement tier lists are all over my feed this week.\n\nHere's mine, in my 70s:\nS tier: ask my doctor what mixes with what I already take\nA tier: water, fibre, regular meals, sleep\nB tier: one new thing at a time, so I know what's working\n\nNo hype. Just what I can stick to.",
+      "picture_tip": "A handwritten S/A/B tier list on a notepad beside a glass of water and a bowl of oats on your kitchen table, window daylight. Square or 4:5.",
+      "video_tip": "8-10s: pen writes S, A, B tiers one by one; end on the glass of water. On-screen text: 'My gut health tier list in my 70s'.",
+      "chars": 284,
+      "intent_url": "https://x.com/intent/post?text=Gut%20health%20supplement%20tier%20lists%20are%20all%20over%20my%20feed%20this%20week.%0A%0AHere's%20mine%2C%20in%20my%2070s%3A%0AS%20tier%3A%20ask%20my%20doctor%20what%20mixes%20with%20what%20I%20already%20take%0AA%20tier%3A%20water%2C%20fibre%2C%20regular%20meals%2C%20sleep%0AB%20tier%3A%20one%20new%20thing%20at%20a%20time%2C%20so%20I%20know%20what's%20working%0A%0ANo%20hype.%20Just%20what%20I%20can%20stick%20to."
+    },
+    {
+      "topic": "Skin barrier is back: simple winter routine + Trail Bay Friday",
+      "keywords": [
+        "skin barrier",
+        "winter dryness",
         "fewer products",
         "Trail Bay"
       ],
-      "text": "My Black Friday skincare list after 40 has 3 things on it:\n\n1. Dermatology Booster EX\n2. Dermatology Serum EX\n3. Dermatology Cream\n\nBooster, Serum, Booster, Cream. Let each layer dry. That's it.\n\nTry them on your hand at Trail Bay, Sechelt: Fri Nov 27, 11 to 4, and Sun Nov 29.",
-      "picture_tip": "Handwritten sticky note reading 'Black Friday list: 1. Booster 2. Serum 3. Cream' stuck beside your real Booster EX, Serum EX and Dermatology Cream on the counter, window daylight. Square or 4:5.",
-      "video_tip": "8-10s clip: pen writes the 3-item list on a sticky note, hand sets each product down as it's written, end on the Trail Bay poster. On-screen text: 'My whole Black Friday list'.",
-      "chars": 277,
-      "intent_url": "https://x.com/intent/post?text=My%20Black%20Friday%20skincare%20list%20after%2040%20has%203%20things%20on%20it%3A%0A%0A1.%20Dermatology%20Booster%20EX%0A2.%20Dermatology%20Serum%20EX%0A3.%20Dermatology%20Cream%0A%0ABooster%2C%20Serum%2C%20Booster%2C%20Cream.%20Let%20each%20layer%20dry.%20That's%20it.%0A%0ATry%20them%20on%20your%20hand%20at%20Trail%20Bay%2C%20Sechelt%3A%20Fri%20Nov%2027%2C%2011%20to%204%2C%20and%20Sun%20Nov%2029."
-    },
-    {
-      "topic": "Myth-bust: it's the hot water, not the cleanser",
-      "keywords": [
-        "winter dryness",
-        "hot water",
-        "cleanser",
-        "dry skin"
-      ],
-      "text": "Your cleanser isn't drying you out this winter. Your hot water is.\n\nWhat I do instead:\n1. Lukewarm water only\n2. ICD Balancing Gel Cleanser\n3. Pat dry with a soft cloth\n4. Booster on dry skin, then wait\n\nSave this for tonight. Where does winter hit you first?",
-      "picture_tip": "Bathroom sink: Balancing Gel Cleanser beside a folded dry face cloth and Booster EX, tap in the background, soft evening light. No wet cloth on the products.",
-      "video_tip": "8-12s: hand tests the tap and turns it from hot to lukewarm (text 'Not hot'), cleanser in palm, pat dry with cloth (text 'Dry first'), spray Booster and pause (text 'Then wait').",
-      "chars": 259,
-      "intent_url": "https://x.com/intent/post?text=Your%20cleanser%20isn't%20drying%20you%20out%20this%20winter.%20Your%20hot%20water%20is.%0A%0AWhat%20I%20do%20instead%3A%0A1.%20Lukewarm%20water%20only%0A2.%20ICD%20Balancing%20Gel%20Cleanser%0A3.%20Pat%20dry%20with%20a%20soft%20cloth%0A4.%20Booster%20on%20dry%20skin%2C%20then%20wait%0A%0ASave%20this%20for%20tonight.%20Where%20does%20winter%20hit%20you%20first%3F"
-    },
-    {
-      "topic": "Stocking stuffers for women over 40",
-      "keywords": [
-        "stocking stuffer",
-        "gifts for her",
-        "chapped lips",
-        "over 40"
-      ],
-      "text": "Stocking stuffers for the women over 40 on your list:\n\n• Multi Stick Balm for dry lips and cheeks\n• Glow Up Lip Oil, a lip mask overnight\n• Butter Lip Liner, new this fall\n• Suamel Body Cream, fresh out of the shower\n\nSave this for your list. 🎁",
-      "picture_tip": "The four products peeking out of a red or knit stocking on a wooden table, a little fairy-light glow, logo sticker or gift tag reading Cat's Health and Beauty.",
-      "video_tip": "6-8s: hand drops each product into the stocking one by one (Balm, Lip Oil, Liner, Body Cream), final shot of the full stocking. On-screen text: 'Stocking stuffers for her, 40+'.",
-      "chars": 244,
-      "intent_url": "https://x.com/intent/post?text=Stocking%20stuffers%20for%20the%20women%20over%2040%20on%20your%20list%3A%0A%0A%E2%80%A2%20Multi%20Stick%20Balm%20for%20dry%20lips%20and%20cheeks%0A%E2%80%A2%20Glow%20Up%20Lip%20Oil%2C%20a%20lip%20mask%20overnight%0A%E2%80%A2%20Butter%20Lip%20Liner%2C%20new%20this%20fall%0A%E2%80%A2%20Suamel%20Body%20Cream%2C%20fresh%20out%20of%20the%20shower%0A%0ASave%20this%20for%20your%20list.%20%F0%9F%8E%81"
+      "text": "Skin barrier talk is back all over my feed. Good.\n\nWinter on the Sunshine Coast is hard on mature skin. I keep it simple:\nCleanser. Booster. Serum. Cream.\nOn dry skin, and I let each layer dry.\n\nTry it on your own hand at Trail Bay, Sechelt this Friday, Nov 27, 11 to 4.",
+      "picture_tip": "Your Balancing Gel Cleanser, Booster EX, Serum EX and Dermatology Cream in a row on the counter with rain on the window behind, soft daylight.",
+      "video_tip": "8-12s: set down each of the 4 products in order (text 'Dry skin first', then 'Let it dry'), end on the Trail Bay poster.",
+      "chars": 270,
+      "intent_url": "https://x.com/intent/post?text=Skin%20barrier%20talk%20is%20back%20all%20over%20my%20feed.%20Good.%0A%0AWinter%20on%20the%20Sunshine%20Coast%20is%20hard%20on%20mature%20skin.%20I%20keep%20it%20simple%3A%0ACleanser.%20Booster.%20Serum.%20Cream.%0AOn%20dry%20skin%2C%20and%20I%20let%20each%20layer%20dry.%0A%0ATry%20it%20on%20your%20own%20hand%20at%20Trail%20Bay%2C%20Sechelt%20this%20Friday%2C%20Nov%2027%2C%2011%20to%204."
     }
   ],
   "trend_keywords": {
@@ -148,46 +134,32 @@
   "trend_radar": {
     "ideas": [
       {
-        "topic": "Black Friday list after 40 is 3 things long (Boo-Se-Boo + Trail Bay)",
+        "topic": "No-hype gut health tier list for women in their 70s",
         "keywords": [
-          "Black Friday",
-          "deals list",
+          "gut health",
+          "supplements",
+          "tier list",
+          "no hype"
+        ],
+        "text": "Gut health supplement tier lists are all over my feed this week.\n\nHere's mine, in my 70s:\nS tier: ask my doctor what mixes with what I already take\nA tier: water, fibre, regular meals, sleep\nB tier: one new thing at a time, so I know what's working\n\nNo hype. Just what I can stick to.",
+        "picture_tip": "A handwritten S/A/B tier list on a notepad beside a glass of water and a bowl of oats on your kitchen table, window daylight. Square or 4:5.",
+        "video_tip": "8-10s: pen writes S, A, B tiers one by one; end on the glass of water. On-screen text: 'My gut health tier list in my 70s'.",
+        "chars": 284,
+        "intent_url": "https://x.com/intent/post?text=Gut%20health%20supplement%20tier%20lists%20are%20all%20over%20my%20feed%20this%20week.%0A%0AHere's%20mine%2C%20in%20my%2070s%3A%0AS%20tier%3A%20ask%20my%20doctor%20what%20mixes%20with%20what%20I%20already%20take%0AA%20tier%3A%20water%2C%20fibre%2C%20regular%20meals%2C%20sleep%0AB%20tier%3A%20one%20new%20thing%20at%20a%20time%2C%20so%20I%20know%20what's%20working%0A%0ANo%20hype.%20Just%20what%20I%20can%20stick%20to."
+      },
+      {
+        "topic": "Skin barrier is back: simple winter routine + Trail Bay Friday",
+        "keywords": [
+          "skin barrier",
+          "winter dryness",
           "fewer products",
           "Trail Bay"
         ],
-        "text": "My Black Friday skincare list after 40 has 3 things on it:\n\n1. Dermatology Booster EX\n2. Dermatology Serum EX\n3. Dermatology Cream\n\nBooster, Serum, Booster, Cream. Let each layer dry. That's it.\n\nTry them on your hand at Trail Bay, Sechelt: Fri Nov 27, 11 to 4, and Sun Nov 29.",
-        "picture_tip": "Handwritten sticky note reading 'Black Friday list: 1. Booster 2. Serum 3. Cream' stuck beside your real Booster EX, Serum EX and Dermatology Cream on the counter, window daylight. Square or 4:5.",
-        "video_tip": "8-10s clip: pen writes the 3-item list on a sticky note, hand sets each product down as it's written, end on the Trail Bay poster. On-screen text: 'My whole Black Friday list'.",
-        "chars": 277,
-        "intent_url": "https://x.com/intent/post?text=My%20Black%20Friday%20skincare%20list%20after%2040%20has%203%20things%20on%20it%3A%0A%0A1.%20Dermatology%20Booster%20EX%0A2.%20Dermatology%20Serum%20EX%0A3.%20Dermatology%20Cream%0A%0ABooster%2C%20Serum%2C%20Booster%2C%20Cream.%20Let%20each%20layer%20dry.%20That's%20it.%0A%0ATry%20them%20on%20your%20hand%20at%20Trail%20Bay%2C%20Sechelt%3A%20Fri%20Nov%2027%2C%2011%20to%204%2C%20and%20Sun%20Nov%2029."
-      },
-      {
-        "topic": "Myth-bust: it's the hot water, not the cleanser",
-        "keywords": [
-          "winter dryness",
-          "hot water",
-          "cleanser",
-          "dry skin"
-        ],
-        "text": "Your cleanser isn't drying you out this winter. Your hot water is.\n\nWhat I do instead:\n1. Lukewarm water only\n2. ICD Balancing Gel Cleanser\n3. Pat dry with a soft cloth\n4. Booster on dry skin, then wait\n\nSave this for tonight. Where does winter hit you first?",
-        "picture_tip": "Bathroom sink: Balancing Gel Cleanser beside a folded dry face cloth and Booster EX, tap in the background, soft evening light. No wet cloth on the products.",
-        "video_tip": "8-12s: hand tests the tap and turns it from hot to lukewarm (text 'Not hot'), cleanser in palm, pat dry with cloth (text 'Dry first'), spray Booster and pause (text 'Then wait').",
-        "chars": 259,
-        "intent_url": "https://x.com/intent/post?text=Your%20cleanser%20isn't%20drying%20you%20out%20this%20winter.%20Your%20hot%20water%20is.%0A%0AWhat%20I%20do%20instead%3A%0A1.%20Lukewarm%20water%20only%0A2.%20ICD%20Balancing%20Gel%20Cleanser%0A3.%20Pat%20dry%20with%20a%20soft%20cloth%0A4.%20Booster%20on%20dry%20skin%2C%20then%20wait%0A%0ASave%20this%20for%20tonight.%20Where%20does%20winter%20hit%20you%20first%3F"
-      },
-      {
-        "topic": "Stocking stuffers for women over 40",
-        "keywords": [
-          "stocking stuffer",
-          "gifts for her",
-          "chapped lips",
-          "over 40"
-        ],
-        "text": "Stocking stuffers for the women over 40 on your list:\n\n• Multi Stick Balm for dry lips and cheeks\n• Glow Up Lip Oil, a lip mask overnight\n• Butter Lip Liner, new this fall\n• Suamel Body Cream, fresh out of the shower\n\nSave this for your list. 🎁",
-        "picture_tip": "The four products peeking out of a red or knit stocking on a wooden table, a little fairy-light glow, logo sticker or gift tag reading Cat's Health and Beauty.",
-        "video_tip": "6-8s: hand drops each product into the stocking one by one (Balm, Lip Oil, Liner, Body Cream), final shot of the full stocking. On-screen text: 'Stocking stuffers for her, 40+'.",
-        "chars": 244,
-        "intent_url": "https://x.com/intent/post?text=Stocking%20stuffers%20for%20the%20women%20over%2040%20on%20your%20list%3A%0A%0A%E2%80%A2%20Multi%20Stick%20Balm%20for%20dry%20lips%20and%20cheeks%0A%E2%80%A2%20Glow%20Up%20Lip%20Oil%2C%20a%20lip%20mask%20overnight%0A%E2%80%A2%20Butter%20Lip%20Liner%2C%20new%20this%20fall%0A%E2%80%A2%20Suamel%20Body%20Cream%2C%20fresh%20out%20of%20the%20shower%0A%0ASave%20this%20for%20your%20list.%20%F0%9F%8E%81"
+        "text": "Skin barrier talk is back all over my feed. Good.\n\nWinter on the Sunshine Coast is hard on mature skin. I keep it simple:\nCleanser. Booster. Serum. Cream.\nOn dry skin, and I let each layer dry.\n\nTry it on your own hand at Trail Bay, Sechelt this Friday, Nov 27, 11 to 4.",
+        "picture_tip": "Your Balancing Gel Cleanser, Booster EX, Serum EX and Dermatology Cream in a row on the counter with rain on the window behind, soft daylight.",
+        "video_tip": "8-12s: set down each of the 4 products in order (text 'Dry skin first', then 'Let it dry'), end on the Trail Bay poster.",
+        "chars": 270,
+        "intent_url": "https://x.com/intent/post?text=Skin%20barrier%20talk%20is%20back%20all%20over%20my%20feed.%20Good.%0A%0AWinter%20on%20the%20Sunshine%20Coast%20is%20hard%20on%20mature%20skin.%20I%20keep%20it%20simple%3A%0ACleanser.%20Booster.%20Serum.%20Cream.%0AOn%20dry%20skin%2C%20and%20I%20let%20each%20layer%20dry.%0A%0ATry%20it%20on%20your%20own%20hand%20at%20Trail%20Bay%2C%20Sechelt%20this%20Friday%2C%20Nov%2027%2C%2011%20to%204."
       }
     ]
   },
@@ -210,8 +182,8 @@
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 52,
-      "total_views": 98,
+      "views": 55,
+      "total_views": 105,
       "hit": false
     },
     {
@@ -260,16 +232,16 @@
   "you_rank": null,
   "trend_input_only_posts": [],
   "leaderboards": {
-    "as_of": "2026-11-22",
+    "as_of": "2026-11-23",
     "tracking_start": "2026-10-27",
     "days_included": [
-      "2026-11-16",
       "2026-11-17",
       "2026-11-18",
       "2026-11-19",
       "2026-11-20",
       "2026-11-21",
-      "2026-11-22"
+      "2026-11-22",
+      "2026-11-23"
     ],
     "month_days_included": [
       "2026-11-01",
@@ -293,13 +265,14 @@
       "2026-11-19",
       "2026-11-20",
       "2026-11-21",
-      "2026-11-22"
+      "2026-11-22",
+      "2026-11-23"
     ],
     "week": {
-      "label": "Rolling week · Nov 16–Nov 22",
+      "label": "Rolling week · Nov 17–Nov 23",
       "range": [
-        "2026-11-16",
-        "2026-11-22"
+        "2026-11-17",
+        "2026-11-23"
       ],
       "entries": []
     },
@@ -307,7 +280,7 @@
       "label": "November 2026 · from Nov 1",
       "range": [
         "2026-11-01",
-        "2026-11-22"
+        "2026-11-23"
       ],
       "entries": []
     }
