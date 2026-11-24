@@ -1,12 +1,20 @@
 {
   "title": "Cat's Health and Beauty · daily X skincare digest - 2026-11-19",
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "timezone": "America/Vancouver",
-  "updated": "2026-11-23T18:02:56Z",
+  "updated": "2026-11-24T09:40:35-07:00",
   "brand_title": "Cat's Health and Beauty · X Skincare Board",
   "brand_handle": "@CatsBeauty26",
   "virals_title": "Outsiders · last 48h",
-  "hits": [],
+  "hits": [
+    {
+      "handle": "cerave",
+      "views": 50917,
+      "url": "https://x.com/cerave/status/2123890713431818387",
+      "posted_at": "2026-11-20T21:26:20.000Z",
+      "text": "Lucia keeping your relationship alive https://t.co/DzRXsyYaJz https://t.co/do3QAwu7tL"
+    }
+  ],
   "virals": [],
   "outsiders": [],
   "patterns": [],
@@ -18,13 +26,13 @@
     },
     {
       "handle": "DiscoverSelf",
-      "reason": "2 originals in the last 7 days; highest 55 views",
-      "max_views": 55
+      "reason": "2 originals in the last 7 days; highest 57 views",
+      "max_views": 57
     },
     {
       "handle": "cerave",
-      "reason": "0 originals in the last 7 days; highest 0 views",
-      "max_views": 0
+      "reason": "3 originals in the last 7 days; highest 50,917 views",
+      "max_views": 50917
     },
     {
       "handle": "LabMuffin",
@@ -56,14 +64,38 @@
   "narrative_synthesis": "",
   "virals_window": "last ~48h",
   "virals_target": 0,
-  "hits_count": 0,
+  "hits_count": 1,
   "outsiders_count": 0,
-  "watch_window": "2026-11-16T18Z to 2026-11-23T18:02Z",
+  "watch_window": "2026-11-17T16Z to 2026-11-24T16:40Z",
   "watchlist_posts_7d": [
+    {
+      "handle": "cerave",
+      "name": "CeraVe",
+      "views": 50917,
+      "url": "https://x.com/cerave/status/2123890713431818387",
+      "posted_at": "2026-11-20T21:26:20.000Z",
+      "text": "Lucia keeping your relationship alive https://t.co/DzRXsyYaJz https://t.co/do3QAwu7tL"
+    },
+    {
+      "handle": "cerave",
+      "name": "CeraVe",
+      "views": 3608,
+      "url": "https://x.com/cerave/status/2123107447824904702",
+      "posted_at": "2026-11-18T17:33:55.000Z",
+      "text": "no sunscreen because the sun is not seeing me today https://t.co/7Heuo1XXsu"
+    },
+    {
+      "handle": "cerave",
+      "name": "CeraVe",
+      "views": 1380,
+      "url": "https://x.com/cerave/status/2122912983395213320",
+      "posted_at": "2026-11-18T04:41:11.000Z",
+      "text": "momma look i made it https://t.co/b3dfjvCPFV"
+    },
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 55,
+      "views": 57,
       "url": "https://x.com/DiscoverSelf/status/2123503731937611939",
       "posted_at": "2026-11-19T19:48:37.000Z",
       "text": "Incredible #giftidea for you or anybody in your family-friends circle – Organic Herbs &amp; Spices to cook with, add to fresh salads, enjoy the aromas to support you! Enter to #Win this festive set! #giveaways #giveaway #HolidaySeason #Holidays https://t.co/59AeOnqRKE https://t.co/WhI0LTUqWi"
@@ -71,7 +103,7 @@
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 50,
+      "views": 52,
       "url": "https://x.com/DiscoverSelf/status/2123519431439511651",
       "posted_at": "2026-11-19T20:51:00.000Z",
       "text": "Winter air makes #menopause #skin feel even drier. A creamy shea butter bar turns a warm-water hand wash into a small ritual she will look forward to. #soap #gifts #giftsforher https://t.co/ktZ09wiYDa https://t.co/2fiK3CFRTN"
@@ -79,46 +111,18 @@
   ],
   "drafts_today": [
     {
-      "topic": "RIMAN Black Friday bundles are live: 3-question cheat sheet",
+      "topic": "Side income from home in my 70s: markets, mini-facials, home parties",
       "keywords": [
-        "Black Friday",
-        "holiday bundles",
-        "gift",
-        "skin after 40"
+        "side income",
+        "side hustle",
+        "RIMAN",
+        "home parties"
       ],
-      "text": "RIMAN's Black Friday holiday bundles are live. Six bundles, up to 57% in free value, until Fri Nov 27, 11:59 PM PT.\n\nMy 3-question cheat sheet:\n1. For you, or a gift?\n2. Starting fresh, or restocking?\n3. Is your skin tight by noon?\n\nReply and I'll point you to one.",
-      "picture_tip": "Your real RIMAN boxes stacked with a gift bag and tissue beside them on the kitchen table, daylight from the window, a sticky note reading 'Ends Fri 11:59 PM'. Square or 4:5.",
-      "video_tip": "8-10s: hands set down three products one at a time while on-screen text shows 1 / 2 / 3 from the cheat sheet; end on the gift bag. No talking needed.",
-      "chars": 265,
-      "intent_url": "https://x.com/intent/post?text=RIMAN's%20Black%20Friday%20holiday%20bundles%20are%20live.%20Six%20bundles%2C%20up%20to%2057%25%20in%20free%20value%2C%20until%20Fri%20Nov%2027%2C%2011%3A59%20PM%20PT.%0A%0AMy%203-question%20cheat%20sheet%3A%0A1.%20For%20you%2C%20or%20a%20gift%3F%0A2.%20Starting%20fresh%2C%20or%20restocking%3F%0A3.%20Is%20your%20skin%20tight%20by%20noon%3F%0A%0AReply%20and%20I'll%20point%20you%20to%20one."
-    },
-    {
-      "topic": "Myth-bust: your cream isn't failing, the order might be",
-      "keywords": [
-        "winter dryness",
-        "Boo-Se-Boo",
-        "Dermatology Cream",
-        "over 40"
-      ],
-      "text": "Your cream isn't failing this winter. The order might be.\n\nWhat I do after 40:\nBooster. Wait.\nSerum. Let it absorb.\nBooster again.\nCream to seal it in.\n\nDry skin first, one layer at a time.\n\nSave this for tonight. I use RIMAN Dermatology Cream for that last step.",
-      "picture_tip": "Booster EX, Serum EX, Booster EX again and Dermatology Cream with its spatula lined up left to right on the bathroom counter, soft lamp light.",
-      "video_tip": "12-15s at the bathroom mirror: pat face dry with a cloth, spray Booster and wait (text 'Wait'), massage in Serum, spray Booster again, spatula of Cream massaged in. Text on each step.",
-      "chars": 263,
-      "intent_url": "https://x.com/intent/post?text=Your%20cream%20isn't%20failing%20this%20winter.%20The%20order%20might%20be.%0A%0AWhat%20I%20do%20after%2040%3A%0ABooster.%20Wait.%0ASerum.%20Let%20it%20absorb.%0ABooster%20again.%0ACream%20to%20seal%20it%20in.%0A%0ADry%20skin%20first%2C%20one%20layer%20at%20a%20time.%0A%0ASave%20this%20for%20tonight.%20I%20use%20RIMAN%20Dermatology%20Cream%20for%20that%20last%20step."
-    },
-    {
-      "topic": "Trail Bay Friday = last day of the bundles",
-      "keywords": [
-        "Trail Bay",
-        "Sechelt",
-        "Black Friday",
-        "candy draw"
-      ],
-      "text": "Black Friday plans on the Coast?\n\nI'll be at Trail Bay Centre in Sechelt on Fri Nov 27, 11 to 4. It's the last day of RIMAN's holiday bundles.\n\nTry a sample on your hand and guess the candies in the tub to win a Multi Stick Balm, a facial, or both.\n\nBack again Sun Nov 29.",
-      "picture_tip": "You holding the candy tub next to your Trail Bay poster at home, natural light, big smile.",
-      "video_tip": "6-8s: shake the candy tub at the camera, text 'How many? Trail Bay, Fri Nov 27, 11-4', end on the Multi Stick Balm in your palm.",
-      "chars": 272,
-      "intent_url": "https://x.com/intent/post?text=Black%20Friday%20plans%20on%20the%20Coast%3F%0A%0AI'll%20be%20at%20Trail%20Bay%20Centre%20in%20Sechelt%20on%20Fri%20Nov%2027%2C%2011%20to%204.%20It's%20the%20last%20day%20of%20RIMAN's%20holiday%20bundles.%0A%0ATry%20a%20sample%20on%20your%20hand%20and%20guess%20the%20candies%20in%20the%20tub%20to%20win%20a%20Multi%20Stick%20Balm%2C%20a%20facial%2C%20or%20both.%0A%0ABack%20again%20Sun%20Nov%2029."
+      "text": "Side hustle posts are everywhere this week.\n\nHere's mine, in my 70s on the Sunshine Coast:\nA table at the local mall market.\nMini-facials where you apply it yourself while I guide you.\nA few home parties with friends.\n\nNo get-rich promises. Just real skin, real people, steady work.",
+      "chars": 282,
+      "intent_url": "https://x.com/intent/post?text=Side%20hustle%20posts%20are%20everywhere%20this%20week.%0A%0AHere's%20mine%2C%20in%20my%2070s%20on%20the%20Sunshine%20Coast%3A%0AA%20table%20at%20the%20local%20mall%20market.%0AMini-facials%20where%20you%20apply%20it%20yourself%20while%20I%20guide%20you.%0AA%20few%20home%20parties%20with%20friends.%0A%0ANo%20get-rich%20promises.%20Just%20real%20skin%2C%20real%20people%2C%20steady%20work.",
+      "picture_tip": "Your market table set up at Trail Bay or Sunnycrest, products lined up, your hands in frame. 4:5.",
+      "video_tip": "8s pan across the market table, ending on a customer's hands trying product. On-screen text: 'My side income in my 70s'."
     }
   ],
   "trend_keywords": {
@@ -148,46 +152,18 @@
   "trend_radar": {
     "ideas": [
       {
-        "topic": "RIMAN Black Friday bundles are live: 3-question cheat sheet",
+        "topic": "Side income from home in my 70s: markets, mini-facials, home parties",
         "keywords": [
-          "Black Friday",
-          "holiday bundles",
-          "gift",
-          "skin after 40"
+          "side income",
+          "side hustle",
+          "RIMAN",
+          "home parties"
         ],
-        "text": "RIMAN's Black Friday holiday bundles are live. Six bundles, up to 57% in free value, until Fri Nov 27, 11:59 PM PT.\n\nMy 3-question cheat sheet:\n1. For you, or a gift?\n2. Starting fresh, or restocking?\n3. Is your skin tight by noon?\n\nReply and I'll point you to one.",
-        "picture_tip": "Your real RIMAN boxes stacked with a gift bag and tissue beside them on the kitchen table, daylight from the window, a sticky note reading 'Ends Fri 11:59 PM'. Square or 4:5.",
-        "video_tip": "8-10s: hands set down three products one at a time while on-screen text shows 1 / 2 / 3 from the cheat sheet; end on the gift bag. No talking needed.",
-        "chars": 265,
-        "intent_url": "https://x.com/intent/post?text=RIMAN's%20Black%20Friday%20holiday%20bundles%20are%20live.%20Six%20bundles%2C%20up%20to%2057%25%20in%20free%20value%2C%20until%20Fri%20Nov%2027%2C%2011%3A59%20PM%20PT.%0A%0AMy%203-question%20cheat%20sheet%3A%0A1.%20For%20you%2C%20or%20a%20gift%3F%0A2.%20Starting%20fresh%2C%20or%20restocking%3F%0A3.%20Is%20your%20skin%20tight%20by%20noon%3F%0A%0AReply%20and%20I'll%20point%20you%20to%20one."
-      },
-      {
-        "topic": "Myth-bust: your cream isn't failing, the order might be",
-        "keywords": [
-          "winter dryness",
-          "Boo-Se-Boo",
-          "Dermatology Cream",
-          "over 40"
-        ],
-        "text": "Your cream isn't failing this winter. The order might be.\n\nWhat I do after 40:\nBooster. Wait.\nSerum. Let it absorb.\nBooster again.\nCream to seal it in.\n\nDry skin first, one layer at a time.\n\nSave this for tonight. I use RIMAN Dermatology Cream for that last step.",
-        "picture_tip": "Booster EX, Serum EX, Booster EX again and Dermatology Cream with its spatula lined up left to right on the bathroom counter, soft lamp light.",
-        "video_tip": "12-15s at the bathroom mirror: pat face dry with a cloth, spray Booster and wait (text 'Wait'), massage in Serum, spray Booster again, spatula of Cream massaged in. Text on each step.",
-        "chars": 263,
-        "intent_url": "https://x.com/intent/post?text=Your%20cream%20isn't%20failing%20this%20winter.%20The%20order%20might%20be.%0A%0AWhat%20I%20do%20after%2040%3A%0ABooster.%20Wait.%0ASerum.%20Let%20it%20absorb.%0ABooster%20again.%0ACream%20to%20seal%20it%20in.%0A%0ADry%20skin%20first%2C%20one%20layer%20at%20a%20time.%0A%0ASave%20this%20for%20tonight.%20I%20use%20RIMAN%20Dermatology%20Cream%20for%20that%20last%20step."
-      },
-      {
-        "topic": "Trail Bay Friday = last day of the bundles",
-        "keywords": [
-          "Trail Bay",
-          "Sechelt",
-          "Black Friday",
-          "candy draw"
-        ],
-        "text": "Black Friday plans on the Coast?\n\nI'll be at Trail Bay Centre in Sechelt on Fri Nov 27, 11 to 4. It's the last day of RIMAN's holiday bundles.\n\nTry a sample on your hand and guess the candies in the tub to win a Multi Stick Balm, a facial, or both.\n\nBack again Sun Nov 29.",
-        "picture_tip": "You holding the candy tub next to your Trail Bay poster at home, natural light, big smile.",
-        "video_tip": "6-8s: shake the candy tub at the camera, text 'How many? Trail Bay, Fri Nov 27, 11-4', end on the Multi Stick Balm in your palm.",
-        "chars": 272,
-        "intent_url": "https://x.com/intent/post?text=Black%20Friday%20plans%20on%20the%20Coast%3F%0A%0AI'll%20be%20at%20Trail%20Bay%20Centre%20in%20Sechelt%20on%20Fri%20Nov%2027%2C%2011%20to%204.%20It's%20the%20last%20day%20of%20RIMAN's%20holiday%20bundles.%0A%0ATry%20a%20sample%20on%20your%20hand%20and%20guess%20the%20candies%20in%20the%20tub%20to%20win%20a%20Multi%20Stick%20Balm%2C%20a%20facial%2C%20or%20both.%0A%0ABack%20again%20Sun%20Nov%2029."
+        "text": "Side hustle posts are everywhere this week.\n\nHere's mine, in my 70s on the Sunshine Coast:\nA table at the local mall market.\nMini-facials where you apply it yourself while I guide you.\nA few home parties with friends.\n\nNo get-rich promises. Just real skin, real people, steady work.",
+        "chars": 282,
+        "intent_url": "https://x.com/intent/post?text=Side%20hustle%20posts%20are%20everywhere%20this%20week.%0A%0AHere's%20mine%2C%20in%20my%2070s%20on%20the%20Sunshine%20Coast%3A%0AA%20table%20at%20the%20local%20mall%20market.%0AMini-facials%20where%20you%20apply%20it%20yourself%20while%20I%20guide%20you.%0AA%20few%20home%20parties%20with%20friends.%0A%0ANo%20get-rich%20promises.%20Just%20real%20skin%2C%20real%20people%2C%20steady%20work.",
+        "picture_tip": "Your market table set up at Trail Bay or Sunnycrest, products lined up, your hands in frame. 4:5.",
+        "video_tip": "8s pan across the market table, ending on a customer's hands trying product. On-screen text: 'My side income in my 70s'."
       }
     ]
   },
@@ -210,15 +186,15 @@
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 55,
-      "total_views": 105,
+      "views": 57,
+      "total_views": 109,
       "hit": false
     },
     {
       "handle": "cerave",
       "name": "CeraVe",
-      "views": 0,
-      "total_views": 0,
+      "views": 50917,
+      "total_views": 55905,
       "hit": false
     },
     {
