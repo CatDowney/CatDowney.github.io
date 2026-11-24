@@ -2,19 +2,11 @@
   "title": "Cat's Health and Beauty · daily X skincare digest - 2026-11-19",
   "date": "2026-11-24",
   "timezone": "America/Vancouver",
-  "updated": "2026-11-24T09:40:45-07:00",
+  "updated": "2026-11-24T11:01:12-07:00",
   "brand_title": "Cat's Health and Beauty · X Skincare Board",
   "brand_handle": "@CatsBeauty26",
   "virals_title": "Outsiders · last 48h",
-  "hits": [
-    {
-      "handle": "cerave",
-      "views": 50917,
-      "url": "https://x.com/cerave/status/2123890713431818387",
-      "posted_at": "2026-11-20T21:26:20.000Z",
-      "text": "Lucia keeping your relationship alive https://t.co/DzRXsyYaJz https://t.co/do3QAwu7tL"
-    }
-  ],
+  "hits": [],
   "virals": [],
   "outsiders": [],
   "patterns": [],
@@ -31,8 +23,8 @@
     },
     {
       "handle": "cerave",
-      "reason": "3 originals in the last 7 days; highest 50,917 views",
-      "max_views": 50917
+      "reason": "0 originals in the last 7 days; highest 0 views",
+      "max_views": 0
     },
     {
       "handle": "LabMuffin",
@@ -64,34 +56,10 @@
   "narrative_synthesis": "",
   "virals_window": "last ~48h",
   "virals_target": 0,
-  "hits_count": 1,
+  "hits_count": 0,
   "outsiders_count": 0,
-  "watch_window": "2026-11-17T16Z to 2026-11-24T16:40Z",
+  "watch_window": "2026-11-17T17Z to 2026-11-24T18:01Z",
   "watchlist_posts_7d": [
-    {
-      "handle": "cerave",
-      "name": "CeraVe",
-      "views": 50917,
-      "url": "https://x.com/cerave/status/2123890713431818387",
-      "posted_at": "2026-11-20T21:26:20.000Z",
-      "text": "Lucia keeping your relationship alive https://t.co/DzRXsyYaJz https://t.co/do3QAwu7tL"
-    },
-    {
-      "handle": "cerave",
-      "name": "CeraVe",
-      "views": 3608,
-      "url": "https://x.com/cerave/status/2123107447824904702",
-      "posted_at": "2026-11-18T17:33:55.000Z",
-      "text": "no sunscreen because the sun is not seeing me today https://t.co/7Heuo1XXsu"
-    },
-    {
-      "handle": "cerave",
-      "name": "CeraVe",
-      "views": 1380,
-      "url": "https://x.com/cerave/status/2122912983395213320",
-      "posted_at": "2026-11-18T04:41:11.000Z",
-      "text": "momma look i made it https://t.co/b3dfjvCPFV"
-    },
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
@@ -111,18 +79,44 @@
   ],
   "drafts_today": [
     {
-      "topic": "Side income from home in my 70s: markets, mini-facials, home parties",
+      "topic": "Black Friday deal question (rides 'Bestie, what's your Black Friday skincare deal?' 46,729 views)",
       "keywords": [
-        "side income",
-        "side hustle",
-        "RIMAN",
-        "home parties"
+        "black friday",
+        "skincare deal",
+        "RIMAN bundles"
       ],
-      "text": "Side hustle posts are everywhere this week.\n\nHere's mine, in my 70s on the Sunshine Coast:\nA table at the local market.\nMini-facials where you apply it yourself while I guide you.\nA few home parties with friends.\n\nNo get-rich promises. Just real skin, real people, steady work.",
-      "chars": 277,
-      "intent_url": "https://x.com/intent/post?text=Side%20hustle%20posts%20are%20everywhere%20this%20week.%0A%0AHere's%20mine%2C%20in%20my%2070s%20on%20the%20Sunshine%20Coast%3A%0AA%20table%20at%20the%20local%20market.%0AMini-facials%20where%20you%20apply%20it%20yourself%20while%20I%20guide%20you.%0AA%20few%20home%20parties%20with%20friends.%0A%0ANo%20get-rich%20promises.%20Just%20real%20skin%2C%20real%20people%2C%20steady%20work.",
-      "picture_tip": "Your market table set up at Trail Bay or Sunnycrest, products lined up, your hands in frame. 4:5.",
-      "video_tip": "8s pan across the market table, ending on a customer's hands trying product. On-screen text: 'My side income in my 70s'."
+      "text": "Bestie, what's your Black Friday skincare deal?\n\nMine: RIMAN's holiday bundles. Up to 57% in free value, and the gift bag and tissue come with them.\n\nThey end Friday at 11:59 PM PT.\n\nWho are you shopping for first: you, your mom, or your sister?",
+      "picture_tip": "One bundle box (or your products) beside the free gift bag and tissue on your kitchen table, morning window light. Plain photo, no text.",
+      "video_tip": "6-8s: your hand slides the gift bag into frame, tucks tissue in, drops a product in. On-screen text: 'Ends Fri 11:59 PM PT'.",
+      "chars": 245,
+      "intent_url": "https://x.com/intent/post?text=Bestie%2C%20what's%20your%20Black%20Friday%20skincare%20deal%3F%0A%0AMine%3A%20RIMAN's%20holiday%20bundles.%20Up%20to%2057%25%20in%20free%20value%2C%20and%20the%20gift%20bag%20and%20tissue%20come%20with%20them.%0A%0AThey%20end%20Friday%20at%2011%3A59%20PM%20PT.%0A%0AWho%20are%20you%20shopping%20for%20first%3A%20you%2C%20your%20mom%2C%20or%20your%20sister%3F"
+    },
+    {
+      "topic": "Less makeup after 50: 3-step holiday face (rides 'sell makeup to women over 50' 808 views / 12 bookmarks)",
+      "keywords": [
+        "makeup over 50",
+        "holiday makeup",
+        "Sheer Glow BB"
+      ],
+      "text": "Holiday makeup after 50 doesn't mean more makeup.\n\nMy 3 steps, after my skincare has fully settled:\n1. Sheer Glow BB, dotted on and blended with fingertips\n2. Butter Lip Liner, then Butter Lip Tint, patted to set\n3. Set & Stay spray to finish\n\nSave this for party season.",
+      "picture_tip": "Flat lay on your bathroom counter: Sheer Glow BB, Butter Lip Liner, Butter Lip Tint, Set & Stay in a row, numbered 1-2-3 with small sticky notes.",
+      "video_tip": "12-15s: dot BB on forehead, cheeks, nose, chin; blend with fingertips; line lips from the centre out; pat the tint; 2 sprays of Set & Stay. On-screen text: 'Holiday face after 50: 3 steps'.",
+      "chars": 271,
+      "intent_url": "https://x.com/intent/post?text=Holiday%20makeup%20after%2050%20doesn't%20mean%20more%20makeup.%0A%0AMy%203%20steps%2C%20after%20my%20skincare%20has%20fully%20settled%3A%0A1.%20Sheer%20Glow%20BB%2C%20dotted%20on%20and%20blended%20with%20fingertips%0A2.%20Butter%20Lip%20Liner%2C%20then%20Butter%20Lip%20Tint%2C%20patted%20to%20set%0A3.%20Set%20%26%20Stay%20spray%20to%20finish%0A%0ASave%20this%20for%20party%20season."
+    },
+    {
+      "topic": "Shop small weekend at Trail Bay Centre (Small Business Saturday Nov 28; CFIB 'shop local' push)",
+      "keywords": [
+        "shop small",
+        "shop local",
+        "Sechelt",
+        "Trail Bay"
+      ],
+      "text": "Shop small this weekend, Sunshine Coast.\n\nFind me at Trail Bay Centre in Sechelt:\nFri Nov 27, 11 to 4 (last day of RIMAN's holiday bundles)\nSun Nov 29\n\nTry the products on your own hands, and guess the candies in the tub to win a Multi Stick Balm, a facial, or both.",
+      "picture_tip": "Your Trail Bay poster held up next to the candy tub on your table, with the logo in view.",
+      "video_tip": "8-10s: shake the candy tub, set it on the table, pan to the products. On-screen text: 'Guess the candies. Trail Bay, Fri + Sun'.",
+      "chars": 266,
+      "intent_url": "https://x.com/intent/post?text=Shop%20small%20this%20weekend%2C%20Sunshine%20Coast.%0A%0AFind%20me%20at%20Trail%20Bay%20Centre%20in%20Sechelt%3A%0AFri%20Nov%2027%2C%2011%20to%204%20(last%20day%20of%20RIMAN's%20holiday%20bundles)%0ASun%20Nov%2029%0A%0ATry%20the%20products%20on%20your%20own%20hands%2C%20and%20guess%20the%20candies%20in%20the%20tub%20to%20win%20a%20Multi%20Stick%20Balm%2C%20a%20facial%2C%20or%20both."
     }
   ],
   "trend_keywords": {
@@ -152,18 +146,44 @@
   "trend_radar": {
     "ideas": [
       {
-        "topic": "Side income from home in my 70s: markets, mini-facials, home parties",
+        "topic": "Black Friday deal question (rides 'Bestie, what's your Black Friday skincare deal?' 46,729 views)",
         "keywords": [
-          "side income",
-          "side hustle",
-          "RIMAN",
-          "home parties"
+          "black friday",
+          "skincare deal",
+          "RIMAN bundles"
         ],
-        "text": "Side hustle posts are everywhere this week.\n\nHere's mine, in my 70s on the Sunshine Coast:\nA table at the local market.\nMini-facials where you apply it yourself while I guide you.\nA few home parties with friends.\n\nNo get-rich promises. Just real skin, real people, steady work.",
-        "chars": 277,
-        "intent_url": "https://x.com/intent/post?text=Side%20hustle%20posts%20are%20everywhere%20this%20week.%0A%0AHere's%20mine%2C%20in%20my%2070s%20on%20the%20Sunshine%20Coast%3A%0AA%20table%20at%20the%20local%20market.%0AMini-facials%20where%20you%20apply%20it%20yourself%20while%20I%20guide%20you.%0AA%20few%20home%20parties%20with%20friends.%0A%0ANo%20get-rich%20promises.%20Just%20real%20skin%2C%20real%20people%2C%20steady%20work.",
-        "picture_tip": "Your market table set up at Trail Bay or Sunnycrest, products lined up, your hands in frame. 4:5.",
-        "video_tip": "8s pan across the market table, ending on a customer's hands trying product. On-screen text: 'My side income in my 70s'."
+        "text": "Bestie, what's your Black Friday skincare deal?\n\nMine: RIMAN's holiday bundles. Up to 57% in free value, and the gift bag and tissue come with them.\n\nThey end Friday at 11:59 PM PT.\n\nWho are you shopping for first: you, your mom, or your sister?",
+        "picture_tip": "One bundle box (or your products) beside the free gift bag and tissue on your kitchen table, morning window light. Plain photo, no text.",
+        "video_tip": "6-8s: your hand slides the gift bag into frame, tucks tissue in, drops a product in. On-screen text: 'Ends Fri 11:59 PM PT'.",
+        "chars": 245,
+        "intent_url": "https://x.com/intent/post?text=Bestie%2C%20what's%20your%20Black%20Friday%20skincare%20deal%3F%0A%0AMine%3A%20RIMAN's%20holiday%20bundles.%20Up%20to%2057%25%20in%20free%20value%2C%20and%20the%20gift%20bag%20and%20tissue%20come%20with%20them.%0A%0AThey%20end%20Friday%20at%2011%3A59%20PM%20PT.%0A%0AWho%20are%20you%20shopping%20for%20first%3A%20you%2C%20your%20mom%2C%20or%20your%20sister%3F"
+      },
+      {
+        "topic": "Less makeup after 50: 3-step holiday face (rides 'sell makeup to women over 50' 808 views / 12 bookmarks)",
+        "keywords": [
+          "makeup over 50",
+          "holiday makeup",
+          "Sheer Glow BB"
+        ],
+        "text": "Holiday makeup after 50 doesn't mean more makeup.\n\nMy 3 steps, after my skincare has fully settled:\n1. Sheer Glow BB, dotted on and blended with fingertips\n2. Butter Lip Liner, then Butter Lip Tint, patted to set\n3. Set & Stay spray to finish\n\nSave this for party season.",
+        "picture_tip": "Flat lay on your bathroom counter: Sheer Glow BB, Butter Lip Liner, Butter Lip Tint, Set & Stay in a row, numbered 1-2-3 with small sticky notes.",
+        "video_tip": "12-15s: dot BB on forehead, cheeks, nose, chin; blend with fingertips; line lips from the centre out; pat the tint; 2 sprays of Set & Stay. On-screen text: 'Holiday face after 50: 3 steps'.",
+        "chars": 271,
+        "intent_url": "https://x.com/intent/post?text=Holiday%20makeup%20after%2050%20doesn't%20mean%20more%20makeup.%0A%0AMy%203%20steps%2C%20after%20my%20skincare%20has%20fully%20settled%3A%0A1.%20Sheer%20Glow%20BB%2C%20dotted%20on%20and%20blended%20with%20fingertips%0A2.%20Butter%20Lip%20Liner%2C%20then%20Butter%20Lip%20Tint%2C%20patted%20to%20set%0A3.%20Set%20%26%20Stay%20spray%20to%20finish%0A%0ASave%20this%20for%20party%20season."
+      },
+      {
+        "topic": "Shop small weekend at Trail Bay Centre (Small Business Saturday Nov 28; CFIB 'shop local' push)",
+        "keywords": [
+          "shop small",
+          "shop local",
+          "Sechelt",
+          "Trail Bay"
+        ],
+        "text": "Shop small this weekend, Sunshine Coast.\n\nFind me at Trail Bay Centre in Sechelt:\nFri Nov 27, 11 to 4 (last day of RIMAN's holiday bundles)\nSun Nov 29\n\nTry the products on your own hands, and guess the candies in the tub to win a Multi Stick Balm, a facial, or both.",
+        "picture_tip": "Your Trail Bay poster held up next to the candy tub on your table, with the logo in view.",
+        "video_tip": "8-10s: shake the candy tub, set it on the table, pan to the products. On-screen text: 'Guess the candies. Trail Bay, Fri + Sun'.",
+        "chars": 266,
+        "intent_url": "https://x.com/intent/post?text=Shop%20small%20this%20weekend%2C%20Sunshine%20Coast.%0A%0AFind%20me%20at%20Trail%20Bay%20Centre%20in%20Sechelt%3A%0AFri%20Nov%2027%2C%2011%20to%204%20(last%20day%20of%20RIMAN's%20holiday%20bundles)%0ASun%20Nov%2029%0A%0ATry%20the%20products%20on%20your%20own%20hands%2C%20and%20guess%20the%20candies%20in%20the%20tub%20to%20win%20a%20Multi%20Stick%20Balm%2C%20a%20facial%2C%20or%20both."
       }
     ]
   },
@@ -193,8 +213,8 @@
     {
       "handle": "cerave",
       "name": "CeraVe",
-      "views": 50917,
-      "total_views": 55905,
+      "views": 0,
+      "total_views": 0,
       "hit": false
     },
     {
@@ -236,16 +256,16 @@
   "you_rank": null,
   "trend_input_only_posts": [],
   "leaderboards": {
-    "as_of": "2026-11-23",
+    "as_of": "2026-11-24",
     "tracking_start": "2026-10-27",
     "days_included": [
-      "2026-11-17",
       "2026-11-18",
       "2026-11-19",
       "2026-11-20",
       "2026-11-21",
       "2026-11-22",
-      "2026-11-23"
+      "2026-11-23",
+      "2026-11-24"
     ],
     "month_days_included": [
       "2026-11-01",
@@ -270,13 +290,14 @@
       "2026-11-20",
       "2026-11-21",
       "2026-11-22",
-      "2026-11-23"
+      "2026-11-23",
+      "2026-11-24"
     ],
     "week": {
-      "label": "Rolling week · Nov 17–Nov 23",
+      "label": "Rolling week · Nov 18–Nov 24",
       "range": [
-        "2026-11-17",
-        "2026-11-23"
+        "2026-11-18",
+        "2026-11-24"
       ],
       "entries": []
     },
@@ -284,7 +305,7 @@
       "label": "November 2026 · from Nov 1",
       "range": [
         "2026-11-01",
-        "2026-11-23"
+        "2026-11-24"
       ],
       "entries": []
     }
