@@ -2,7 +2,7 @@
   "title": "Cat's Health and Beauty · daily X skincare digest - 2026-11-19",
   "date": "2026-11-25",
   "timezone": "America/Vancouver",
-  "updated": "2026-11-25T09:39:59-07:00",
+  "updated": "2026-11-25T11:04:59-07:00",
   "brand_title": "Cat's Health and Beauty · X Skincare Board",
   "brand_handle": "@CatsBeauty26",
   "virals_title": "Outsiders · last 48h",
@@ -58,7 +58,7 @@
   "virals_target": 0,
   "hits_count": 0,
   "outsiders_count": 0,
-  "watch_window": "2026-11-18T16Z to 2026-11-25T16:39Z",
+  "watch_window": "2026-11-18T18Z to 2026-11-25T18:04Z",
   "watchlist_posts_7d": [
     {
       "handle": "DiscoverSelf",
@@ -79,42 +79,46 @@
   ],
   "drafts_today": [
     {
-      "topic": "GLP-1, no hype (rides @thegarybrecka 'your body already produces GLP-1', 11,526 views)",
-      "platform": "X",
+      "topic": "Trail Bay Black Friday weekend: come see me (draw teaser)",
       "keywords": [
-        "GLP-1",
-        "Purple Drink",
-        "no hype"
+        "shop local",
+        "Black Friday",
+        "Sechelt"
       ],
-      "text": "The big wellness accounts are all talking about GLP-1 this week.\n\nShort version: your body already makes it. It's the hormone the weight-loss shots are built to copy.\n\nThat's why I drink my Purple Drink. No miracle promises from me. Just what actually changes, and what doesn't.\n\nWhat would you want me to track?",
-      "chars": 312,
-      "intent_url": "https://x.com/intent/post?text=The%20big%20wellness%20accounts%20are%20all%20talking%20about%20GLP-1%20this%20week.%0A%0AShort%20version%3A%20your%20body%20already%20makes%20it.%20It's%20the%20hormone%20the%20weight-loss%20shots%20are%20built%20to%20copy.%0A%0AThat's%20why%20I%20drink%20my%20Purple%20Drink.%20No%20miracle%20promises%20from%20me.%20Just%20what%20actually%20changes%2C%20and%20what%20doesn't.%0A%0AWhat%20would%20you%20want%20me%20to%20track%3F",
-      "picture_tip": "Your Purple Drink in a clear glass on the kitchen counter, morning light. Plain photo, no text."
+      "text": "Shopping local this Black Friday on the Sunshine Coast?\n\nCome find me at Trail Bay Centre in Sechelt:\nFri, Nov 27, 11–4\nSun, Nov 29\n\nTry the RIMAN products on your own hands, and guess how many candies are in my tub to win a Multi Stick Balm or a facial.\n\nSee you there? 🎁",
+      "picture_tip": "Your candy tub front and centre on the booth table, RIMAN products lined up behind it, a handwritten 'Guess & win!' card. Shot in daylight, square or 4:5.",
+      "video_tip": "8–10 s: slow push-in on the candy tub (2 s), pan to the Multi Stick Balm and a facial card (3 s), end on you waving behind the table (3 s). On-screen text: 'Trail Bay · Fri 27 + Sun 29'.",
+      "platform": "X",
+      "chars": 273,
+      "intent_url": "https://x.com/intent/post?text=Shopping%20local%20this%20Black%20Friday%20on%20the%20Sunshine%20Coast%3F%0A%0ACome%20find%20me%20at%20Trail%20Bay%20Centre%20in%20Sechelt%3A%0AFri%2C%20Nov%2027%2C%2011%E2%80%934%0ASun%2C%20Nov%2029%0A%0ATry%20the%20RIMAN%20products%20on%20your%20own%20hands%2C%20and%20guess%20how%20many%20candies%20are%20in%20my%20tub%20to%20win%20a%20Multi%20Stick%20Balm%20or%20a%20facial.%0A%0ASee%20you%20there%3F%20%F0%9F%8E%81"
     },
     {
-      "topic": "NAD+/NMN honest take (rides @DrJesseMorse NAD+ review thread, 8,589 views)",
-      "platform": "X",
+      "topic": "Winter hair myth-bust (botalab Deserticola Plus)",
       "keywords": [
-        "NAD+",
-        "NMN",
-        "healthy aging"
+        "winter hair",
+        "over 40",
+        "shampoo"
       ],
-      "text": "NAD+ and NMN are everywhere right now.\n\nMy honest take, as a retired CPA who reads the fine print:\nThey do raise NAD+ in the blood.\nProof they slow aging in people? Not there yet.\n\nSo I treat them like any purchase. Start small, stay steady, and watch for real results.",
-      "chars": 269,
-      "intent_url": "https://x.com/intent/post?text=NAD%2B%20and%20NMN%20are%20everywhere%20right%20now.%0A%0AMy%20honest%20take%2C%20as%20a%20retired%20CPA%20who%20reads%20the%20fine%20print%3A%0AThey%20do%20raise%20NAD%2B%20in%20the%20blood.%0AProof%20they%20slow%20aging%20in%20people%3F%20Not%20there%20yet.%0A%0ASo%20I%20treat%20them%20like%20any%20purchase.%20Start%20small%2C%20stay%20steady%2C%20and%20watch%20for%20real%20results.",
-      "picture_tip": "Your supplement bottle next to a notebook and pen, like you're keeping track."
+      "text": "Your shampoo doesn't belong on your ends.\n\nWinter hair after 40, 3 fixes:\n1. Warm water, not hot\n2. Shampoo the scalp only; the rinse cleans the ends\n3. 1–2 pumps of hair oil serum on mid-lengths and ends, not the scalp\n\nI use botalab Deserticola Plus. Save this for wash day.",
+      "picture_tip": "The three botalab Deserticola bottles (shampoo, conditioner, hair oil serum) on the edge of your tub with a folded towel. Simple, bright bathroom light.",
+      "video_tip": "10–12 s, no face needed: pump shampoo into your palm (2 s), fingers massaging at the roots (4 s), then 1–2 pumps of oil serum worked through the ends of dry hair (4 s). Text: 'Scalp, not ends.'",
+      "platform": "X",
+      "chars": 276,
+      "intent_url": "https://x.com/intent/post?text=Your%20shampoo%20doesn't%20belong%20on%20your%20ends.%0A%0AWinter%20hair%20after%2040%2C%203%20fixes%3A%0A1.%20Warm%20water%2C%20not%20hot%0A2.%20Shampoo%20the%20scalp%20only%3B%20the%20rinse%20cleans%20the%20ends%0A3.%201%E2%80%932%20pumps%20of%20hair%20oil%20serum%20on%20mid-lengths%20and%20ends%2C%20not%20the%20scalp%0A%0AI%20use%20botalab%20Deserticola%20Plus.%20Save%20this%20for%20wash%20day."
     },
     {
-      "topic": "GLP-1, no hype (LinkedIn, story-led)",
-      "platform": "LinkedIn",
+      "topic": "Multi Stick Balm 'group chat' list (stocking stuffer)",
       "keywords": [
-        "GLP-1",
-        "Purple Drink"
+        "dry lips",
+        "winter dryness",
+        "stocking stuffer"
       ],
-      "text": "GLP-1 is all over my feed this week.\n\nMost people only know it from the weight-loss shots. What's getting less attention is that your body already makes GLP-1 on its own. It's the hormone those drugs are designed to copy, and it does more than control your appetite.\n\nThat's the reason I started drinking my Purple Drink. I'm a retired CPA, so I don't buy on hype. I want to see the numbers.\n\nSo here's my promise: no miracle claims, no before-and-after tricks. I'll share what actually changes for me (energy, cravings, how my clothes fit) and what doesn't.\n\nOne honest note: if you have a health condition or take medication, check with your doctor before adding anything new. I do.\n\nWhat would you want me to track and report back on?",
-      "chars": 737,
-      "intent_url": "",
-      "picture_tip": "You holding your Purple Drink, natural light, no filter."
+      "text": "If winter dryness had a group chat, these would be the regulars:\n\nLips\nCheekbones\nKnuckles\n\nOne stick in my purse handles all three: RIMAN's Multi Stick Balm.\n\nWhere does winter hit you first?",
+      "picture_tip": "The Multi Stick Balm held up in your hand next to your coat pocket or purse, outdoors on a grey day for that winter feel.",
+      "video_tip": "6–8 s: three quick swipes, lips (2 s), cheekbone (2 s), knuckles (2 s), then cap it and drop it in your purse. Text: 'Lips. Cheeks. Knuckles.'",
+      "platform": "X",
+      "chars": 192,
+      "intent_url": "https://x.com/intent/post?text=If%20winter%20dryness%20had%20a%20group%20chat%2C%20these%20would%20be%20the%20regulars%3A%0A%0ALips%0ACheekbones%0AKnuckles%0A%0AOne%20stick%20in%20my%20purse%20handles%20all%20three%3A%20RIMAN's%20Multi%20Stick%20Balm.%0A%0AWhere%20does%20winter%20hit%20you%20first%3F"
     }
   ],
   "trend_keywords": {
@@ -144,42 +148,46 @@
   "trend_radar": {
     "ideas": [
       {
-        "topic": "GLP-1, no hype (rides @thegarybrecka 'your body already produces GLP-1', 11,526 views)",
-        "platform": "X",
+        "topic": "Trail Bay Black Friday weekend: come see me (draw teaser)",
         "keywords": [
-          "GLP-1",
-          "Purple Drink",
-          "no hype"
+          "shop local",
+          "Black Friday",
+          "Sechelt"
         ],
-        "text": "The big wellness accounts are all talking about GLP-1 this week.\n\nShort version: your body already makes it. It's the hormone the weight-loss shots are built to copy.\n\nThat's why I drink my Purple Drink. No miracle promises from me. Just what actually changes, and what doesn't.\n\nWhat would you want me to track?",
-        "chars": 312,
-        "intent_url": "https://x.com/intent/post?text=The%20big%20wellness%20accounts%20are%20all%20talking%20about%20GLP-1%20this%20week.%0A%0AShort%20version%3A%20your%20body%20already%20makes%20it.%20It's%20the%20hormone%20the%20weight-loss%20shots%20are%20built%20to%20copy.%0A%0AThat's%20why%20I%20drink%20my%20Purple%20Drink.%20No%20miracle%20promises%20from%20me.%20Just%20what%20actually%20changes%2C%20and%20what%20doesn't.%0A%0AWhat%20would%20you%20want%20me%20to%20track%3F",
-        "picture_tip": "Your Purple Drink in a clear glass on the kitchen counter, morning light. Plain photo, no text."
+        "text": "Shopping local this Black Friday on the Sunshine Coast?\n\nCome find me at Trail Bay Centre in Sechelt:\nFri, Nov 27, 11–4\nSun, Nov 29\n\nTry the RIMAN products on your own hands, and guess how many candies are in my tub to win a Multi Stick Balm or a facial.\n\nSee you there? 🎁",
+        "picture_tip": "Your candy tub front and centre on the booth table, RIMAN products lined up behind it, a handwritten 'Guess & win!' card. Shot in daylight, square or 4:5.",
+        "video_tip": "8–10 s: slow push-in on the candy tub (2 s), pan to the Multi Stick Balm and a facial card (3 s), end on you waving behind the table (3 s). On-screen text: 'Trail Bay · Fri 27 + Sun 29'.",
+        "platform": "X",
+        "chars": 273,
+        "intent_url": "https://x.com/intent/post?text=Shopping%20local%20this%20Black%20Friday%20on%20the%20Sunshine%20Coast%3F%0A%0ACome%20find%20me%20at%20Trail%20Bay%20Centre%20in%20Sechelt%3A%0AFri%2C%20Nov%2027%2C%2011%E2%80%934%0ASun%2C%20Nov%2029%0A%0ATry%20the%20RIMAN%20products%20on%20your%20own%20hands%2C%20and%20guess%20how%20many%20candies%20are%20in%20my%20tub%20to%20win%20a%20Multi%20Stick%20Balm%20or%20a%20facial.%0A%0ASee%20you%20there%3F%20%F0%9F%8E%81"
       },
       {
-        "topic": "NAD+/NMN honest take (rides @DrJesseMorse NAD+ review thread, 8,589 views)",
-        "platform": "X",
+        "topic": "Winter hair myth-bust (botalab Deserticola Plus)",
         "keywords": [
-          "NAD+",
-          "NMN",
-          "healthy aging"
+          "winter hair",
+          "over 40",
+          "shampoo"
         ],
-        "text": "NAD+ and NMN are everywhere right now.\n\nMy honest take, as a retired CPA who reads the fine print:\nThey do raise NAD+ in the blood.\nProof they slow aging in people? Not there yet.\n\nSo I treat them like any purchase. Start small, stay steady, and watch for real results.",
-        "chars": 269,
-        "intent_url": "https://x.com/intent/post?text=NAD%2B%20and%20NMN%20are%20everywhere%20right%20now.%0A%0AMy%20honest%20take%2C%20as%20a%20retired%20CPA%20who%20reads%20the%20fine%20print%3A%0AThey%20do%20raise%20NAD%2B%20in%20the%20blood.%0AProof%20they%20slow%20aging%20in%20people%3F%20Not%20there%20yet.%0A%0ASo%20I%20treat%20them%20like%20any%20purchase.%20Start%20small%2C%20stay%20steady%2C%20and%20watch%20for%20real%20results.",
-        "picture_tip": "Your supplement bottle next to a notebook and pen, like you're keeping track."
+        "text": "Your shampoo doesn't belong on your ends.\n\nWinter hair after 40, 3 fixes:\n1. Warm water, not hot\n2. Shampoo the scalp only; the rinse cleans the ends\n3. 1–2 pumps of hair oil serum on mid-lengths and ends, not the scalp\n\nI use botalab Deserticola Plus. Save this for wash day.",
+        "picture_tip": "The three botalab Deserticola bottles (shampoo, conditioner, hair oil serum) on the edge of your tub with a folded towel. Simple, bright bathroom light.",
+        "video_tip": "10–12 s, no face needed: pump shampoo into your palm (2 s), fingers massaging at the roots (4 s), then 1–2 pumps of oil serum worked through the ends of dry hair (4 s). Text: 'Scalp, not ends.'",
+        "platform": "X",
+        "chars": 276,
+        "intent_url": "https://x.com/intent/post?text=Your%20shampoo%20doesn't%20belong%20on%20your%20ends.%0A%0AWinter%20hair%20after%2040%2C%203%20fixes%3A%0A1.%20Warm%20water%2C%20not%20hot%0A2.%20Shampoo%20the%20scalp%20only%3B%20the%20rinse%20cleans%20the%20ends%0A3.%201%E2%80%932%20pumps%20of%20hair%20oil%20serum%20on%20mid-lengths%20and%20ends%2C%20not%20the%20scalp%0A%0AI%20use%20botalab%20Deserticola%20Plus.%20Save%20this%20for%20wash%20day."
       },
       {
-        "topic": "GLP-1, no hype (LinkedIn, story-led)",
-        "platform": "LinkedIn",
+        "topic": "Multi Stick Balm 'group chat' list (stocking stuffer)",
         "keywords": [
-          "GLP-1",
-          "Purple Drink"
+          "dry lips",
+          "winter dryness",
+          "stocking stuffer"
         ],
-        "text": "GLP-1 is all over my feed this week.\n\nMost people only know it from the weight-loss shots. What's getting less attention is that your body already makes GLP-1 on its own. It's the hormone those drugs are designed to copy, and it does more than control your appetite.\n\nThat's the reason I started drinking my Purple Drink. I'm a retired CPA, so I don't buy on hype. I want to see the numbers.\n\nSo here's my promise: no miracle claims, no before-and-after tricks. I'll share what actually changes for me (energy, cravings, how my clothes fit) and what doesn't.\n\nOne honest note: if you have a health condition or take medication, check with your doctor before adding anything new. I do.\n\nWhat would you want me to track and report back on?",
-        "chars": 737,
-        "intent_url": "",
-        "picture_tip": "You holding your Purple Drink, natural light, no filter."
+        "text": "If winter dryness had a group chat, these would be the regulars:\n\nLips\nCheekbones\nKnuckles\n\nOne stick in my purse handles all three: RIMAN's Multi Stick Balm.\n\nWhere does winter hit you first?",
+        "picture_tip": "The Multi Stick Balm held up in your hand next to your coat pocket or purse, outdoors on a grey day for that winter feel.",
+        "video_tip": "6–8 s: three quick swipes, lips (2 s), cheekbone (2 s), knuckles (2 s), then cap it and drop it in your purse. Text: 'Lips. Cheeks. Knuckles.'",
+        "platform": "X",
+        "chars": 192,
+        "intent_url": "https://x.com/intent/post?text=If%20winter%20dryness%20had%20a%20group%20chat%2C%20these%20would%20be%20the%20regulars%3A%0A%0ALips%0ACheekbones%0AKnuckles%0A%0AOne%20stick%20in%20my%20purse%20handles%20all%20three%3A%20RIMAN's%20Multi%20Stick%20Balm.%0A%0AWhere%20does%20winter%20hit%20you%20first%3F"
       }
     ]
   },
