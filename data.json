@@ -2,7 +2,7 @@
   "title": "Cat's Health and Beauty · daily X skincare digest - 2026-11-19",
   "date": "2026-11-26",
   "timezone": "America/Vancouver",
-  "updated": "2026-11-26T09:41:30-07:00",
+  "updated": "2026-11-26T11:04:42-07:00",
   "brand_title": "Cat's Health and Beauty · X Skincare Board",
   "brand_handle": "@CatsBeauty26",
   "virals_title": "Outsiders · last 48h",
@@ -23,8 +23,8 @@
     },
     {
       "handle": "cerave",
-      "reason": "0 originals in the last 7 days; highest 0 views",
-      "max_views": 0
+      "reason": "1 originals in the last 7 days; highest 879 views",
+      "max_views": 879
     },
     {
       "handle": "LabMuffin",
@@ -58,8 +58,16 @@
   "virals_target": 0,
   "hits_count": 0,
   "outsiders_count": 0,
-  "watch_window": "2026-11-19T16Z to 2026-11-26T16:41Z",
+  "watch_window": "2026-11-19T18Z to 2026-11-26T18:04Z",
   "watchlist_posts_7d": [
+    {
+      "handle": "cerave",
+      "name": "CeraVe",
+      "views": 879,
+      "url": "https://x.com/cerave/status/2125994329567313936",
+      "posted_at": "2026-11-26T16:45:21.000Z",
+      "text": "happy thanksgiving … hope your turkey isn’t as dry as you 🙈"
+    },
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
@@ -79,41 +87,46 @@
   ],
   "drafts_today": [
     {
-      "topic": "Sensitive skin, fewer products (rides @thecadencelux sensitive-skin question, 5,227 views)",
-      "platform": "X",
+      "topic": "K-beauty is topping bestseller lists before Black Friday (rides @CNBC K-beauty post, 22,449 views)",
       "keywords": [
-        "sensitive skin",
         "K-beauty",
-        "70+"
+        "Black Friday",
+        "over 40"
       ],
-      "text": "Sensitive skin in your 70s is a different game.\n\nMy routine got shorter, not longer: a gentle cleanser, a calming gel, one serum, and a collagen mask when my skin feels tight.\n\nFewer products. Less stinging.\n\nWhat's the one product your sensitive skin can't live without?",
-      "chars": 271,
-      "intent_url": "https://x.com/intent/post?text=Sensitive%20skin%20in%20your%2070s%20is%20a%20different%20game.%0A%0AMy%20routine%20got%20shorter%2C%20not%20longer%3A%20a%20gentle%20cleanser%2C%20a%20calming%20gel%2C%20one%20serum%2C%20and%20a%20collagen%20mask%20when%20my%20skin%20feels%20tight.%0A%0AFewer%20products.%20Less%20stinging.%0A%0AWhat's%20the%20one%20product%20your%20sensitive%20skin%20can't%20live%20without%3F",
-      "picture_tip": "Your four products lined up on the bathroom counter. Plain photo, no text."
+      "text": "Korean skincare is topping bestseller lists ahead of Black Friday.\n\nNot surprised. After 40, the Korean idea that won me over was simple: layer thin, let each layer dry, repeat.\n\nBooster. Serum. Booster. Cream.\n\nWhich K-beauty step would you try first?",
+      "picture_tip": "Your Dermatology Booster EX, Serum EX and Dermatology Cream lined up in that order on a dry counter by a window, small handwritten card: 1-2-3-4. Square or 16:9.",
+      "video_tip": "10-12 s: spray Booster and pause (2 s), massage in Serum (3 s), second Booster spray (2 s), spatula of Cream, massage in (3 s). On-screen text: 'Let each layer dry'.",
+      "platform": "X",
+      "chars": 252,
+      "intent_url": "https://x.com/intent/post?text=Korean%20skincare%20is%20topping%20bestseller%20lists%20ahead%20of%20Black%20Friday.%0A%0ANot%20surprised.%20After%2040%2C%20the%20Korean%20idea%20that%20won%20me%20over%20was%20simple%3A%20layer%20thin%2C%20let%20each%20layer%20dry%2C%20repeat.%0A%0ABooster.%20Serum.%20Booster.%20Cream.%0A%0AWhich%20K-beauty%20step%20would%20you%20try%20first%3F"
     },
     {
-      "topic": "GLP-1 at the holiday table, no hype (rides @DailyMail GLP-1 holiday guide, 4,537 views in hours; @thegarybrecka GLP-1 post now 12,274)",
-      "platform": "X",
+      "topic": "Trail Bay Black Friday: come see me tomorrow (candy-tub draw)",
       "keywords": [
-        "GLP-1",
-        "Purple Drink",
-        "holidays"
+        "Black Friday",
+        "shop local",
+        "Sechelt"
       ],
-      "text": "Holiday tables are where the GLP-1 hype meets real life.\n\nNo drink replaces the basics. Protein first, go easy on the sweets, take a walk after dinner.\n\nMy Purple Drink is part of my routine, not a free pass.\n\nWhat's your one rule for holiday eating?",
-      "chars": 250,
-      "intent_url": "https://x.com/intent/post?text=Holiday%20tables%20are%20where%20the%20GLP-1%20hype%20meets%20real%20life.%0A%0ANo%20drink%20replaces%20the%20basics.%20Protein%20first%2C%20go%20easy%20on%20the%20sweets%2C%20take%20a%20walk%20after%20dinner.%0A%0AMy%20Purple%20Drink%20is%20part%20of%20my%20routine%2C%20not%20a%20free%20pass.%0A%0AWhat's%20your%20one%20rule%20for%20holiday%20eating%3F",
-      "picture_tip": "Your Purple Drink next to a holiday plate."
+      "text": "Tomorrow is Black Friday, and I'll be at the mall on purpose. 😄\n\nTrail Bay Centre, Sechelt\nFri Nov 27, 11–4 + Sun Nov 29\n\nMini-facials, RIMAN to try on your own hands, and a candy-tub guess to win a Multi Stick Balm or a facial.\n\nCome say hi?",
+      "picture_tip": "Tonight: your packed booth bin with the candy tub on top and the Multi Stick Balm beside it, on the kitchen table under warm light. Caption-free photo.",
+      "video_tip": "8 s: hands drop the last product into the bin (2 s), lid on the candy tub (2 s), you holding up the Multi Stick Balm and smiling (4 s). On-screen text: 'See you tomorrow, Trail Bay'.",
+      "platform": "X",
+      "chars": 243,
+      "intent_url": "https://x.com/intent/post?text=Tomorrow%20is%20Black%20Friday%2C%20and%20I'll%20be%20at%20the%20mall%20on%20purpose.%20%F0%9F%98%84%0A%0ATrail%20Bay%20Centre%2C%20Sechelt%0AFri%20Nov%2027%2C%2011%E2%80%934%20%2B%20Sun%20Nov%2029%0A%0AMini-facials%2C%20RIMAN%20to%20try%20on%20your%20own%20hands%2C%20and%20a%20candy-tub%20guess%20to%20win%20a%20Multi%20Stick%20Balm%20or%20a%20facial.%0A%0ACome%20say%20hi%3F"
     },
     {
-      "topic": "LinkedIn: auditing my skincare shelf (sensitive skin 70+)",
-      "platform": "LinkedIn",
+      "topic": "Chapped lips myth-bust (rides winter chapped-lips chatter: @pfaffphobic 799, @sillyfrenchfryy 431)",
       "keywords": [
-        "sensitive skin",
-        "K-beauty",
-        "retired CPA"
+        "chapped lips",
+        "winter",
+        "over 40"
       ],
-      "text": "I audited books for a living. Now I audit my skincare shelf.\n\nSensitive skin in your 70s doesn't forgive much. More products usually means more redness, more stinging, and more money spent on things that don't earn their place.\n\nSo I cut it back to what does the work:\n• A gentle cleanser that doesn't strip\n• A calming gel for the days my skin is angry\n• One good serum\n• A collagen mask when my skin feels tight\n\nThat's it. Korean skincare gets a reputation for 10 steps, but the part I value is the gentleness, not the number of bottles.\n\nIf your skin has gotten touchier with age, start by taking something away, not adding something new.\n\nWhat's one product you stopped using and never missed?",
-      "chars": 698
+      "text": "Chapped lips aren't a winter personality trait.\n\n3 habits that helped mine after 40:\n1. Stop licking them. It feels like it helps. It doesn't.\n2. A generous layer of lip oil before bed\n3. A balm stick in every coat pocket\n\nSave this for the first frosty morning.",
+      "picture_tip": "Close-up of your ICD Glow Up Lip Oil and Multi Stick Balm on your nightstand next to a book and a lamp. Simple, no text.",
+      "video_tip": "6-8 s: Multi Stick Balm out of a coat pocket and swiped on (3 s), cut to nightstand, generous layer of Glow Up Lip Oil, lamp clicks off (4 s). On-screen text: 'Winter lips, 3 habits'.",
+      "platform": "X",
+      "chars": 262,
+      "intent_url": "https://x.com/intent/post?text=Chapped%20lips%20aren't%20a%20winter%20personality%20trait.%0A%0A3%20habits%20that%20helped%20mine%20after%2040%3A%0A1.%20Stop%20licking%20them.%20It%20feels%20like%20it%20helps.%20It%20doesn't.%0A2.%20A%20generous%20layer%20of%20lip%20oil%20before%20bed%0A3.%20A%20balm%20stick%20in%20every%20coat%20pocket%0A%0ASave%20this%20for%20the%20first%20frosty%20morning."
     }
   ],
   "trend_keywords": {
@@ -143,41 +156,46 @@
   "trend_radar": {
     "ideas": [
       {
-        "topic": "Sensitive skin, fewer products (rides @thecadencelux sensitive-skin question, 5,227 views)",
-        "platform": "X",
+        "topic": "K-beauty is topping bestseller lists before Black Friday (rides @CNBC K-beauty post, 22,449 views)",
         "keywords": [
-          "sensitive skin",
           "K-beauty",
-          "70+"
+          "Black Friday",
+          "over 40"
         ],
-        "text": "Sensitive skin in your 70s is a different game.\n\nMy routine got shorter, not longer: a gentle cleanser, a calming gel, one serum, and a collagen mask when my skin feels tight.\n\nFewer products. Less stinging.\n\nWhat's the one product your sensitive skin can't live without?",
-        "chars": 271,
-        "intent_url": "https://x.com/intent/post?text=Sensitive%20skin%20in%20your%2070s%20is%20a%20different%20game.%0A%0AMy%20routine%20got%20shorter%2C%20not%20longer%3A%20a%20gentle%20cleanser%2C%20a%20calming%20gel%2C%20one%20serum%2C%20and%20a%20collagen%20mask%20when%20my%20skin%20feels%20tight.%0A%0AFewer%20products.%20Less%20stinging.%0A%0AWhat's%20the%20one%20product%20your%20sensitive%20skin%20can't%20live%20without%3F",
-        "picture_tip": "Your four products lined up on the bathroom counter. Plain photo, no text."
+        "text": "Korean skincare is topping bestseller lists ahead of Black Friday.\n\nNot surprised. After 40, the Korean idea that won me over was simple: layer thin, let each layer dry, repeat.\n\nBooster. Serum. Booster. Cream.\n\nWhich K-beauty step would you try first?",
+        "picture_tip": "Your Dermatology Booster EX, Serum EX and Dermatology Cream lined up in that order on a dry counter by a window, small handwritten card: 1-2-3-4. Square or 16:9.",
+        "video_tip": "10-12 s: spray Booster and pause (2 s), massage in Serum (3 s), second Booster spray (2 s), spatula of Cream, massage in (3 s). On-screen text: 'Let each layer dry'.",
+        "platform": "X",
+        "chars": 252,
+        "intent_url": "https://x.com/intent/post?text=Korean%20skincare%20is%20topping%20bestseller%20lists%20ahead%20of%20Black%20Friday.%0A%0ANot%20surprised.%20After%2040%2C%20the%20Korean%20idea%20that%20won%20me%20over%20was%20simple%3A%20layer%20thin%2C%20let%20each%20layer%20dry%2C%20repeat.%0A%0ABooster.%20Serum.%20Booster.%20Cream.%0A%0AWhich%20K-beauty%20step%20would%20you%20try%20first%3F"
       },
       {
-        "topic": "GLP-1 at the holiday table, no hype (rides @DailyMail GLP-1 holiday guide, 4,537 views in hours; @thegarybrecka GLP-1 post now 12,274)",
-        "platform": "X",
+        "topic": "Trail Bay Black Friday: come see me tomorrow (candy-tub draw)",
         "keywords": [
-          "GLP-1",
-          "Purple Drink",
-          "holidays"
+          "Black Friday",
+          "shop local",
+          "Sechelt"
         ],
-        "text": "Holiday tables are where the GLP-1 hype meets real life.\n\nNo drink replaces the basics. Protein first, go easy on the sweets, take a walk after dinner.\n\nMy Purple Drink is part of my routine, not a free pass.\n\nWhat's your one rule for holiday eating?",
-        "chars": 250,
-        "intent_url": "https://x.com/intent/post?text=Holiday%20tables%20are%20where%20the%20GLP-1%20hype%20meets%20real%20life.%0A%0ANo%20drink%20replaces%20the%20basics.%20Protein%20first%2C%20go%20easy%20on%20the%20sweets%2C%20take%20a%20walk%20after%20dinner.%0A%0AMy%20Purple%20Drink%20is%20part%20of%20my%20routine%2C%20not%20a%20free%20pass.%0A%0AWhat's%20your%20one%20rule%20for%20holiday%20eating%3F",
-        "picture_tip": "Your Purple Drink next to a holiday plate."
+        "text": "Tomorrow is Black Friday, and I'll be at the mall on purpose. 😄\n\nTrail Bay Centre, Sechelt\nFri Nov 27, 11–4 + Sun Nov 29\n\nMini-facials, RIMAN to try on your own hands, and a candy-tub guess to win a Multi Stick Balm or a facial.\n\nCome say hi?",
+        "picture_tip": "Tonight: your packed booth bin with the candy tub on top and the Multi Stick Balm beside it, on the kitchen table under warm light. Caption-free photo.",
+        "video_tip": "8 s: hands drop the last product into the bin (2 s), lid on the candy tub (2 s), you holding up the Multi Stick Balm and smiling (4 s). On-screen text: 'See you tomorrow, Trail Bay'.",
+        "platform": "X",
+        "chars": 243,
+        "intent_url": "https://x.com/intent/post?text=Tomorrow%20is%20Black%20Friday%2C%20and%20I'll%20be%20at%20the%20mall%20on%20purpose.%20%F0%9F%98%84%0A%0ATrail%20Bay%20Centre%2C%20Sechelt%0AFri%20Nov%2027%2C%2011%E2%80%934%20%2B%20Sun%20Nov%2029%0A%0AMini-facials%2C%20RIMAN%20to%20try%20on%20your%20own%20hands%2C%20and%20a%20candy-tub%20guess%20to%20win%20a%20Multi%20Stick%20Balm%20or%20a%20facial.%0A%0ACome%20say%20hi%3F"
       },
       {
-        "topic": "LinkedIn: auditing my skincare shelf (sensitive skin 70+)",
-        "platform": "LinkedIn",
+        "topic": "Chapped lips myth-bust (rides winter chapped-lips chatter: @pfaffphobic 799, @sillyfrenchfryy 431)",
         "keywords": [
-          "sensitive skin",
-          "K-beauty",
-          "retired CPA"
+          "chapped lips",
+          "winter",
+          "over 40"
         ],
-        "text": "I audited books for a living. Now I audit my skincare shelf.\n\nSensitive skin in your 70s doesn't forgive much. More products usually means more redness, more stinging, and more money spent on things that don't earn their place.\n\nSo I cut it back to what does the work:\n• A gentle cleanser that doesn't strip\n• A calming gel for the days my skin is angry\n• One good serum\n• A collagen mask when my skin feels tight\n\nThat's it. Korean skincare gets a reputation for 10 steps, but the part I value is the gentleness, not the number of bottles.\n\nIf your skin has gotten touchier with age, start by taking something away, not adding something new.\n\nWhat's one product you stopped using and never missed?",
-        "chars": 698
+        "text": "Chapped lips aren't a winter personality trait.\n\n3 habits that helped mine after 40:\n1. Stop licking them. It feels like it helps. It doesn't.\n2. A generous layer of lip oil before bed\n3. A balm stick in every coat pocket\n\nSave this for the first frosty morning.",
+        "picture_tip": "Close-up of your ICD Glow Up Lip Oil and Multi Stick Balm on your nightstand next to a book and a lamp. Simple, no text.",
+        "video_tip": "6-8 s: Multi Stick Balm out of a coat pocket and swiped on (3 s), cut to nightstand, generous layer of Glow Up Lip Oil, lamp clicks off (4 s). On-screen text: 'Winter lips, 3 habits'.",
+        "platform": "X",
+        "chars": 262,
+        "intent_url": "https://x.com/intent/post?text=Chapped%20lips%20aren't%20a%20winter%20personality%20trait.%0A%0A3%20habits%20that%20helped%20mine%20after%2040%3A%0A1.%20Stop%20licking%20them.%20It%20feels%20like%20it%20helps.%20It%20doesn't.%0A2.%20A%20generous%20layer%20of%20lip%20oil%20before%20bed%0A3.%20A%20balm%20stick%20in%20every%20coat%20pocket%0A%0ASave%20this%20for%20the%20first%20frosty%20morning."
       }
     ]
   },
@@ -207,8 +225,8 @@
     {
       "handle": "cerave",
       "name": "CeraVe",
-      "views": 0,
-      "total_views": 0,
+      "views": 879,
+      "total_views": 879,
       "hit": false
     },
     {
@@ -250,16 +268,16 @@
   "you_rank": null,
   "trend_input_only_posts": [],
   "leaderboards": {
-    "as_of": "2026-11-25",
+    "as_of": "2026-11-26",
     "tracking_start": "2026-10-27",
     "days_included": [
-      "2026-11-19",
       "2026-11-20",
       "2026-11-21",
       "2026-11-22",
       "2026-11-23",
       "2026-11-24",
-      "2026-11-25"
+      "2026-11-25",
+      "2026-11-26"
     ],
     "month_days_included": [
       "2026-11-01",
@@ -286,13 +304,14 @@
       "2026-11-22",
       "2026-11-23",
       "2026-11-24",
-      "2026-11-25"
+      "2026-11-25",
+      "2026-11-26"
     ],
     "week": {
-      "label": "Rolling week · Nov 19–Nov 25",
+      "label": "Rolling week · Nov 20–Nov 26",
       "range": [
-        "2026-11-19",
-        "2026-11-25"
+        "2026-11-20",
+        "2026-11-26"
       ],
       "entries": []
     },
@@ -300,7 +319,7 @@
       "label": "November 2026 · from Nov 1",
       "range": [
         "2026-11-01",
-        "2026-11-25"
+        "2026-11-26"
       ],
       "entries": []
     }
