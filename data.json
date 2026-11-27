@@ -1,12 +1,23 @@
 {
   "title": "Cat's Health and Beauty · daily X skincare digest - 2026-11-19",
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "timezone": "America/Vancouver",
-  "updated": "2026-11-26T11:04:42-07:00",
+  "updated": "2026-11-27T09:36:50-07:00",
   "brand_title": "Cat's Health and Beauty · X Skincare Board",
   "brand_handle": "@CatsBeauty26",
   "virals_title": "Outsiders · last 48h",
-  "hits": [],
+  "hits": [
+    {
+      "handle": "cerave",
+      "views": 13117,
+      "url": "https://x.com/cerave/status/2125994329567313936",
+      "posted_at": "2026-11-26T16:45:21.000Z",
+      "text": "happy thanksgiving … hope your turkey isn’t as dry as you 🙈",
+      "highlight": true,
+      "hook": "happy thanksgiving … hope your turkey isn’t as dry as you 🙈",
+      "name": "CeraVe"
+    }
+  ],
   "virals": [],
   "outsiders": [],
   "patterns": [],
@@ -18,13 +29,8 @@
     },
     {
       "handle": "DiscoverSelf",
-      "reason": "2 originals in the last 7 days; highest 60 views",
-      "max_views": 60
-    },
-    {
-      "handle": "cerave",
-      "reason": "1 originals in the last 7 days; highest 879 views",
-      "max_views": 879
+      "reason": "0 originals in the last 7 days; highest 0 views",
+      "max_views": 0
     },
     {
       "handle": "LabMuffin",
@@ -56,77 +62,54 @@
   "narrative_synthesis": "",
   "virals_window": "last ~48h",
   "virals_target": 0,
-  "hits_count": 0,
+  "hits_count": 1,
   "outsiders_count": 0,
-  "watch_window": "2026-11-19T18Z to 2026-11-26T18:04Z",
+  "watch_window": "2026-11-20T16Z to 2026-11-27T16:36Z",
   "watchlist_posts_7d": [
     {
       "handle": "cerave",
       "name": "CeraVe",
-      "views": 879,
+      "views": 13117,
       "url": "https://x.com/cerave/status/2125994329567313936",
       "posted_at": "2026-11-26T16:45:21.000Z",
       "text": "happy thanksgiving … hope your turkey isn’t as dry as you 🙈"
-    },
-    {
-      "handle": "DiscoverSelf",
-      "name": "Celebrate Woman",
-      "views": 60,
-      "url": "https://x.com/DiscoverSelf/status/2123503731937611939",
-      "posted_at": "2026-11-19T19:48:37.000Z",
-      "text": "Incredible #giftidea for you or anybody in your family-friends circle – Organic Herbs &amp; Spices to cook with, add to fresh salads, enjoy the aromas to support you! Enter to #Win this festive set! #giveaways #giveaway #HolidaySeason #Holidays https://t.co/59AeOnqRKE https://t.co/WhI0LTUqWi"
-    },
-    {
-      "handle": "DiscoverSelf",
-      "name": "Celebrate Woman",
-      "views": 58,
-      "url": "https://x.com/DiscoverSelf/status/2123519431439511651",
-      "posted_at": "2026-11-19T20:51:00.000Z",
-      "text": "Winter air makes #menopause #skin feel even drier. A creamy shea butter bar turns a warm-water hand wash into a small ritual she will look forward to. #soap #gifts #giftsforher https://t.co/ktZ09wiYDa https://t.co/2fiK3CFRTN"
     }
   ],
   "drafts_today": [
     {
-      "topic": "K-beauty is topping bestseller lists before Black Friday (rides @CNBC K-beauty post, 22,449 views)",
-      "keywords": [
-        "K-beauty",
-        "Black Friday",
-        "over 40"
-      ],
-      "text": "Korean skincare is topping bestseller lists ahead of Black Friday.\n\nNot surprised. After 40, the Korean idea that won me over was simple: layer thin, let each layer dry, repeat.\n\nBooster. Serum. Booster. Cream.\n\nWhich K-beauty step would you try first?",
-      "picture_tip": "Your Dermatology Booster EX, Serum EX and Dermatology Cream lined up in that order on a dry counter by a window, small handwritten card: 1-2-3-4. Square or 16:9.",
-      "video_tip": "10-12 s: spray Booster and pause (2 s), massage in Serum (3 s), second Booster spray (2 s), spatula of Cream, massage in (3 s). On-screen text: 'Let each layer dry'.",
+      "topic": "Winter dry skin, fewer products (rides @cerave Thanksgiving 'dry turkey' post, 13,117 views)",
       "platform": "X",
-      "chars": 252,
-      "intent_url": "https://x.com/intent/post?text=Korean%20skincare%20is%20topping%20bestseller%20lists%20ahead%20of%20Black%20Friday.%0A%0ANot%20surprised.%20After%2040%2C%20the%20Korean%20idea%20that%20won%20me%20over%20was%20simple%3A%20layer%20thin%2C%20let%20each%20layer%20dry%2C%20repeat.%0A%0ABooster.%20Serum.%20Booster.%20Cream.%0A%0AWhich%20K-beauty%20step%20would%20you%20try%20first%3F"
+      "keywords": [
+        "winter dryness",
+        "sensitive skin",
+        "K-beauty"
+      ],
+      "text": "Dry turkey is forgivable. Dry winter skin is fixable.\n\nWhen the heat comes on, I keep it simple: gentle cleanser, calming gel, one serum, a good cream. Fewer products, less irritation.\n\nWhat's the first thing your skin does when the weather turns?",
+      "chars": 247,
+      "intent_url": "https://x.com/intent/post?text=Dry%20turkey%20is%20forgivable.%20Dry%20winter%20skin%20is%20fixable.%0A%0AWhen%20the%20heat%20comes%20on%2C%20I%20keep%20it%20simple%3A%20gentle%20cleanser%2C%20calming%20gel%2C%20one%20serum%2C%20a%20good%20cream.%20Fewer%20products%2C%20less%20irritation.%0A%0AWhat's%20the%20first%20thing%20your%20skin%20does%20when%20the%20weather%20turns%3F"
     },
     {
-      "topic": "Trail Bay Black Friday: come see me tomorrow (candy-tub draw)",
-      "keywords": [
-        "Black Friday",
-        "shop local",
-        "Sechelt"
-      ],
-      "text": "Tomorrow is Black Friday, and I'll be at the mall on purpose. 😄\n\nTrail Bay Centre, Sechelt\nFri Nov 27, 11–4 + Sun Nov 29\n\nMini-facials, RIMAN to try on your own hands, and a candy-tub guess to win a Multi Stick Balm or a facial.\n\nCome say hi?",
-      "picture_tip": "Tonight: your packed booth bin with the candy tub on top and the Multi Stick Balm beside it, on the kitchen table under warm light. Caption-free photo.",
-      "video_tip": "8 s: hands drop the last product into the bin (2 s), lid on the candy tub (2 s), you holding up the Multi Stick Balm and smiling (4 s). On-screen text: 'See you tomorrow, Trail Bay'.",
+      "topic": "Gut health, no hype (rides @womenFit_ gut health and inflammation post, 17,585 views)",
       "platform": "X",
-      "chars": 243,
-      "intent_url": "https://x.com/intent/post?text=Tomorrow%20is%20Black%20Friday%2C%20and%20I'll%20be%20at%20the%20mall%20on%20purpose.%20%F0%9F%98%84%0A%0ATrail%20Bay%20Centre%2C%20Sechelt%0AFri%20Nov%2027%2C%2011%E2%80%934%20%2B%20Sun%20Nov%2029%0A%0AMini-facials%2C%20RIMAN%20to%20try%20on%20your%20own%20hands%2C%20and%20a%20candy-tub%20guess%20to%20win%20a%20Multi%20Stick%20Balm%20or%20a%20facial.%0A%0ACome%20say%20hi%3F"
+      "keywords": [
+        "gut health",
+        "inflammation",
+        "70s"
+      ],
+      "text": "Gut health is all over my feed this week, and holiday plates are part of why.\n\nNo hype from me. Food first, real fibre, water, a walk after dinner. Supplements are the helpers, not the plan.\n\nWhat's one habit that actually helped your gut?",
+      "chars": 239,
+      "intent_url": "https://x.com/intent/post?text=Gut%20health%20is%20all%20over%20my%20feed%20this%20week%2C%20and%20holiday%20plates%20are%20part%20of%20why.%0A%0ANo%20hype%20from%20me.%20Food%20first%2C%20real%20fibre%2C%20water%2C%20a%20walk%20after%20dinner.%20Supplements%20are%20the%20helpers%2C%20not%20the%20plan.%0A%0AWhat's%20one%20habit%20that%20actually%20helped%20your%20gut%3F"
     },
     {
-      "topic": "Chapped lips myth-bust (rides winter chapped-lips chatter: @pfaffphobic 799, @sillyfrenchfryy 431)",
+      "topic": "Health in your 70s, read the fine print (rides @_AshleyRichmond 'body that still functions at 70', 2,469 views)",
+      "platform": "LinkedIn",
       "keywords": [
-        "chapped lips",
-        "winter",
-        "over 40"
+        "70s",
+        "wellness",
+        "no hype"
       ],
-      "text": "Chapped lips aren't a winter personality trait.\n\n3 habits that helped mine after 40:\n1. Stop licking them. It feels like it helps. It doesn't.\n2. A generous layer of lip oil before bed\n3. A balm stick in every coat pocket\n\nSave this for the first frosty morning.",
-      "picture_tip": "Close-up of your ICD Glow Up Lip Oil and Multi Stick Balm on your nightstand next to a book and a lamp. Simple, no text.",
-      "video_tip": "6-8 s: Multi Stick Balm out of a coat pocket and swiped on (3 s), cut to nightstand, generous layer of Glow Up Lip Oil, lamp clicks off (4 s). On-screen text: 'Winter lips, 3 habits'.",
-      "platform": "X",
-      "chars": 262,
-      "intent_url": "https://x.com/intent/post?text=Chapped%20lips%20aren't%20a%20winter%20personality%20trait.%0A%0A3%20habits%20that%20helped%20mine%20after%2040%3A%0A1.%20Stop%20licking%20them.%20It%20feels%20like%20it%20helps.%20It%20doesn't.%0A2.%20A%20generous%20layer%20of%20lip%20oil%20before%20bed%0A3.%20A%20balm%20stick%20in%20every%20coat%20pocket%0A%0ASave%20this%20for%20the%20first%20frosty%20morning."
+      "text": "\"Building a body that still functions at 70.\" I saw that line on X this week, and it stuck with me.\n\nI'm in my 70s, and I spent my career as a CPA reading the fine print. I bring the same habit to health now.\n\nHere's what I've learned to look for:\n• Basics before bottles. Sleep, protein, movement and water do the heavy lifting.\n• Read the label. If a product promises everything, I want to know what's actually in it.\n• Talk to your doctor first, especially if you're managing a health condition or taking medication.\n• Give it time. Real change is gradual, which is why I take notes and photos instead of trusting my memory.\n\nNothing about this is flashy. That's the point.\n\nWhat's one health habit you started later in life that you wish you'd started sooner?",
+      "chars": 763
     }
   ],
   "trend_keywords": {
@@ -156,46 +139,39 @@
   "trend_radar": {
     "ideas": [
       {
-        "topic": "K-beauty is topping bestseller lists before Black Friday (rides @CNBC K-beauty post, 22,449 views)",
-        "keywords": [
-          "K-beauty",
-          "Black Friday",
-          "over 40"
-        ],
-        "text": "Korean skincare is topping bestseller lists ahead of Black Friday.\n\nNot surprised. After 40, the Korean idea that won me over was simple: layer thin, let each layer dry, repeat.\n\nBooster. Serum. Booster. Cream.\n\nWhich K-beauty step would you try first?",
-        "picture_tip": "Your Dermatology Booster EX, Serum EX and Dermatology Cream lined up in that order on a dry counter by a window, small handwritten card: 1-2-3-4. Square or 16:9.",
-        "video_tip": "10-12 s: spray Booster and pause (2 s), massage in Serum (3 s), second Booster spray (2 s), spatula of Cream, massage in (3 s). On-screen text: 'Let each layer dry'.",
+        "topic": "Winter dry skin, fewer products (rides @cerave Thanksgiving 'dry turkey' post, 13,117 views)",
         "platform": "X",
-        "chars": 252,
-        "intent_url": "https://x.com/intent/post?text=Korean%20skincare%20is%20topping%20bestseller%20lists%20ahead%20of%20Black%20Friday.%0A%0ANot%20surprised.%20After%2040%2C%20the%20Korean%20idea%20that%20won%20me%20over%20was%20simple%3A%20layer%20thin%2C%20let%20each%20layer%20dry%2C%20repeat.%0A%0ABooster.%20Serum.%20Booster.%20Cream.%0A%0AWhich%20K-beauty%20step%20would%20you%20try%20first%3F"
+        "keywords": [
+          "winter dryness",
+          "sensitive skin",
+          "K-beauty"
+        ],
+        "text": "Dry turkey is forgivable. Dry winter skin is fixable.\n\nWhen the heat comes on, I keep it simple: gentle cleanser, calming gel, one serum, a good cream. Fewer products, less irritation.\n\nWhat's the first thing your skin does when the weather turns?",
+        "chars": 247,
+        "intent_url": "https://x.com/intent/post?text=Dry%20turkey%20is%20forgivable.%20Dry%20winter%20skin%20is%20fixable.%0A%0AWhen%20the%20heat%20comes%20on%2C%20I%20keep%20it%20simple%3A%20gentle%20cleanser%2C%20calming%20gel%2C%20one%20serum%2C%20a%20good%20cream.%20Fewer%20products%2C%20less%20irritation.%0A%0AWhat's%20the%20first%20thing%20your%20skin%20does%20when%20the%20weather%20turns%3F"
       },
       {
-        "topic": "Trail Bay Black Friday: come see me tomorrow (candy-tub draw)",
-        "keywords": [
-          "Black Friday",
-          "shop local",
-          "Sechelt"
-        ],
-        "text": "Tomorrow is Black Friday, and I'll be at the mall on purpose. 😄\n\nTrail Bay Centre, Sechelt\nFri Nov 27, 11–4 + Sun Nov 29\n\nMini-facials, RIMAN to try on your own hands, and a candy-tub guess to win a Multi Stick Balm or a facial.\n\nCome say hi?",
-        "picture_tip": "Tonight: your packed booth bin with the candy tub on top and the Multi Stick Balm beside it, on the kitchen table under warm light. Caption-free photo.",
-        "video_tip": "8 s: hands drop the last product into the bin (2 s), lid on the candy tub (2 s), you holding up the Multi Stick Balm and smiling (4 s). On-screen text: 'See you tomorrow, Trail Bay'.",
+        "topic": "Gut health, no hype (rides @womenFit_ gut health and inflammation post, 17,585 views)",
         "platform": "X",
-        "chars": 243,
-        "intent_url": "https://x.com/intent/post?text=Tomorrow%20is%20Black%20Friday%2C%20and%20I'll%20be%20at%20the%20mall%20on%20purpose.%20%F0%9F%98%84%0A%0ATrail%20Bay%20Centre%2C%20Sechelt%0AFri%20Nov%2027%2C%2011%E2%80%934%20%2B%20Sun%20Nov%2029%0A%0AMini-facials%2C%20RIMAN%20to%20try%20on%20your%20own%20hands%2C%20and%20a%20candy-tub%20guess%20to%20win%20a%20Multi%20Stick%20Balm%20or%20a%20facial.%0A%0ACome%20say%20hi%3F"
+        "keywords": [
+          "gut health",
+          "inflammation",
+          "70s"
+        ],
+        "text": "Gut health is all over my feed this week, and holiday plates are part of why.\n\nNo hype from me. Food first, real fibre, water, a walk after dinner. Supplements are the helpers, not the plan.\n\nWhat's one habit that actually helped your gut?",
+        "chars": 239,
+        "intent_url": "https://x.com/intent/post?text=Gut%20health%20is%20all%20over%20my%20feed%20this%20week%2C%20and%20holiday%20plates%20are%20part%20of%20why.%0A%0ANo%20hype%20from%20me.%20Food%20first%2C%20real%20fibre%2C%20water%2C%20a%20walk%20after%20dinner.%20Supplements%20are%20the%20helpers%2C%20not%20the%20plan.%0A%0AWhat's%20one%20habit%20that%20actually%20helped%20your%20gut%3F"
       },
       {
-        "topic": "Chapped lips myth-bust (rides winter chapped-lips chatter: @pfaffphobic 799, @sillyfrenchfryy 431)",
+        "topic": "Health in your 70s, read the fine print (rides @_AshleyRichmond 'body that still functions at 70', 2,469 views)",
+        "platform": "LinkedIn",
         "keywords": [
-          "chapped lips",
-          "winter",
-          "over 40"
+          "70s",
+          "wellness",
+          "no hype"
         ],
-        "text": "Chapped lips aren't a winter personality trait.\n\n3 habits that helped mine after 40:\n1. Stop licking them. It feels like it helps. It doesn't.\n2. A generous layer of lip oil before bed\n3. A balm stick in every coat pocket\n\nSave this for the first frosty morning.",
-        "picture_tip": "Close-up of your ICD Glow Up Lip Oil and Multi Stick Balm on your nightstand next to a book and a lamp. Simple, no text.",
-        "video_tip": "6-8 s: Multi Stick Balm out of a coat pocket and swiped on (3 s), cut to nightstand, generous layer of Glow Up Lip Oil, lamp clicks off (4 s). On-screen text: 'Winter lips, 3 habits'.",
-        "platform": "X",
-        "chars": 262,
-        "intent_url": "https://x.com/intent/post?text=Chapped%20lips%20aren't%20a%20winter%20personality%20trait.%0A%0A3%20habits%20that%20helped%20mine%20after%2040%3A%0A1.%20Stop%20licking%20them.%20It%20feels%20like%20it%20helps.%20It%20doesn't.%0A2.%20A%20generous%20layer%20of%20lip%20oil%20before%20bed%0A3.%20A%20balm%20stick%20in%20every%20coat%20pocket%0A%0ASave%20this%20for%20the%20first%20frosty%20morning."
+        "text": "\"Building a body that still functions at 70.\" I saw that line on X this week, and it stuck with me.\n\nI'm in my 70s, and I spent my career as a CPA reading the fine print. I bring the same habit to health now.\n\nHere's what I've learned to look for:\n• Basics before bottles. Sleep, protein, movement and water do the heavy lifting.\n• Read the label. If a product promises everything, I want to know what's actually in it.\n• Talk to your doctor first, especially if you're managing a health condition or taking medication.\n• Give it time. Real change is gradual, which is why I take notes and photos instead of trusting my memory.\n\nNothing about this is flashy. That's the point.\n\nWhat's one health habit you started later in life that you wish you'd started sooner?",
+        "chars": 763
       }
     ]
   },
@@ -218,16 +194,16 @@
     {
       "handle": "DiscoverSelf",
       "name": "Celebrate Woman",
-      "views": 60,
-      "total_views": 118,
+      "views": 0,
+      "total_views": 0,
       "hit": false
     },
     {
       "handle": "cerave",
       "name": "CeraVe",
-      "views": 879,
-      "total_views": 879,
-      "hit": false
+      "views": 13117,
+      "total_views": 13117,
+      "hit": true
     },
     {
       "handle": "LabMuffin",
@@ -268,16 +244,16 @@
   "you_rank": null,
   "trend_input_only_posts": [],
   "leaderboards": {
-    "as_of": "2026-11-26",
+    "as_of": "2026-11-27",
     "tracking_start": "2026-10-27",
     "days_included": [
-      "2026-11-20",
       "2026-11-21",
       "2026-11-22",
       "2026-11-23",
       "2026-11-24",
       "2026-11-25",
-      "2026-11-26"
+      "2026-11-26",
+      "2026-11-27"
     ],
     "month_days_included": [
       "2026-11-01",
@@ -305,23 +281,44 @@
       "2026-11-23",
       "2026-11-24",
       "2026-11-25",
-      "2026-11-26"
+      "2026-11-26",
+      "2026-11-27"
     ],
     "week": {
-      "label": "Rolling week · Nov 20–Nov 26",
+      "label": "Rolling week · Nov 21–Nov 27",
       "range": [
-        "2026-11-20",
-        "2026-11-26"
+        "2026-11-21",
+        "2026-11-27"
       ],
-      "entries": []
+      "entries": [
+        {
+          "handle": "@cerave",
+          "name": "CeraVe",
+          "hits": 1,
+          "days": 1,
+          "views": 13117,
+          "best": 13117,
+          "best_url": "https://x.com/cerave/status/2125994329567313936"
+        }
+      ]
     },
     "month": {
       "label": "November 2026 · from Nov 1",
       "range": [
         "2026-11-01",
-        "2026-11-26"
+        "2026-11-27"
       ],
-      "entries": []
+      "entries": [
+        {
+          "handle": "@cerave",
+          "name": "CeraVe",
+          "hits": 1,
+          "days": 1,
+          "views": 13117,
+          "best": 13117,
+          "best_url": "https://x.com/cerave/status/2125994329567313936"
+        }
+      ]
     }
   }
 }
