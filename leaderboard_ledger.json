@@ -107,6 +107,18 @@
           "best_url": "https://x.com/cerave/status/2125994329567313936"
         }
       }
+    },
+    "2026-11-28": {
+      "accounts": {
+        "cerave": {
+          "handle": "@cerave",
+          "name": "cerave",
+          "hits": 1,
+          "best": 13931,
+          "total": 13931,
+          "best_url": "https://x.com/cerave/status/2125994329567313936"
+        }
+      }
     }
   }
 }
